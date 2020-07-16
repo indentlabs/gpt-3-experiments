@@ -1,0 +1,40 @@
+
+Name: Golden Nugget
+Made of: Gold
+Description: A lump of gold the size of a hen's egg that is soft to the touch and easy to shape.
+
+Name: Dragon's Tooth
+Made of: A tooth from the Dragon King
+Description: A sharp, gleaming fang that could pierce the toughest armor.
+
+Name: 
+Made of: Dragon bones and gold
+Description: An incense burner for the Jade Emperor.
+
+Name: Red Feather of Courage
+Made of: Feather of a Firebird
+Description: A red feather that turns into a sword with a will of its own when its owner is in danger.
+
+Name: The Feathered Hat
+Made of: A bird's wing
+Description: A feathered hat made from the wing of a rare bird. It will bring its wearer luck.
+
+Name: Bamboo Leaf Fan
+Made of: Bamboo leaf
+Description: A fan made of bamboo leaf used to fan away the mosquitoes in the summer.
+
+Name: Staff of the Stray Wind
+Made of: Wind and wood
+Description: A staff carved out of a single piece of wood. It is light enough to be carried in one hand, but strong enough to break the strongest stone.
+
+Name: The Soul of Magic
+Made of: Gold
+Description: A magical staff used by a mage named Old Liang, who became the king of the Mage Guild after he conquered the world with the power of magic.
+
+Name: Vorpal Sword
+Made of: Black gold and steel
+Description: A sword with a blade so sharp that it can slice through anything.
+
+Name: The "Jade" Fan
+Made of: Wood and stone
+Description: A fan that can summon and control clouds.

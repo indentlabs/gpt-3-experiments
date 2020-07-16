@@ -1,0 +1,9 @@
+Sword: Shadowblade
+The Shadowblade was carved from meteoroid of onyx by the fabled blacksmith Held Majj. After years of sharpening, the blade was finally thinner than its own shadow. It's incredibly brittle, but has the capability to slice through anything at the molecule level.
+
+Sword: Fireblade
+The Fireblade is made from an amalgamation of lava rocks found at the base of the Juroku Volcano after it exploded in 1319. Its properties allow it to be superheated to extreme
+temperatures with ease without melting.
+
+Sword: Iceblade
+The Iceblade was forged out of an alien alloy that remains at near-zero Kelvin, instantly freezing anything it touches. Additionally, the extremely cold temperature has a faint illumination at night, lighting the way for the legendary warrior who wields it.

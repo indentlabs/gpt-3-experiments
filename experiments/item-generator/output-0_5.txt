@@ -1,0 +1,40 @@
+
+Name: The Heart of the Mountain
+Made of: Gold
+Description: A piece of gold that is said to have the same hardness as the mountain itself.
+
+Name: The Imperial Seal
+Made of: Gold and jade
+Description: The Imperial Seal is a symbol of the Emperor's authority.
+
+Name: The Magic Stone
+Made of: The magic stone of the Heavens
+Description: A stone that can amplify the powers of the Heavens and the Earth.
+
+Name: The Flute of the Goddess
+Made of: Ivory
+Description: A flute made from the tusk of a beast of legend. It can call upon the power of the goddess to make its bearer invincible.
+
+Name: The Golden Hammer
+Made of: Gold
+Description: A golden hammer that is able to break any material.
+
+Name: The Blue Dragon
+Made of: Dragon scales
+Description: A giant dragon that guards the secret passageway to the tomb of King Lao.
+
+Name: The Sacred Bow
+Made of: Wood and animal hide
+Description: A bow used by the first king of Shu to unite the people of the land.
+
+Name: The Wand of Death
+Made of: Crystal
+Description: A wand that can be used to cast a spell of death.
+
+Name: The Blood of the Gods
+Made of: A mixture of sacred herbs and medicinal plants
+Description: A transparent, colorless liquid that can be used to heal wounds.
+
+Name: The Sword of Heavens
+Made of: The blade is made of meteoric iron, the hilt is made of gold
+Description: A powerful sword that is said to be able to cleave the sky and the earth.

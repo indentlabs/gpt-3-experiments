@@ -1,0 +1,40 @@
+
+Name: The Sacred Scroll
+Made of: Silk
+Description: A scroll that contains the secrets of the universe.
+
+Name: The Heart of the Mountain
+Made of: A piece of the heart of the Great Mountain
+Description: A red gem that is said to be the heart of the Great Mountain.
+
+Name: The Sword of the Gods
+Made of: A mixture of sacred herbs and medicinal plants
+Description: A transparent, colorless liquid that is a panacea for all kinds of ailments.
+
+Name: The Stone of the Gods
+Made of: A mixture of sacred herbs and medicinal plants
+Description: A transparent, colorless liquid that is a panacea for all kinds of ailments.
+
+Name: The Blood of the Gods
+Made of: A mixture of sacred herbs and medicinal plants
+Description: A transparent, colorless liquid that can cure any disease.
+
+Name: The Water of Life
+Made of: A mixture of sacred herbs and medicinal plants
+Description: A transparent, colorless liquid that can revive the dead.
+
+Name: The Golden Crown
+Made of: Gold
+Description: A golden crown that was worn by the first king of the Chuns.
+
+Name: The Tears of the Gods
+Made of: The sacred tears of the gods
+Description: A transparent, colorless liquid that can cure any disease.
+
+Name: The Jade of the Gods
+Made of: Jade
+Description: A jade carving of a dragon that is said to be able to grant immortality.
+
+Name: The Golden Bell
+Made of: Gold
+Description: A golden bell that can be heard from miles away.

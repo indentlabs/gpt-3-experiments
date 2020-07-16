@@ -9,6 +9,8 @@ All generated texts in this repo are completely unedited and uncurated unless ex
 The following experiments are included in this repository:
 
 * `character-generator` generates fictional characters' names, descriptions, and appearances. 
+* `item-generator` generates fictional items, including a description and the material(s) that item is made of.
+* `sword-generator` generates ficticious swords with a description and legendary backstory.
 
 ## Repository layout
 
