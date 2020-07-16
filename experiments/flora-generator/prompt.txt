@@ -1,0 +1,19 @@
+Flora: Butterbush
+Description: A bright yellow bush that is commonly ground up and put on toast. It has a sweet flavor and a gooey inside that gives it a nice consistency on food.
+Grows in: meadows, near rivers, sparse jungles, coastal regions
+
+Flora: Feedflowers
+Description: Feedflowers consist of artificially-modified genetic strains that include DC-X Implant code. They reproduce as flowers do and maintain periodic network connections to "phone home" with observed camera, sound, and movement sensor data.
+Grows in: gardens, houseplants, open fields
+
+Flora: Lightfi Shrooms
+Description: Large, bell-capped mushrooms that emit an eerie glow from underneath, illuminating small patches of light on the ground like miniature street lamps for scavenging rodents.
+Grows in: dense forests, swamps, bogs, caves
+
+Flora: Ratskin Leather
+Description: A strong, leathery plant that grows across mountain sides, which has a furry hide on either site of its large leaves. The hide is tanned and usually used to make fine gloves, belts, and bags.
+Grows in: mountains, cliffs
+
+Flora: Bone Tree
+Description: A large tree with long, thin branches that end in sharp, claw-like tips. Their bark is smooth and grey, with some bits of bone and teeth scattered along the branches.
+Grows in: swamps, woodlands, forests, deserts

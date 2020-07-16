@@ -1,0 +1,40 @@
+
+Flora: Bloodroot
+Description: A small, red flower that grows in clusters. It has a sweet, pleasant smell, but when crushed, it releases a red, sticky sap that is poisonous.
+Grows in: meadows, forests, swamps, bogs
+
+Flora: Bloodroot
+Description: A small, red flower that grows in clusters. It has a sweet, pleasant smell, but when crushed, it releases a red, sticky sap that is poisonous.
+Grows in: meadows, forests, swamps, bogs
+
+Flora: Bloodroot
+Description: A small, red flower that grows in clusters. It has a sweet, pleasant smell, but when crushed, it releases a red, sticky sap that is poisonous.
+Grows in: meadows, plains, hills, forests
+
+Flora: Bloodroot
+Description: A small, red flower that grows in clusters. It has a sweet, pleasant smell, but when crushed, it releases a red, sticky sap that is poisonous.
+Grows in: meadows, forests, swamps, bogs
+
+Flora: Bloodroot
+Description: A small, red flower that grows in clusters. It has a sweet, pleasant smell, but when crushed, it releases a red, sticky sap that is poisonous.
+Grows in: meadows, plains, hills, forests
+
+Flora: Bloodroot
+Description: A small, red flower that grows in clusters. It has a sweet, pleasant smell, but when crushed, it releases a red, sticky sap that is poisonous.
+Grows in: meadows, forests, swamps, bogs
+
+Flora: Bloodroot
+Description: A small, red flower that grows in clusters. It has a sweet, pleasant smell, but when crushed, it releases a red, sticky sap that is poisonous.
+Grows in: meadows, forests, swamps, bogs
+
+Flora: Bloodroot
+Description: A small, red flower that grows in clusters. It has a sweet, pleasant smell, but when crushed, it releases a red, sticky sap that is poisonous.
+Grows in: meadows, plains, forests, swamps
+
+Flora: Bloodroot
+Description: A small, red flower that grows in clusters. It has a sweet, pleasant smell, but when crushed, it releases a red, sticky sap that is poisonous.
+Grows in: meadows, plains, hills, forests
+
+Flora: Bloodroot
+Description: A small, red flower that grows in clusters. It has a sweet, pleasant smell, but when crushed, it releases a red, sticky sap that is poisonous.
+Grows in: meadows, forests, swamps, bogs

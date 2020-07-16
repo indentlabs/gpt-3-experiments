@@ -1,0 +1,40 @@
+
+Flora: Rattleweed
+Description: A plant that grows from a large, brown seed. The plant grows to be about three feet tall and produces large, purple flowers. When the flowers are pollinated, they grow into a large, purple seed pod that rattle around.
+Grows in: plains, meadows, open fields
+
+Flora: The Glowing Mushroom
+Description: A large, white mushroom with a red cap that glows in the dark. It is usually found in caves and is very valuable for growing underground.
+Grows in: caves, deep forests, swamps
+
+Flora: Blood Tree
+Description: A tree with a large trunk and thin branches. The branches are lined with large, blood-red leaves and the bark is a dark grey.
+Grows in: mountains, forests, swamps, deserts
+
+Flora: Blood Lily
+Description: A lily that has a dark red flower and red leaves. It grows in swamps and marshes, and is often used as a decoration.
+Grows in: swamps, marshes, wetlands
+
+Flora: Grubs
+Description: Small, fat, worm-like creatures that live in the ground. They are often eaten by various animals, and are commonly used as bait by humans.
+Grows in: grasslands, meadows, forests, swamps, deserts
+
+Flora: Snake Weed
+Description: A tall, slender plant with a long, thin stem and large, dark green leaves. It has a large seed pod that grows from the top of the stem and can be found growing in most biomes.
+Grows in: forests, plains, meadows, grasslands, bogs, swamps, mountains, caves
+
+Flora: Rosewood
+Description: A tall tree with long, thin branches that end in sharp, claw-like tips. Their bark is smooth and grey, with some bits of bone and teeth scattered along the branches.
+Grows in: swamps, woodlands, forests, deserts
+
+Flora: Cactus
+Description: A large, spiky plant that grows in desert areas. The flesh of the plant is edible and has a very sweet taste.
+Grows in: deserts, near beaches
+
+Flora: Rockweed
+Description: A plant that grows in rocky areas. It has a brown, fibrous stalk with purple and red flowers.
+Grows in: rocky areas, bogs, marshes, hills, plains
+
+Flora: Meat Tree
+Description: A large tree that grows from the flesh of a long-dead creature. It has a hollow trunk that is filled with muscle and bone, and the branches are long and sharp.
+Grows in: swamps, woodlands, forests, deserts

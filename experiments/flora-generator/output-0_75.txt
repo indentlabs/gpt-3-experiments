@@ -1,0 +1,40 @@
+
+Flora: Deathstalk
+Description: A tall, slender stalk with a bulbous top that is covered in a thick, white mucus. The stalk grows slowly but contains a very strong neurotoxin.
+Grows in: deserts, caves, ruins, mountains
+
+Flora: Slugcorn
+Description: Small, yellow-green spheres of partially digested corn with tiny antennae. They are occasionally eaten by scavengers but their texture makes them almost inedible.
+Grows in: farmlands, fields, open plains, small forests
+
+Flora: Burnwood
+Description: An unusual tree that burns like wood, but has a slight sparkle to it. Its ashes are usually thrown onto fires to add an extra bit of magic.
+Grows in: all climates
+
+Flora: Hookahvine
+Description: A strange and curious vine that usually only grows from a hookah pipe if the water bowl inside is left uncovered. It grows from the bowl to the stem and produces large, green leaves with a strange texture.
+Grows in: hookah pipes, hookah bars
+
+Flora: Glowing Mushrooms
+Description: A fungus that grows in a spherical shape with a warm, yellow glow to it. Some can be found on the ceilings of caves, others are ground up and used in small amounts as a seasoning in certain dishes.
+Grows in: caves, shallow areas
+
+Flora: Helltree
+Description: A thick, gnarled tree with twisting branches and thorns. It has a grey trunk and black, rough bark. Its fruit is black and juicy, but highly toxic.
+Grows in: dense forests, swamps, bogs, caves
+
+Flora: Blood Flower
+Description: Blood flowers have a long, leafless stem with a pink flower at the top. It grows a thick, fleshy flower bud with an orange center that is quite delicious. The flower bud will bleed when cut, but the bleeding stops as soon as the bud is picked.
+Grows in: swamps, bogs, gardens, forests
+
+Flora: Snakeskin Plant
+Description: A long, black vine that grows like a weed, but with a greenish sheen. The leaves are serrated and the fruit grows in bunches. The fruit looks like a cluster of dark green grapes.
+Grows in: gardens, meadows, forests
+
+Flora: Sky Nut
+Description: A small tree with sparse branches that usually grow at a slant. Its leaves are small and resemble needles, while its nuts resemble pinecones and grow on the ends of the branches. The bark of the tree is soft and rubbery.
+Grows in: deserts, dry forests, rocky hills, barren fields
+
+Flora: Snowfield Gourd
+Description: An orange and white-spotted gourd that can be found growing in snowfields. It is said that it grows well only in cold, high altitudes.
+Grows in: snowy mountains

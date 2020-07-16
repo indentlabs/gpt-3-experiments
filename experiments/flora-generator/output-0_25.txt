@@ -1,0 +1,40 @@
+
+Flora: Scented Fern
+Description: A fern that has a sweet, pleasant smell. It is often used in cooking.
+Grows in: meadows, forests, jungles, plains
+
+Flora: Tree of Life
+Description: A large, ancient tree that is the only source of the rare, life-giving sap that can cure the infected.
+Grows in: forests, jungles, swamps
+
+Flora: Rope Tree
+Description: A tree that grows long, thin vines that are used to make rope. The tree itself is very tall and thin, with a large canopy.
+Grows in: forests, woodlands, swamps, deserts
+
+Flora: Bloodleaf
+Description: A small, red leaf that grows on a thin stem. It is commonly used in cooking, and is often ground up and put on toast.
+Grows in: meadows, near rivers, sparse jungles, coastal regions
+
+Flora: Gatorweed
+Description: A large, fleshy plant that grows in swamps and bogs. It has a tough, leathery skin that is often used to make bags and belts.
+Grows in: swamps, bogs, marshes
+
+Flora: Rattleweed
+Description: A tall, thin plant with a single, large leaf at the top. The leaf is covered in a fine layer of dust, which makes a rattling sound when the wind blows.
+Grows in: plains, savannas, grasslands, open fields
+
+Flora: The Deadwood
+Description: A tree that grows in the most barren of places, the Deadwood is a twisted, gnarled tree that has no leaves and is covered in a dark, almost black bark. It is said that the Deadwood is the only tree that can grow in the most barren of places, and that it is a symbol of hope.
+Grows in: deserts, rocky plains, barren hills
+
+Flora: Blueberry Bush
+Description: A small bush with dark green leaves and small, blue berries. The berries are sweet and juicy, and are commonly used in desserts.
+Grows in: meadows, near rivers, sparse jungles, coastal regions
+
+Flora: Moss-Covered Trees
+Description: A large tree with long, thin branches that end in sharp, claw-like tips. Their bark is smooth and grey, with some bits of bone and teeth scattered along the branches.
+Grows in: swamps, woodlands, forests, deserts
+
+Flora: Bloodroot
+Description: A red flower that grows in clusters. It has a very strong, pungent smell, and a bitter taste.
+Grows in: meadows, plains, hills, mountains
