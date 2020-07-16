@@ -1,40 +1,40 @@
 
-Name: Edward Rubens
-Description: A kind and honest mailman who lives in town. He often takes his work home with him.
-Appearance: He wears a small uniform with a hat. He has a short beard and moustache.
+Name: Jane Clementz
+Description: Joe's wife, who has a mild form of muscular dystrophy.
+Appearance: She is always seen wearing a hat and a long shirt to hide her deformed right arm.
 
-Name: Gulliver Lugg
-Description: A very talented sculptor and painter. He lives with his father Ebeneezer in the forest behind the Jung Pub.
-Appearance: He wears large, white pants and large, white shirts. His hair is long and his eyes are always closed.
+Name: Lucas Nickleson
+Description: A young man who works as a guard at the Morgen Mansion. He's too nice to really be a guard, but can't bring himself to quit.
+Appearance: Lucas is tall and skinny with long, brown hair. He wears a guard uniform.
 
-Name: Ophelia Lugg
-Description: A morbidly obese woman who can often be seen working at the local bar, The Meat Hook. She is the mother of Gulliver Lugg.
-Appearance: She wears a big apron and has short hair.
+Name: Hannah Clementz
+Description: Joe's wife. She has a slight learning disability that hinders her communication skills.
+Appearance: She has long brown hair, a brown dress, and always wears a red bandana.
 
-Name: Dr. Myron Broke-nose
-Description: A greedy, snooty man who lives in a big, fancy house at the top of the mountain. He enjoys taking walks around town, even though it exhausts him.
-Appearance: He has a large nose and wears large, extravagant suits. He has a limp, which he usually hides with his cane.
+Name: Phoebe Clementz
+Description: Joe's wife, who is blind and deaf. She communicates through a note pad and a large white wolf named Wolfie.
+Appearance: Phoebe is an attractive woman, but is always in bed because she is blind and deaf. She wears a large, pink dress. Her hair is always in pigtails.
 
-Name: Sarah Clementz
-Description: A quiet woman who works at the local farm. She is very shy and almost never leaves her house.
-Appearance: She is very small and thin. She always wears a dress.
+Name: Jill Clementz
+Description: Joe's wife who is wheelchair-bound and is a paraplegic. She's very sickly, but doesn't let it get in the way of life.
+Appearance: She has long blonde hair and wears dresses with socks and sandals.
 
-Name: Kate Foster
-Description: Joe Clementz's wife. She can't walk, but is as sweet as they come.
-Appearance: A woman in a wheelchair with black hair.
+Name: Katie Clementz
+Description: Joe Clementz's wife. A sweet, innocent, and blind girl.
+Appearance: She is the typical farmer's wife. She has shoulder-length hair and wears an apron. She's completely blind and relies on others to guide her.
 
-Name: Hazel Clementz
-Description: Joe Clementz' wife. She has multiple sclerosis, and is usually confined to her wheelchair.
-Appearance: She has long brown hair and wears large glasses. She is very frail and has a slight hunchback.
+Name: Jason Lugg
+Description: An overworked young man who lives with his father at the far edge of town. He is a farmer and carpenter, as well as his father's caretaker.
+Appearance: Jason wears a jacket and slacks to work, and spends the rest of his time in overalls. He has a red beard and a farmer's tan.
 
-Name: Louis Deluq
-Description: A young boy that's taken a liking to Casey. Louis likes to get in trouble and usually ends up in the mayor's office.
-Appearance: Louis is short, but has a strong build. He's usually seen wearing jeans and a t-shirt.
+Name: Gregory Mungo
+Description: A man who's rarely seen without his trusty hunting rifle. His favorite pastimes are hunting and gambling.
+Appearance: He wears a brown leather jacket, a thick fur cap, and has a mustache.
 
-Name: Candace Clementz
-Description: Joe's wife. She's unable to walk or do much of anything because of a past injury.
-Appearance: She wears her hair in a bun and has an extremely thick coat on to keep warm.
+Name: Howard Benson
+Description: An old man who spends his days on the bench by the river, feeding the ducks. He seems to enjoy just sitting there.
+Appearance: His clothes are always clean and neat, and his hair is always combed. He has a red beard that looks like it was styled that way.
 
-Name: Sybil Tilly
-Description: An old woman who lives alone at the edge of town. She is always busy knitting scarves.
-Appearance: She is very old, but is always seen knitting. She has very little hair, but the rest of her body is completely covered in thick sweaters.
+Name: James Manly
+Description: An up-and-coming hero. He works part-time at the local tavern.
+Appearance: He has a large frame and often wears dark clothing to compliment it.

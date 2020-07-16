@@ -1,40 +1,40 @@
 
-Name: Gulliver Lugg
-Description: A young man who lives in the forest behind the Jung Pub with his father Ebeneezer. He's a little slow, but very kind.
-Appearance: He's tall and skinny, with a large nose and ears. He wears a green shirt and brown pants.
+Name: Jason Lugg
+Description: A young man who lives in the forest with his father Ebeneezer. He is a bit of a hermit and has a knack for building things.
+Appearance: He has a very short haircut and is often seen wearing a dirty white shirt and overalls.
 
-Name: Mrs. Clementz
-Description: A woman who has been disabled since birth. She is unable to walk or talk, but she can still think and feel.
-Appearance: She is in a wheelchair and has a large bandage over her eyes.
+Name: Simon Morgen
+Description: A young man who lives in the Morgen Mansion. He's a bit of a slacker, but he's a good guy.
+Appearance: He has long, brown hair and a short beard. He wears a long, brown coat and a red shirt.
 
-Name: Gulliver Lugg
-Description: A young man who lives in the forest behind the Jung Pub with his father Ebeneezer. He is a skilled hunter and tracker.
-Appearance: He has a full beard and long hair. He wears a green vest and brown pants.
+Name: Jason Lugg
+Description: A young man who lives in the forest with his father Ebeneezer. He's a skilled hunter and tracker.
+Appearance: He wears a red bandana and has a large scar on his face.
 
-Name: Gulliver Lugg
-Description: A young man who lives in the forest behind the Jung Pub with his father Ebeneezer. He's a bit of a loner.
-Appearance: He wears a green shirt and brown pants. His hair is long and messy.
+Name: Jessica Clementz
+Description: Joe's wife. She is disabled and unable to walk. She is very sweet and kind, but is very bitter about her situation.
+Appearance: She has long, brown hair and wears a blue dress. She is in a wheelchair.
 
-Name: The Captain
-Description: A mysterious man who lives in a small cabin in the woods. He's very quiet and keeps to himself.
-Appearance: He's tall and lanky, with a long beard and long hair. He wears a black cloak and a wide-brimmed hat.
+Name: Lillian Clementz
+Description: Joe's wife. She is disabled and cannot walk. She is a very kind woman who loves her family.
+Appearance: She has long, brown hair and a sweet smile. She wears a long, white dress.
 
-Name: Gulliver Lugg
-Description: A strange man who lives in the forest behind the Jung Pub. He's a bit of a hermit, but loves to tell stories.
-Appearance: He's tall and lanky, with a long beard and a head of hair to match. He wears a red shirt and overalls.
+Name: Jason Lugg
+Description: A young man who lives in the forest with his father Ebeneezer. He is a talented carpenter.
+Appearance: He has a scruffy beard and long hair. He wears a plain shirt and pants.
 
-Name: Gulliver Lugg
-Description: A young man who lives in the forest behind the Jung Pub with his father Ebeneezer. He's a bit of a hermit.
-Appearance: He wears a green hat and a brown cloak. He has a full beard and a long, bushy mustache.
+Name: Jason Lugg
+Description: A young man who lives in the forest with his father Ebeneezer. He's an expert at hunting and fishing.
+Appearance: He wears a leather jacket and has a bandana tied around his head.
 
-Name: Mrs. Clementz
-Description: A disabled woman who is unable to walk. She spends most of her time in bed.
-Appearance: She has long, dark hair and a pale complexion. She wears a long, white nightgown.
+Name: Dora Clementz
+Description: Joe's wife. She is disabled and can't walk. She spends most of her time in bed.
+Appearance: She has long, dark hair and wears a pink nightgown.
 
-Name: Gulliver Lugg
-Description: A young man who lives in the forest behind the Jung Pub with his father Ebeneezer. He's a bit of a troublemaker.
-Appearance: He has long, unkempt hair and a beard. He wears a long, brown coat and carries a bow and quiver of arrows.
+Name: Kip McWhirter
+Description: A young man who is the son of the local mayor. He's a bit of a troublemaker, but he's a good kid at heart.
+Appearance: He has short, brown hair and a clean-shaven face. He wears a white shirt and blue jeans.
 
-Name: Mayor George
-Description: The mayor of the town. He's a nice guy, but not the brightest.
-Appearance: He's a short, fat man with a mustache. He wears a suit and a top hat.
+Name: J.D.
+Description: A man who lives in the forest. He's a recluse and doesn't like to be bothered.
+Appearance: He's tall and lanky, with a long beard and a wild mane of hair. He wears a cloak and carries a staff.

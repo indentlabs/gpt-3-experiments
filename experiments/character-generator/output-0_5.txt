@@ -1,40 +1,40 @@
 
-Name: Father Maxi
-Description: The local priest who has been living in the town for decades. He is very knowledgeable about the town's history.
-Appearance: He is a tall, slender man with a long, white beard. He wears a white cassock with a black cross on the front.
+Name: Abigail Clementz
+Description: Joe's wife. She is disabled and needs a wheelchair to get around. She is a sweet and loving woman.
+Appearance: She has short brown hair and wears a light blue dress.
 
-Name: Harold (Hal) B. Halton
-Description: A man who lives on the mountain with his wife and daughter. He is the owner of the forest that surrounds the town.
-Appearance: Hal is an older man with a long, white beard. He always wears a brown jacket with a fur collar.
+Name: Melissa Clementz
+Description: Joe's wife. She's confined to a wheelchair and can't do much on her own.
+Appearance: She has short, brown hair and is very thin. She's in her mid-thirties.
 
-Name: Gulliver Lugg
-Description: A slightly off-putting man who lives in the forest behind the Jung Pub. He's quiet and has a knack for disappearing into the woods.
-Appearance: He wears a black cloak and has a long beard.
+Name: Dr. Theodore N. Tinkles
+Description: A very serious doctor who lives in a small cabin near the town. He has a large practice, but is known to take on a lot of personal patients.
+Appearance: He wears a long white coat and always has a stethoscope around his neck.
 
-Name: Gulliver Lugg
-Description: A boy who lives in the forest behind the Jung Pub with his father Ebeneezer. He is very good at playing the flute.
-Appearance: He has brown hair and is usually seen wearing a white shirt and blue overalls.
+Name: Sheriff Dave Hanson
+Description: The sheriff of New Jungsberg. He is a firm believer in the law, but he is also a man of his word.
+Appearance: He is a tall man with a full head of brown hair. He wears a uniform and a cowboy hat.
 
-Name: Olivia Clementz
-Description: A woman who has been disabled since she was a child. She has to be cared for by her husband Joe.
-Appearance: She is very short and has very long hair. She wears a lot of jewelry and is very well put together.
+Name: Darlene
+Description: A young woman who is very fond of Joe. She has a crush on him, but he doesn't seem to notice.
+Appearance: She has brown hair and dresses like a tomboy.
 
-Name: Oliver Beck
-Description: A kind man who runs the local church. He is a widower and has a child named Leah.
-Appearance: Oliver is a large man with a full beard. He wears a black suit and a hat to match.
+Name: Cassandra "Cassie" Black
+Description: A teenage girl who works at the local library. She is often seen wearing a blue dress.
+Appearance: She has long, brown hair and a round face.
 
-Name: Jenny Clementz
-Description: Joe's wife. She has a disease that has left her paralyzed and bed-ridden.
-Appearance: Jenny has long, brown hair and wears a large hat to cover her head.
+Name: Jason Lugg
+Description: An awkward young man who lives in the forest with his father Ebeneezer. He has a strange relationship with the creatures of the forest.
+Appearance: He's tall and lanky with brown hair and a long nose.
 
-Name: Beatrice Clementz
-Description: Joe's wife. She is disabled and cannot walk. She spends most of her time in bed.
-Appearance: She has long brown hair and wears a white nightgown.
+Name: Rachel Clementz
+Description: A disabled woman who lives with her husband and three kids. She is often sick and unable to get out of bed.
+Appearance: She is pale and frail. Her hair is always tied back in a bun.
 
-Name: Gulliver Lugg
-Description: A lazy man who lives in the forest behind the Jung Pub.
-Appearance: He's typically wearing a vest and has a full beard.
+Name: Dan Maitland
+Description: A strange man who lives in the forest. He is known for having a good eye for art and can often be found wandering the streets.
+Appearance: He is tall and thin, with a large nose and long hair. He is usually seen wearing a large coat and tie.
 
-Name: Silas B. Cobb
-Description: A tall, muscular man with a kind heart. He's the head of the town guard and the sheriff.
-Appearance: He's usually wearing a white shirt and brown pants. He has a black belt with a gold buckle.
+Name: Lisa Clementz
+Description: Joe's wife, who suffers from an unknown illness. She's mostly bed-ridden and relies on Joe to take care of her.
+Appearance: She's a little overweight and has long brown hair.

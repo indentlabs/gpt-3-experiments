@@ -1,54 +1,55 @@
 
-Name: Eve Monroe
-Description: The widow of Hugh Monroe who runs a venue restaurant and generally keeps to herself.
-Appearance: She is a withered old woman who keeps her hair in a bun. Always wears an apron and dress.
+Name: John Newt
+Description: A man that owns all of the potato orchards up the canyon. He is known to be a tough but fair business man. 
+Appearance: John has a square jaw and is tall and powerfully built. He typically wears overalls and a white shirt.
+Appearance: A woman that owns the outdoor shop at the far edge of town. She seems more concerned with the wilderness surrounding town than anything else. 
+Appearance: A younger woman who lives at the far side of town. She is shy and reserved, but nice.
+Appearance: A woman who's obsessed with the art of flowers. She often travels outside the town to look for new plants to add to her collection. 
+Appearance: A large and strong man with long blonde hair. The whole appearance is intimidating. A local that works for the town blacksmith. Ever since the wars ended, he's struggled financially, having trouble with money and a gambling. 
+Appearance: He has short, messy blonde hair. He keeps his body in good shape, often seen working out in the fields. 
+Appearance: An old man that lives in the forest behind Jung's Pub. He is constantly trying to start arguments with Ebeneezer. 
+Appearance: Wears a blacksmith apron everywhere. A moustache that is quickly turning silver.
+Appearance: A doctor that lives in the small apartment above the town clinic. He is mean and often yells at his patients. 
+Appearance: A tall and skinny man, and usually seen walking about town. He has a wispy chest and head of hair.
+Appearance: A larger man with wild, shoulder-length hair. He keeps to himself and lives up in the mountains. 
+Appearance: Pleasant and easy going, he can often be found doing chores in the fields or around town. 
+Appearance: The town journalist and barkeeper at the Dig Pub. She is obsessed with making lists, often talking about it when others talk to her. 
+Appearance: She's a short and fat middle-aged woman, and always wearing a dirty apron that says 'work harder'.
+Appearance: A barmaid that works at the Wild Rose Pub. She is a slightly dim woman who often has hallucinations.
+Appearance: Blonde hair, in a ponytail. Big green eyes and fiery red lipstick. Dresses scantily with an accent of black.
 
-Name: Gulliver Lugg
-Description: Son of the Jung Pub owner and local handyman. He's a bit fond of adventure.
-Appearance: A happy, jubilant young boy. Very cheerful and generally puts a smile on the face of anyone he walks past.
+Name: Brent & Katherine Abcherdinger
+Description: A young married couple who live outside of Bald Cap Corner down the dirt road, near where Dobie and Quincy live.
+Appearance: He wears overalls, while she wears dresses and a bonnet. Both have very fair skin.
 
-Name: Alice's mother
-Description: A loving mother to Alice and wife to a faraway husband. Though rarely seen, her cooking skills are legendary in Bomin.
-Appearance: She has blonde hair just like Alice.
+Name: Alistair Hammond
+Description: A rich, studious man who insists on speaking properly, no matter the company. Lee's uncle.
+Appearance: Always wearing a bowtie over a button up shirt and dress pants.
 
-Name: Frank Fhedon
-Description: The sadistic jailor. Has thick neck and loves being the center of attention.
-Appearance: Frank has a short beard and thinning brown hair. His clothes are slick and flashy.
+Name: Jason Lugg
+Description: The best blacksmith in Albert Town. Some say he's a recluse due to his injured arm.
+Appearance: Jason has a big bushy mustache and bright, foggy eyes. He wears his pants at a very low setting, exposing his woman's underwear.
 
-Timeline
-January 11, 2010: Morgen Fracture of the Leg.
-January 14, 2010: Bullied Fracture of the Arm.
-January 21, 2010: Phrenic Plexus Nerve Injection.
-January 28, 2010: Third Page.
-February 21, 2010: Lunch with Joe's Granny.
-June 5, 2010: Pharypharynx Rupture.
-July 10, 2010: Risky Trip to Morgantown.
-July 25, 2010: Morgantown Heart Patrol.
-October 6, 2010: Crabby Spy Panic.
-November 15, 2010: Graves' Anxiety Flare.
-December 12, 2010: Silverdale Bones and Death.
-February 1, 2011: Goldenseal.
-February 8, 2011: Compacted Snow.
-February 26, 2011: The Approaching Story.
-March 24, 2011: Mrs. Sunderson's Memories.
-April 21, 2011: Crazy Bluebird on Revenge.
-April 23, 2011: Break-up Baggage.
+Name: Jerome Dupree
+Description: A timid man who lives all by himself. One of his hands is comically larger than his body -- scar tissue from a burn.
+Appearance: Jerome wears round goggles to hide his large eyes. Below his shirt he has a scarf wrapped around his body, and he spends most of his time with two large pets.
 
-Name: Slaw
-Goes by "Slaw the Absolut". A boy the same age as Nick/Janice. He knows everyone in the town and can talk to them better than anyone. He is completely fearless, and incredibly cold. He is very, very good looking.
+Name: Dr. Cerebro
+Description: A psychiatrist who tries to help control the population of Alzheimers Village. 
+Appearance: Dr. Cerebro is particularly cruel and seems to enjoy his job way too much.
 
-Name: Charlie Dowell
-Description: A friend and fellow husband to Jonesy's late wife, Margaret.
-Appearance: He is moderately tall and overweight. He's constantly eating cookies to stay busy and, as a result, has a few crumbs stuck in his beard. He has a visible metal pin in his leg.
+Name: Selena Clementz
+Description: Joe's wife. She broke her back in an accident in her youth, and was critically injured in the Whale Tree Fire.
+Appearance: She's quiet, due to her illness and always keeps her pain medicine on. She's skinny and weak but still pushes through. Has short brunette hair.
 
-Name: Samuel Swift
-Description: An intellectual man who writes for the town newspaper and teaches Joe Clementz's oldest son Robert at the Library on Friday nights. 
-Appearance: Incredibly smart-looking, with many streaks of grey in his black mane of hair.
-Appearance: Old and bald with an ample gut.
+Name: Brain Temperature
+Description: Formerly ACME product. Now his own brand.
+Appearance: Temp-Ture measures roughly a foot long. His bright red and blue color scheme can make him easy to lose on a table top.
 
-Everlight Entertainment's Team Salt has two projects in the works at IndiePub Design Studios. A partnership offering with the IndiePub office in Edmonton, Alberta, Canada.
+Name: Janet Clementz
+Description: Joe's wife. She's stricken with multiple sclerosis, but considering her circumstances it could be worse. 
+Appearance: Janet is very short and very slim. She has straight brown hair usually put into a messy ponytail. 
 
-Name: Lucille Clementz
-Description: Joe's disabled wife. After working in her horticulture career for a good 20 years, she underwent a surgery and lost the use of her legs. 
-Appearance: A woman with long gray hair. She wears a thin, light purple nightgown.
-Appearance: All of last years produce is still on display in the grocery store windows.
+Name: Dr. Hans West
+Description: A somewhat shady doctor. He'll bandage just about anything, but is known to charge a bit more for those who might need him.
+Appearance: A very grizzled man (think old west) in the later stages of his life. White beard and hair with dodgy clock glasses.

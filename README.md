@@ -1,6 +1,6 @@
 #  GPT-3 Experiments for Worldbuilding
 
-This repo contains example prompts for OpenAI's GPT-3 API and the resulting AI-generated texts for an assortment of tasks. Each task is meant to illustrate how GPT-3 can be used in the worldbuilding process for writers, game designers, roleplayers, and other worldbuilders. Each experiment's prompt is also designed to be populated with notebook data from Notebook.ai, which should result in output more personalized to fit better into worlds in progress.
+This repo contains example prompts for OpenAI's GPT-3 API and the resulting AI-generated texts for an assortment of worldbuilding tasks. Each task is meant to illustrate how GPT-3 can be used in the worldbuilding process for writers, game designers, roleplayers, and other worldbuilders. Each experiment's prompt is also designed to be populated with notebook data from [Notebook.ai](https://www.notebook.ai), which should result in output more personalized to fit better into worlds in progress.
 
 All generated texts in this repo are completely unedited and uncurated unless explicitly stated otherwise.
 
@@ -34,4 +34,4 @@ You will also need your OpenAI secret key set in the environment variable `OPENA
 
 ## Disclaimer
 
-This repository has no affiliation with OpenAI.
+This repository has no affiliation with OpenAI and was inspired by the thought-provoking repo by @minimaxir of [the same name](https://github.com/minimaxir/gpt-3-experiments).

@@ -1,40 +1,40 @@
 
-Name: Gulliver Lugg
-Description: A young man who lives in the forest behind the Jung Pub with his father Ebeneezer. He's a bit of a troublemaker.
-Appearance: He has a long, scraggly beard and a wild head of hair. He wears a leather vest and a pair of overalls.
+Name: Jason Lugg
+Description: A young man who lives in the forest with his father Ebeneezer. He's a bit of a troublemaker.
+Appearance: He has a full beard and a balding head. His clothes are old and falling apart, but still do the job -- for the most part.
 
-Name: Gulliver Lugg
-Description: A young man who lives in the forest behind the Jung Pub with his father Ebeneezer. He's a bit of a troublemaker.
-Appearance: He has a long, scraggly beard and a wild head of hair. He wears a leather vest and a pair of overalls.
+Name: Jason Lugg
+Description: A young man who lives in the forest with his father Ebeneezer. He's a bit of a troublemaker.
+Appearance: He has a full beard and a balding head. His clothes are old and falling apart, but still do the job -- for the most part.
 
-Name: Gulliver Lugg
-Description: A young man who lives in the forest behind the Jung Pub with his father Ebeneezer. He's a bit of a troublemaker.
-Appearance: He has a long, scraggly beard and a wild head of hair. He wears a leather vest and a pair of overalls.
+Name: Jason Lugg
+Description: A young man who lives in the forest with his father Ebeneezer. He's a bit of a troublemaker.
+Appearance: He has a scruffy beard and long hair. He wears a leather jacket and jeans.
 
-Name: Gulliver Lugg
-Description: A young man who lives in the forest behind the Jung Pub with his father Ebeneezer. He's a bit of a troublemaker.
-Appearance: He has a long, scraggly beard and a wild head of hair. He wears a leather vest and a pair of overalls.
+Name: Jason Lugg
+Description: A young man who lives in the forest with his father Ebeneezer. He's a bit of a troublemaker.
+Appearance: He has a full beard and a balding head. His clothes are old and falling apart, but still do the job -- for the most part.
 
-Name: Gulliver Lugg
-Description: A young man who lives in the forest behind the Jung Pub with his father Ebeneezer. He's a bit of a troublemaker.
-Appearance: He has a long, scraggly beard and a wild head of hair. He wears a leather vest and a pair of overalls.
+Name: Jason Lugg
+Description: A young man who lives in the forest with his father Ebeneezer. He's a bit of a troublemaker.
+Appearance: He has a full beard and a balding head. His clothes are old and falling apart, but still do the job -- for the most part.
 
-Name: Gulliver Lugg
-Description: A young man who lives in the forest behind the Jung Pub with his father Ebeneezer. He's a bit of a troublemaker.
-Appearance: He has a long, scraggly beard and a wild head of hair. He wears a leather vest and a pair of overalls.
+Name: Jason Lugg
+Description: A young man who lives in the forest with his father. He's a bit of a loner, but is very kind to those he knows.
+Appearance: He wears a green shirt and brown pants. His hair is long and brown.
 
-Name: Gulliver Lugg
-Description: A young man who lives in the forest behind the Jung Pub with his father Ebeneezer. He's a bit of a troublemaker.
-Appearance: He has a long, scraggly beard and a wild head of hair. He wears a leather vest and a pair of overalls.
+Name: Jason Lugg
+Description: A young man who lives in the forest with his father Ebeneezer. He's a bit of a troublemaker.
+Appearance: He has a full beard and a balding head. His clothes are old and falling apart, but still do the job -- for the most part.
 
-Name: Gulliver Lugg
-Description: A young man who lives in the forest behind the Jung Pub with his father Ebeneezer. He's a bit of a troublemaker.
-Appearance: He has a long, scraggly beard and a wild head of hair. He wears a leather vest and a pair of overalls.
+Name: Jason Lugg
+Description: A young man who lives in the forest with his father Ebeneezer. He's a bit of a troublemaker.
+Appearance: He has a full beard and a balding head. His clothes are old and falling apart, but still do the job -- for the most part.
 
-Name: Gulliver Lugg
-Description: A young man who lives in the forest behind the Jung Pub with his father Ebeneezer. He's a bit of a troublemaker.
-Appearance: He has a long, scraggly beard and a wild head of hair. He wears a leather vest and a pair of overalls.
+Name: Jason Lugg
+Description: A young man who lives in the forest with his father. He's a bit of a troublemaker, but he's a good kid.
+Appearance: He has a full beard and a balding head. His clothes are old and falling apart, but still do the job -- for the most part.
 
-Name: Gulliver Lugg
-Description: A young man who lives in the forest behind the Jung Pub with his father Ebeneezer. He's a bit of a troublemaker.
-Appearance: He has a long, scraggly beard and a wild head of hair. He wears a leather vest and a pair of overalls.
+Name: Jason Lugg
+Description: A young man who lives in the forest with his father Ebeneezer. He's a bit of a troublemaker.
+Appearance: He has a full beard and a balding head. His clothes are old and falling apart, but still do the job -- for the most part.

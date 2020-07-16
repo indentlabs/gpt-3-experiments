@@ -11,7 +11,7 @@ Description: A slightly greedy man who lives in the Morgen Mansion up the mounta
 Appearance: He's typically seen wearing a suit and rarely in anything else.
 
 Name: Ebeneezer Jung
-Description: An old widower that runs the Jung Pub. Lives in the forest behind the Pub with his son Gulliver Lugg.
+Description: An old widower that runs the Jung Pub. Lives in the forest behind the Pub with his son Jason Lugg.
 Appearance: Usually wearing overalls. Very tanned from working outside. Strong and hairy.
 
 Name: Dr. Milton Malicious
