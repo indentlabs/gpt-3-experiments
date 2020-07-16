@@ -1,0 +1,23 @@
+Disease: Gigantism
+Effects: Someone with Gigantism rapidly grows during childhood to the size of an adult, and then continues to grow unbounded for the rest of their largely-shortened adult life.
+Prognosis: There is no cure for gigantism and the increased strain on the body makes this disease largely lethal. When this disease is contracted by an Immortal, it takes approximately 200 years for them to reach Titan size and status.
+
+Sickness: Sunwrath
+Effects: A victim inflicted with Sunwrath will find themselves with itchy, red skin that stings painfully. Occasionally, boils may develop. Eventually, the skin will blacken and peel away.
+Prognosis: Sunwrath will clear on its own after two to three weeks. Symptoms should be treated for maximum comfort.
+
+Disease: Isolde's Disease
+Effects: Someone affected by Isolde's Disease (ID) loses the ability to see curved lines and instead sees the world in a warped view of straight lines and blocks.
+Prognosis: Those with ID often cannot navigate the world by themselves and need treatment and assistant similar to what is available to the blind. There is no known cure for Isolde's Disease.
+
+Disease: Wartweed
+Effects: Wartweed is a contagious disease that causes small, wart-like growths to appear on the skin. These growths can be removed, but they will continue to grow back.
+Prognosis: Wartweed is not lethal, but the pain and disfigurement can be debilitating. There is no known cure for Wartweed.
+
+Sickness: Parrot Fever
+Effects: Those infected with Parrot Fever will find themselves repeating the same phrase over and over. This phrase is usually one that the infected has said or heard recently.
+Prognosis: The urge to repeat the phrase will fade over time and will eventually disappear if not heard.
+
+Disease: Sanguinaria
+Effects: A victim of Sanguinaria has their blood replaced by a highly-toxic red chemical. Prolonged exposure to air causes the chemical to explode.
+Prognosis: The disease can be countered by injecting the victim with an anti-coagulant, but even then, victims will have to be careful around fire.

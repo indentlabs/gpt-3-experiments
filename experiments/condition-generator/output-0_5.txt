@@ -1,0 +1,40 @@
+
+Disease: Snake's Kiss
+Effects: Snake's Kiss is a disease that turns the tongue and mouth of the victim into a snake's head.
+Prognosis: There is no known cure for Snake's Kiss.
+
+Disease: Pox
+Effects: Pox causes the victim to develop sores all over their body.
+Prognosis: The disease is not lethal, but the pain can be debilitating. There is no known cure for Pox.
+
+Disease: Erysipelas
+Effects: Erysipelas is a skin disease that causes the skin to turn a bright, glowing red.
+Prognosis: Erysipelas is not lethal, but the glowing red skin is very noticeable and can cause social stigma.
+
+Disease: Verdigris
+Effects: A victim of Verdigris will find themselves unable to form memories.
+Prognosis: There is no known cure for Verdigris.
+
+Disease: Lycanthropy
+Effects: Lycanthropy is a contagious disease that causes the victim to turn into a wolf-like creature at night.
+Prognosis: Lycanthropy is not lethal, but the victim will be unable to return to their human form.
+
+Disease: Gehenna's Plague
+Effects: Gehenna's Plague causes the skin to become itchy and blotchy. Over time, the skin will blacken and peel away.
+Prognosis: Gehenna's Plague will clear on its own after two to three weeks. Symptoms should be treated for maximum comfort.
+
+Disease: Dragon's Breath
+Effects: Those inflicted with Dragon's Breath will find themselves coughing up small, black lumps of coal-like material.
+Prognosis: There is no known cure for Dragon's Breath.
+
+Disease: Lymphia
+Effects: A victim of Lymphia will find their skin covered in small, brown bumps. These bumps will eventually grow into a web of small, brown tubes.
+Prognosis: There is no known cure for Lymphia. The tubes are not harmful, but they will eventually drain the victim's blood.
+
+Disease: Gurgle's Disease
+Effects: A victim of Gurgle's Disease will find their throat to become swollen and their voice to become deep and gravelly.
+Prognosis: There is no known cure for Gurgle's Disease.
+
+Disease: Bloodfire
+Effects: Bloodfire is a disease that causes the victim's blood to burst into flames when exposed to air.
+Prognosis: There is no known cure for Bloodfire.

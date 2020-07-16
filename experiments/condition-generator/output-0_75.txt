@@ -1,0 +1,40 @@
+
+Disease: Turbot's Disease
+Effects: A victim of Turbot's Disease will find themselves experiencing a burning sensation when near water.
+Prognosis: The pain caused by Turbot's Disease is highly treatable and does not kill its victims.
+
+Sickness: Rhuobury
+Effects: A victim of Rhuobury is plagued with strong cravings for random food. Prolonged indulgence of the cravings will lead to weight gain.
+Prognosis: Rhuobury can be treated by indulging in the cravings and exercising to work off the excess calories.
+
+Sickness: Acanthosis Nigricans
+Effects: The skin becomes darker and thicker, especially in areas that are normally covered by clothing.
+Prognosis: There is no known cure for Acanthosis Nigricans, but it can be countered by applying a whitening agent.
+
+Sickness: Leper's Chorea
+Effects: Those afflicted with Leper's Chorea will have their limbs jerk uncontrollably.
+Prognosis: There is no known cure for Leper's Chorea, though it is not considered fatal.
+
+Sickness: Hachishakuso
+Effects: Hachishakuso causes a victim to hallucinate extremely realistic, but temporary images.
+Prognosis: Those who have been infected with Hachishakuso will be at peace until the hallucinations end.
+
+Disease: Chalcanthiasis
+Effects: Chalcanthiasis is a parasitic disease that causes severe cramping and bloating of the abdomen.
+Prognosis: While Chalcanthiasis is not fatal, it can be very debilitating and painful. There is no known cure for Chalcanthiasis.
+
+Sickness: Lockjaw
+Effects: Lockjaw results in the victim finding themselves unable to speak. This disease will eventually pass, but until it does, the victim is rendered mute.
+Prognosis: There is no known cure for Lockjaw.
+
+Sickness: Bookworm
+Effects: A victim of Bookworm develops an intense fascination with books and reading. They will not be able to leave a book or reading material alone, often ignoring other tasks or needs.
+Prognosis: Bookworm will fade on its own over time.
+
+Sickness: Cankermouth
+Effects: A victim with Cankermouth has their jaw slowly turned into stone. Eventually, their jaw will be entirely petrified, and they will have to eat through a tube or by mouth-to-mouth feeding.
+Prognosis: Cankermouth will clear on its own after two to three weeks.
+
+Sickness: Retardation
+Effects: Those affected with Retardation find themselves physically slower and less agile than normal.
+Prognosis: There is no known cure for Retardation.

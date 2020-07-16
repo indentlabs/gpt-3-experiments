@@ -1,0 +1,40 @@
+
+Disease: The Hiccups
+Effects: The Hiccups are a condition that causes the victim to hiccup uncontrollably.
+Prognosis: The Hiccups are not lethal, but they can be very annoying.
+
+Disease: Rheumatism
+Effects: Rheumatism causes the joints to become stiff and painful.
+Prognosis: Rheumatism can be countered by taking anti-inflammatory medication.
+
+Disease: Hibernitis
+Effects: Hibernitis causes the victim to become lethargic and lose the ability to feel cold.
+Prognosis: Hibernitis is not lethal, but it can be very dangerous to those who live in cold climates.
+
+Disease: Gout
+Effects: Gout is a painful disease that causes the joints to swell and become stiff.
+Prognosis: Gout can be treated with painkillers and anti-inflammatory drugs.
+
+Disease: Blistering Plague
+Effects: A victim of Blistering Plague will find themselves covered in painful, pus-filled blisters.
+Prognosis: The disease is not lethal, but the pain can be debilitating.
+
+Disease: Aphasia
+Effects: A victim of Aphasia will find themselves unable to speak.
+Prognosis: There is no known cure for Aphasia.
+
+Disease: Nymphomania
+Effects: A victim of Nymphomania will find themselves in a constant state of arousal.
+Prognosis: There is no known cure for Nymphomania.
+
+Disease: Mucus
+Effects: A victim of Mucus will find themselves covered in a thick, slimy mucus.
+Prognosis: The disease is not lethal, but it is highly uncomfortable.
+
+Disease: Aneurysm
+Effects: Aneurysm causes the victim's blood vessels to weaken and rupture.
+Prognosis: Aneurysm is often fatal, but it can be countered by a steady diet of aspirin.
+
+Disease: Haggard's Disease
+Effects: Haggard's Disease causes the victim to lose their hair and nails.
+Prognosis: There is no known cure for Haggard's Disease.

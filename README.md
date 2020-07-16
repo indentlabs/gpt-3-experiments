@@ -10,6 +10,7 @@ The following experiments are included in this repository:
 
 * `building-generator` generates fictional buildings within a city.
 * `character-generator` generates fictional characters' names, descriptions, and appearances. 
+* `condition-generator` generates sicknesses and diseases that characters may be afflicted by.
 * `item-generator` generates fictional items, including a description and the material(s) that item is made of.
 * `landmark-generator` generates fictional landmarks, such as caves, bridges, mountains, and lakes.
 * `sword-generator` generates ficticious swords with a description and legendary backstory.
