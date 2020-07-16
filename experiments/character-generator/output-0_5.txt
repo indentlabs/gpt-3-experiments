@@ -1,0 +1,25 @@
+Appearance: The main antagonist of the game. A masked man with a very serious demeanor.
+
+Name: Cornelius Slag
+Description: A grumpy old dwarf who lives in a cave. He has a grudge against humans, but loves his gold.
+Appearance: He's short and stout. He has a full beard and long, flowing white hair. He's always wearing his miner's helmet.
+Appearance: Dr. Milton is incredibly tall and lanky, but hides it with long, flowing blue robes.
+Appearance: He's usually wearing a white lab coat and glasses.
+
+Name: Professor Skarlock
+Description: A mad scientist who lives in a house on the outskirts of town. He's working on a machine that will bring the dead back to life.
+Appearance: Professor Skarlock is a bit of a slob, but his hair is always perfectly coiffed. He wears glasses and a lab coat.
+
+Name: Gulliver Lugg
+Description: A young man who lives in the forest behind the Lugg Pub. He is the son of Ebeneezer Lugg.
+Appearance: He is very skinny and has very long hair. He wears a white dress shirt and jeans.
+
+Name: Fiddle and Faddle
+Description: A pair of magical instruments. Fiddle is a violin and Faddle is a flute. They can talk, but only to each other.
+Appearance: They are both small, but Fiddle is the larger of the two. Faddle is a long, thin flute.
+
+Name: Gulliver Lugg
+Description: A young boy who lives with his father in the forest behind the Lugg Pub. He's shy, but kind.
+Appearance: He's a little bit chubby, and is always seen wearing overalls.
+Appearance: The villain of the game. He wears a purple cloak with a black skull on the back.
+Appearance: He has a long, scraggly beard and a pointy hat. He wears a long, dark blue robe and carries a long, gnarled staff.

@@ -1,0 +1,19 @@
+Name: Alice Smith
+Description: A middle-aged woman who works at the local pub. She likes art and reading, but hates talking about either.
+Appearance: Since school mandates uniforms, she's usually wearing just that.
+
+Name: Quincy Black
+Description: A quiet boy who works at as an apprentice at the clobber. He's one year into his training, but learning fast.
+Appearance: His style is down-to-earth, with lots of jeans and t-shirts.
+
+Name: Charles Morgen
+Description: A slightly greedy man who lives in the Morgen Mansion up the mountain. Made a fortune on the war.
+Appearance: He's typically seen wearing a suit and rarely in anything else.
+
+Name: Ebeneezer Lugg
+Description: An old widower that runs the Lugg Pub. Lives in the forest behind the Pub with his son Gulliver Lugg.
+Appearance: Usually wearing overalls. Very tanned from working outside. Strong and hairy.
+
+Name: Dr. Milton Malicious
+Description: A grumpy old wizard who lives at the South Pole. He is overly protective of his sweet potato garden. 
+Appearance: Dr. Milton is incredibly tall and lanky, but hides it with long, flowing blue robes.
