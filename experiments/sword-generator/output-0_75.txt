@@ -1,30 +1,27 @@
 
-Sword: Tigerclaw
-The Tigerclaw is a blade forged from a single rare red ruby. The blade's name was inspired by the claws of a tiger, and in the hands of a skilled warrior, it can be used to tear through metal with ease.
+Sword: Meteorblade
+The Meteorblade is said to be forged from the broken star that struck Falus nearly 300 years ago. It has the power to slice through meteors and is said to be the ultimate blade for cutting anything.
 
-Sword: Heaven's Cloud
-The Heaven's Cloud is a very rare find, a fragment of a meteorite that was able to pass through the earth's atmosphere. The sword itself is made of iron and is forged from a star cloud. The light given off from the sword is used to divine the future and divine the strength of warriors, allowing the wielder to become a more proficient swordsman.
+Keyblade: The King's Keyblade
+The King's Keyblade is a legendary Keyblade created by the first king of Falus. It was forged using his own blood, sweat, and tears.
 
-Sword: Cloudblade
-The Cloudblade is a blade forged from cloud stone. The user can use the blade to summon clouds, and ride them at high speeds, allowing for aerial travel and flight.
+Sword: Rheall
+Rheall is the name of the legendary blade forged by Sigmund the Strong. The sword was made from meteoric iron from the Juroku Volcano. The blade itself is so sharp it can cut through a god, as it is said to have been used by Sigmund to slay Yggdrasil, the world tree. The hilt is made from solid gold, making it incredibly heavy. It is said that Sigmund wielded it with one hand, but even for a warrior of his caliber, two hands would be required to wield it in battle.
 
-Sword: Rockblade
-The Rockblade is a rare and expensive weapon that is almost impossible to create. It is made from compressed layers of tectonic plates from the planet. The weight and density of the weapon make it ideal for crushing opponents.
+Sword: Sword of Time
+The Sword of Time is one of the most powerful swords in existence. It has the power to cut through the fabric of time and space, to literally cut time itself. It is currently in the hands of the king of the Kalen-Tol kingdom, but is often loaned out to its greatest warrior.
 
-Sword: Heavensblade
-The Heavensblade is forged from a solid chunk of Heaven, said to be one of the many materials that make up the sky. With its feather-light weight and strong power, it is the most powerful sword in existence.
+Sword: Aqua Blade
+The Aqua Blade was crafted from the crystallized remains of a goddess who bathed in the moonlight. The blade can be superheated and is rumored to be able to evaporate water.
 
-Sword: Windblade
-The Windblade was forged by a blacksmith named Benkei who wanted to test the mettle of the wind. As he swung it, the blade began to sing a high pitched note that resonated through the hills. The Windblade is still one of the most feared blades to be used in battle.
+Sword: Earthblade
+The Earthblade was created when a fabled swordsmith had a chunk of Earthfall imbued with mana and then molded into a sword. While the blade itself is brittle, it is indestructible when used against the elements of the earth.
 
-Katana: Fury
-The Katana: Fury was forged from a metal only found in a galaxy far away. The mineral was discovered on the wreckage of a long-lost space cruiser, which crashed in the ocean a few years ago. The material is so sharp it can slice through anything at the molecular level.
+Sword: Whiteout
 
-Sword: Lifeblade
-The Lifeblade was forged out of the crystallized remains of a dragon. It has the power to re-animate the dead and heal injuries.
+Katana: Life's Gift
 
-Sword: The Keyblade
-The Keyblade is the legendary sword of the kingdom of Falus, and is said to be the first sword forged by the gods themselves. It is said to be the most powerful sword in the world, and is capable of destroying the gods themselves. It has a keyhole at its hilt, and can be locked to any weapon to turn it into a Keyblade.
+Sword: Merciless
+Merciless is a sword forged by Falus' greatest blacksmith, Orug. It is said to be infused with the spirit of Orug himself, which is capable of draining the lifeforce of its victims to increase its own power.
 
-Sword: Lightblade
-The Lightblade was forged from a piece of a mysterious crystal found at the bottom of the sea by the crew of a sunken ship. The blade emits a bright light and glows with energy that never runs out.
+A popular board game played by both Humans and their Lupin slaves. The game is played on a square board, divided into alternating colored fields. Each player controls three pawns of their color and a "Wizard", which can be moved across the board and rotated to face any direction. The objective is to occupy the most territory. Players take turns moving their pawns. If a pawn is moved onto an unoccupied field of the same color as the pawn, it is "captured" and removed from the game. A pawn may only move one space at a time, unless a Wizard is moved to its location. In that case, it is moved to the Wizard's location. The Wizard may move as many spaces as desired, and rotate to any desired direction after each move.

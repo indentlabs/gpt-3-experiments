@@ -7,3 +7,9 @@ temperatures with ease without melting.
 
 Sword: Iceblade
 The Iceblade was forged out of an alien alloy that remains at near-zero Kelvin, instantly freezing anything it touches. Additionally, the extremely cold temperature has a faint illumination at night, lighting the way for the legendary warrior who wields it.
+
+Sword: Lifeblade
+The Lifeblade was forged out of the crystallized remains of a dragon. It has the power to re-animate the dead and heal injuries.
+
+Sword: The Keyblade
+The Keyblade is the legendary sword of the kingdom of Falus, and is said to be the first sword ever forged by the gods themselves. Legends declare it the most powerful sword in the world and one of the only weapons capable of destroying the gods themselves. It has a keyhole at its hilt, but what key might be out there that fits remains unknown.
