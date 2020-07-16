@@ -1,0 +1,40 @@
+
+Species: Hellfrost Spiders
+Description: Hellfrost spiders are a species of spider that have adapted to the cold. They are often found in the snow and ice, and are known to be very aggressive.
+Legs: 8
+
+Species: Hellfrost Beetles
+Description: Hellfrost beetles burrow into the snow for warmth, often in large groups. They are always in search of a source of warmth and won't hesitate to burrow into anything even remotely warm, including houses, animals, and passing humans.
+Legs: 6
+
+Species: Hellfrost Beetles
+Description: Hellfrost beetles burrow into the snow for warmth, often in large groups. They are always in search of a source of warmth and won't hesitate to burrow into anything even remotely warm, including houses, animals, and passing humans.
+Legs: 6
+
+Species: Hellfrost Beetles
+Description: Hellfrost beetles burrow into the snow for warmth, often in large groups. They are always in search of a source of warmth and won't hesitate to burrow into anything even remotely warm, including houses, animals, and passing humans.
+Legs: 6
+
+Species: Hellfrost Beetles
+Description: Hellfrost beetles burrow into the snow for warmth, often in large groups. They are always in search of a source of warmth and won't hesitate to burrow into anything even remotely warm, including houses, animals, and passing humans.
+Legs: 6
+
+Species: Hellfrost Spiders
+Description: Hellfrost spiders are a species of spider that have adapted to the cold. They are often found in the snow and ice, and are known to be very aggressive.
+Legs: 8
+
+Species: Hellfrost Beetles
+Description: Hellfrost beetles burrow into the snow for warmth, often in large groups. They are always in search of a source of warmth and won't hesitate to burrow into anything even remotely warm, including houses, animals, and passing humans.
+Legs: 6
+
+Species: Hellfrost Beetles
+Description: Hellfrost beetles burrow into the snow for warmth, often in large groups. They are always in search of a source of warmth and won't hesitate to burrow into anything even remotely warm, including houses, animals, and passing humans.
+Legs: 6
+
+Species: Hellfrost Beetles
+Description: Hellfrost beetles burrow into the snow for warmth, often in large groups. They are always in search of a source of warmth and won't hesitate to burrow into anything even remotely warm, including houses, animals, and passing humans.
+Legs: 6
+
+Species: Hellfrost Spiders
+Description: Hellfrost spiders are a species of spider that have adapted to the cold. They are often found in the snow and ice, and are known to be very aggressive.
+Legs: 8

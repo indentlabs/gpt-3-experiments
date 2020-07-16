@@ -1,0 +1,40 @@
+
+Species: Frost Beetles
+Description: A beetle that has adapted to the cold, its body is covered in a thick layer of ice that it uses to protect itself from predators.
+Legs: 6
+
+Species: Nymphs
+Description: Nymphs are the offspring of the Great Mother, and are often mistaken for humans. They are not as strong as their mother, but are still very dangerous.
+Legs: 2
+
+Species: Naga
+Description: A race of humanoid snakes that live in the desert. They are extremely territorial and will attack anything that enters their territory.
+Legs: 2
+
+Species: Vultures
+Description: A large, aggressive race of vultures that live in large packs. They are known to attack and eat humans.
+Legs: 2
+
+Species: Gulls
+Description: A common species of gull that is found in the Hellfrost.
+Legs: 2
+
+Species: Glowing Snakes
+Description: A type of snake that glows in the dark. They are often kept as pets and are known to be very loyal.
+Legs: 0
+
+Species: Gremlins
+Description: Gremlins are small, mischievous creatures that are often found in the wild. They are very territorial and will attack anything that invades their territory.
+Legs: 2
+
+Species: Hellfrost Beetles
+Description: Hellfrost beetles burrow into the snow for warmth, often in large groups. They are always in search of a source of warmth and won't hesitate to burrow into anything even remotely warm, including houses, animals, and passing humans.
+Legs: 6
+
+Species: Snow-crows
+Description: A race of large, intelligent crows that live in the mountains. They are often hunted for their beaks, which sell for a large amount.
+Legs: 2
+
+Species: Gorgonopsid
+Description: A large, quadrupedal predator with a large, bony crest on its head. It is a very territorial creature and will attack anything that enters its territory.
+Legs: 4

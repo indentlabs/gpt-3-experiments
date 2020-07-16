@@ -1,0 +1,40 @@
+
+Species: Great Sea Sharks
+Description: These are massive, sea-dwelling creatures that are extremely territorial and will attack anything that invades their space.
+Legs: 0
+
+Species: Hellfrost Hornets
+Description: A large hornet that inhabits the frozen wastes of the north. They are very territorial and will attack anything that comes near their nest.
+Legs: 6
+
+Species: Bumblebee
+Description: A bee that lives in large hives and makes honeycombs. They are the most commonly domesticated animal.
+Legs: 2
+
+Species: Frost Beetles
+Description: Large, black beetles that often grow to be over a foot long. They are covered in ice crystals and are a common food source in the north.
+Legs: 6
+
+Species: Toxidrill
+Description: A dangerous, carnivorous species of large beetle that uses its large mandibles to tear apart its prey. They are often used as mounts by the Natives.
+Legs: 6
+
+Species: Waterbeetles
+Description: Waterbeetles are a large, slow-moving beetle that have adapted to life in the ocean. They are covered in thick, black scales that are very difficult to penetrate.
+Legs: 6
+
+Species: Sunspiders
+Description: Giant spiders that use the sun to power their webs. The silk is extremely strong and is used in a variety of applications.
+Legs: 8
+
+Species: Hellcrawlers
+Description: Hellcrawlers are giant arachnids that have adapted to live in the cold. They are often used as mounts by the natives of the northern tundras.
+Legs: 8
+
+Species: Sandsharks
+Description: A sand-dwelling species of shark that has adapted to the arid climate of the desert. It is capable of swimming through sand at high speeds and uses its long nose to probe the ground for prey.
+Legs: 2
+
+Species: Fluxlings
+Description: Fluxlings are a race of creatures that live on the fringe of reality, their very existence bending the fabric of reality around them. They are often considered to be magical creatures.
+Legs: 0

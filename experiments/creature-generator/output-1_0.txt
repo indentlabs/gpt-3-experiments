@@ -1,0 +1,39 @@
+
+Species: Spherical-shaped lobsters
+Description: They are camouflaged ball of neon-red chitin with powerful pincers and live mainly in the volcanic caves beneath Ansalon.
+Legs: 6
+
+Species: Afolk
+Description: A cold-dwelling folk of 1' tall humans that resemble Mr. Peanut Man. They are extremely blunt and to the point and many have an unsettling obsession with finding the truth above anything else.
+Legs: 0
+
+Species: Electric Pheasants
+Description: These large flying birds are usually found with crows and other scavenging wildlife in the skies of Barricade Peak. Their wings are made of an electrolluminate material which creates a reflective display of color.
+Legs: 2
+
+Species: Sanddamsels
+Description: Fiercely territorial creatures who live below the sand and within it.
+Legs: 3
+
+Species: Dustworms
+Description: Whisker-shaped dustworms that float through Earth's atmosphere with fluttering wings, often referred to by miners as the "sign of death".
+Legs: 0
+
+Species: Undergorks
+Description: Said to resemble an ant where a human's brain is located, undergorks are intelligent and are known to cultivate mushrooms in underground caves by careful attention.
+Legs: 2
+
+Species: Groundmerrows
+Description: Throaters who inhabit both realms, ground merrows are a race of creatures that are rarely seen in Hellfrost. They often inhabit areas like the Driftlands and move between the ice and sand.
+Legs: 4
+
+Species: Hamadryads
+Description: Slender women who get energy either through absorbing ambient radiation, plants and lichen or they eject poisonous spores onto surfaces. Their skin is metallic in texture and color and their entire life cycle revolves around the search for a male potential mate. Legs: 0
+Legs: 0
+
+Species: Cloudbirds
+Description: A flightless exhaustive race that fly with the help of a single oar-like feather on their back. It originates from the Armored Wingfins.
+Legs: 0
+
+Species: Coquatles
+Description: These cute little infant-like creatures grew to humanoid size in a matter of days, develop at different rates dependent on the aggregate strength of their herd.

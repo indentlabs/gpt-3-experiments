@@ -1,0 +1,15 @@
+Species: Hellfrost Beetles
+Description: Hellfrost beetles burrow into the snow for warmth, often in large groups. They are always in search of a source of warmth and won't hesitate to burrow into anything even remotely warm, including houses, animals, and passing humans.
+Legs: 6
+
+Species: Droneflies
+Description: Mosquitos fitted with drone control implants that travel in sparse, coordinated fleets and share knowledge of the environment amongst themselves, effectively giving each one hundreds of eyes and ears.
+Legs: 6
+
+Species: E'vi
+Description: These creatures are the physical manifestation of sentient electricity, often taking an amorphic blob-like form that slightly resembles a jellyfish and slowly float around deserts in packs.
+Legs: 0
+
+Species: Goldbills
+Description: A bright race of birds that migrate with the sunlight with each day. They are often hunted for their beaks, which sell for a large amount.
+Legs: 2

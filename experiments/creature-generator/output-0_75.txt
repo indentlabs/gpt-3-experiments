@@ -1,0 +1,40 @@
+
+Species: Peepers
+Description: Blind amphibious creatures that inhabit the swamps of Terra. They often burrow themselves in mud and sand to hide from predators, and use echolocation to locate their prey.
+Legs: 0
+
+Species: Magma Beetles
+Description: Magma beetles are larger than normal beetles and burrow into the hot sands for warmth. They are red and their bodies emit a faint glow.
+Legs: 6
+
+Species: Hellmice
+Description: Hellmice are white, mouse-like rodents that burrow into the snow during the day to avoid predators. They are known for their fierceness in combat and are often hunted for their meat and fur.
+Legs: 4
+
+Species: Beartoads
+Description: Toa have large, muscular bodies with four stumpy legs, and a beaver-like head with small, sharp teeth. They are herbivorous, and are the only toa species not to have developed metalworking skills.
+Legs: 4
+
+Species: Goldbears
+Description: These creatures are the physical manifestation of sentient sunlight. They are often hunted for their pelts, which sell for a large amount.
+Legs: 0
+
+Species: Glissantines
+Description: The giant, worm-like glissantines burrow through the dirt looking for food and eating anything that gets caught in their way. They are often hunted for their incredibly durable skin.
+Legs: 2
+
+Species: Howler Monkeys
+Description: Large monkeys that howl and scream to communicate. The males also use them to attract mates. They tend to be quite territorial and will often patrol their territory, marking the borders with their urine.
+Legs: 2
+
+Species: Stonemasons
+Description: A race of small humanoid creatures that are renowned for their crafting abilities.
+Legs: 2
+
+Species: Noxlings
+Description: A mutant species of mole that digs deep tunnels into the ground to keep away from the sun, often into valuable mineral deposits.
+Legs: 4
+
+Species: Blue Bloodgrass
+Description: Blue Bloodgrass is a spiny plant that forms impenetrable forests that has to be cut down to reach its central roots.
+Legs: 0
