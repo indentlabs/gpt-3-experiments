@@ -8,8 +8,10 @@ All generated texts in this repo are completely unedited and uncurated unless ex
 
 The following experiments are included in this repository:
 
+* `building-generator` generates fictional buildings within a city.
 * `character-generator` generates fictional characters' names, descriptions, and appearances. 
 * `item-generator` generates fictional items, including a description and the material(s) that item is made of.
+* `landmark-generator` generates fictional landmarks, such as caves, bridges, mountains, and lakes.
 * `sword-generator` generates ficticious swords with a description and legendary backstory.
 
 ## Repository layout
@@ -36,4 +38,4 @@ You will also need your OpenAI secret key set in the environment variable `OPENA
 
 ## Disclaimer
 
-This repository has no affiliation with OpenAI and was inspired by the thought-provoking repo by @minimaxir of [the same name](https://github.com/minimaxir/gpt-3-experiments).
+This repository has no affiliation with OpenAI and was inspired by the similar thought-provoking repo by @minimaxir of [the same name](https://github.com/minimaxir/gpt-3-experiments).
