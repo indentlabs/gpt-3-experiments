@@ -1,22 +1,40 @@
-Appearance: 
-A little girl with short, straight hair. She's known to be very quiet and is usually either reading or drawing.
-Appearance: Tons of grey hair and an unkempt beard. He usually has his nose in a book.
 
-Name: V.I.P. (Very Important Person)
-Description: A boy who was raised by animals after being left in the forest by his parents. He's a little crazy, but harmless.
-Appearance: He wears torn up animal skins, with the head of an animal on his head.
+Name: Edward Rubens
+Description: A kind and honest mailman who lives in town. He often takes his work home with him.
+Appearance: He wears a small uniform with a hat. He has a short beard and moustache.
 
-Name: Jake Bittercreek
-Description: A gruff, young man who lives in the mountains. Often seen in the local tavern, drinking and arguing.
-Appearance: Likes leather jackets and jeans.
+Name: Gulliver Lugg
+Description: A very talented sculptor and painter. He lives with his father Ebeneezer in the forest behind the Jung Pub.
+Appearance: He wears large, white pants and large, white shirts. His hair is long and his eyes are always closed.
 
-Name: Doris Jones
-Description: An old widow who runs the Jones's General Store. Lives with her daughter on the first floor of the store.
-Appearance: She wears a flowery dress with a large brimmed hat.
-Appearance: Very friendly and easy-going. Has very nice, strong arms.
-Appearance: A wise old man who loves the library and his big hat.
-Appearance: Lives in a small, white house in the forest with his wife, Rosemary.
-Appearance: He's rather short, but well-built. Always wears a green jacket and cap.
-Appearance:
+Name: Ophelia Lugg
+Description: A morbidly obese woman who can often be seen working at the local bar, The Meat Hook. She is the mother of Gulliver Lugg.
+Appearance: She wears a big apron and has short hair.
 
-Appearance: Very old. Extremely pale. He looks very delicate. His eyes are deep set and droopy.
+Name: Dr. Myron Broke-nose
+Description: A greedy, snooty man who lives in a big, fancy house at the top of the mountain. He enjoys taking walks around town, even though it exhausts him.
+Appearance: He has a large nose and wears large, extravagant suits. He has a limp, which he usually hides with his cane.
+
+Name: Sarah Clementz
+Description: A quiet woman who works at the local farm. She is very shy and almost never leaves her house.
+Appearance: She is very small and thin. She always wears a dress.
+
+Name: Kate Foster
+Description: Joe Clementz's wife. She can't walk, but is as sweet as they come.
+Appearance: A woman in a wheelchair with black hair.
+
+Name: Hazel Clementz
+Description: Joe Clementz' wife. She has multiple sclerosis, and is usually confined to her wheelchair.
+Appearance: She has long brown hair and wears large glasses. She is very frail and has a slight hunchback.
+
+Name: Louis Deluq
+Description: A young boy that's taken a liking to Casey. Louis likes to get in trouble and usually ends up in the mayor's office.
+Appearance: Louis is short, but has a strong build. He's usually seen wearing jeans and a t-shirt.
+
+Name: Candace Clementz
+Description: Joe's wife. She's unable to walk or do much of anything because of a past injury.
+Appearance: She wears her hair in a bun and has an extremely thick coat on to keep warm.
+
+Name: Sybil Tilly
+Description: An old woman who lives alone at the edge of town. She is always busy knitting scarves.
+Appearance: She is very old, but is always seen knitting. She has very little hair, but the rest of her body is completely covered in thick sweaters.

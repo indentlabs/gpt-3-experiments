@@ -1,37 +1,54 @@
 
-Owns a rest stop at the intersection of Beanzy Way and Smithy Highway. Part-time lumberjack.
-Appearance: Trusted and loved by his patients, the kind doctor never met an animal he couldn't name and always has a new prank for nephew Gordon Malicious. 
-Location: The North Pole
-Capitol. Is the capital building overlooking the city. Apps 
-Description: Geiger, a self-employed wizard.
-Appearance: Long frizzy white hair, big glasses, and awkward body language. 
-Location: The Pharaoh's pyramid.
-Description: Cellblock 4, a cemetery, a common haunt of Area 11. 
-Appearance: A massive gray prison bearing a large circular tower in the center.
-Description: Varram Hall, an upper-middle class town modeled after an 18th-century English village.
-Appearance: Large houses and paved streets.
-Name: Harry Lomont
-Description: A meek boy, Harry works part-time in the generator room of the optometrist. 
-Appearance: Quiet, wears an accountant's uniform frequently. 
-Appearance: A white eye-patch over his right eye. An overweight lab assistant.
-Appearance:
+Name: Eve Monroe
+Description: The widow of Hugh Monroe who runs a venue restaurant and generally keeps to herself.
+Appearance: She is a withered old woman who keeps her hair in a bun. Always wears an apron and dress.
 
 Name: Gulliver Lugg
-Description: A fatherly old looking cowboy. Lives in the woods with his son Fosco, his cat Sid, and his father Ebeneezer Lugg.
-Appearance: He's tall (around 6ft. 8 in.), wears cowboy attire and usually has his cowboy hat on. He also has a big mustache and a beard.
+Description: Son of the Jung Pub owner and local handyman. He's a bit fond of adventure.
+Appearance: A happy, jubilant young boy. Very cheerful and generally puts a smile on the face of anyone he walks past.
 
-Appearances:
+Name: Alice's mother
+Description: A loving mother to Alice and wife to a faraway husband. Though rarely seen, her cooking skills are legendary in Bomin.
+Appearance: She has blonde hair just like Alice.
 
-Name: Dr. Gene Powder
-Description: A portly man who owns a fishing shop next to the library. Does not get along with Dr. Mirrors.
-Appearance: Shorter than Dr. Malicious, but wider. Wears a police officer's hat and thick gloves.
+Name: Frank Fhedon
+Description: The sadistic jailor. Has thick neck and loves being the center of attention.
+Appearance: Frank has a short beard and thinning brown hair. His clothes are slick and flashy.
 
-Physical Copy
-Digital Copy (Steam)
+Timeline
+January 11, 2010: Morgen Fracture of the Leg.
+January 14, 2010: Bullied Fracture of the Arm.
+January 21, 2010: Phrenic Plexus Nerve Injection.
+January 28, 2010: Third Page.
+February 21, 2010: Lunch with Joe's Granny.
+June 5, 2010: Pharypharynx Rupture.
+July 10, 2010: Risky Trip to Morgantown.
+July 25, 2010: Morgantown Heart Patrol.
+October 6, 2010: Crabby Spy Panic.
+November 15, 2010: Graves' Anxiety Flare.
+December 12, 2010: Silverdale Bones and Death.
+February 1, 2011: Goldenseal.
+February 8, 2011: Compacted Snow.
+February 26, 2011: The Approaching Story.
+March 24, 2011: Mrs. Sunderson's Memories.
+April 21, 2011: Crazy Bluebird on Revenge.
+April 23, 2011: Break-up Baggage.
 
-Name: Mr. Hodges
-Description: A friendly old man who runs an antique shop out of his small, brick house. Most people leave comments on the sign outside.
-Appearance: Wears soft, corduroy pants. Not a hair on his head. Wears thick, heavy robes that hide his thinness.
-Appearance: He has black hair and piercing eyes.
+Name: Slaw
+Goes by "Slaw the Absolut". A boy the same age as Nick/Janice. He knows everyone in the town and can talk to them better than anyone. He is completely fearless, and incredibly cold. He is very, very good looking.
 
-List of chapter locations in "".
+Name: Charlie Dowell
+Description: A friend and fellow husband to Jonesy's late wife, Margaret.
+Appearance: He is moderately tall and overweight. He's constantly eating cookies to stay busy and, as a result, has a few crumbs stuck in his beard. He has a visible metal pin in his leg.
+
+Name: Samuel Swift
+Description: An intellectual man who writes for the town newspaper and teaches Joe Clementz's oldest son Robert at the Library on Friday nights. 
+Appearance: Incredibly smart-looking, with many streaks of grey in his black mane of hair.
+Appearance: Old and bald with an ample gut.
+
+Everlight Entertainment's Team Salt has two projects in the works at IndiePub Design Studios. A partnership offering with the IndiePub office in Edmonton, Alberta, Canada.
+
+Name: Lucille Clementz
+Description: Joe's disabled wife. After working in her horticulture career for a good 20 years, she underwent a surgery and lost the use of her legs. 
+Appearance: A woman with long gray hair. She wears a thin, light purple nightgown.
+Appearance: All of last years produce is still on display in the grocery store windows.

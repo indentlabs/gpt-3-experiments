@@ -2,7 +2,13 @@
 
 This repo contains example prompts for OpenAI's GPT-3 API and the resulting AI-generated texts for an assortment of tasks. Each task is meant to illustrate how GPT-3 can be used in the worldbuilding process for writers, game designers, roleplayers, and other worldbuilders. Each experiment's prompt is also designed to be populated with notebook data from Notebook.ai, which should result in output more personalized to fit better into worlds in progress.
 
-All generated texts in thsi repo are completely unedited and uncurated unless explicitly stated otherwise.
+All generated texts in this repo are completely unedited and uncurated unless explicitly stated otherwise.
+
+## Experiments
+
+The following experiments are included in this repository:
+
+* `character-generator` generates fictional characters' names, descriptions, and appearances. 
 
 ## Repository layout
 
@@ -25,12 +31,6 @@ ruby experiment.rb name-of-experiment
 ```
 
 You will also need your OpenAI secret key set in the environment variable `OPENAI_SK`, as well as the `gpt3` gem installed.
-
-## Experiments
-
-The following experiments are included in this repository:
-
-* `character-generator` generates fictional characters' names, descriptions, and appearance.
 
 ## Disclaimer
 

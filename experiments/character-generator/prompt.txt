@@ -1,19 +1,23 @@
 Name: Alice Smith
-Description: A middle-aged woman who works at the local pub. She likes art and reading, but hates talking about either.
-Appearance: Since school mandates uniforms, she's usually wearing just that.
+Description: A middle-aged woman who works at the Jung Pub. She likes art and reading, but hates talking about either.
+Appearance: She has blonde hair that's quickly turning white and often wears oversized dresses to hide her large figure.
 
 Name: Quincy Black
-Description: A quiet boy who works at as an apprentice at the clobber. He's one year into his training, but learning fast.
-Appearance: His style is down-to-earth, with lots of jeans and t-shirts.
+Description: A quiet boy who works at as an apprentice for the local blacksmith. He's one year into his training, but learning fast.
+Appearance: His style is down-to-earth, with lots of long pants and plain shirts.
 
 Name: Charles Morgen
 Description: A slightly greedy man who lives in the Morgen Mansion up the mountain. Made a fortune on the war.
 Appearance: He's typically seen wearing a suit and rarely in anything else.
 
-Name: Ebeneezer Lugg
-Description: An old widower that runs the Lugg Pub. Lives in the forest behind the Pub with his son Gulliver Lugg.
+Name: Ebeneezer Jung
+Description: An old widower that runs the Jung Pub. Lives in the forest behind the Pub with his son Gulliver Lugg.
 Appearance: Usually wearing overalls. Very tanned from working outside. Strong and hairy.
 
 Name: Dr. Milton Malicious
-Description: A grumpy old wizard who lives at the South Pole. He is overly protective of his sweet potato garden. 
-Appearance: Dr. Milton is incredibly tall and lanky, but hides it with long, flowing blue robes.
+Description: A grumpy old shrew who lives at the far edge of town. He is overly protective of his sweet potato garden. 
+Appearance: Dr. Milton is incredibly tall and lanky. His glasses are extremely large and thick, and he walks with a silver cane.
+
+Name: Joe Clementz
+Description: A man stressed out by life. He works two full-time jobs to put food on the table for his disabled wife and three kids.
+Appearance: He has a full beard and a balding head. His clothes are old and falling apart, but still do the job -- for the most part.

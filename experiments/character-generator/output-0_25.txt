@@ -1,40 +1,40 @@
 
 Name: Gulliver Lugg
-Description: A young man who lives in the forest behind the Lugg Pub. He is the son of Ebeneezer Lugg.
-Appearance: He's tall and lanky, but hides it with long, flowing blue robes.
+Description: A young man who lives in the forest behind the Jung Pub with his father Ebeneezer. He's a little slow, but very kind.
+Appearance: He's tall and skinny, with a large nose and ears. He wears a green shirt and brown pants.
+
+Name: Mrs. Clementz
+Description: A woman who has been disabled since birth. She is unable to walk or talk, but she can still think and feel.
+Appearance: She is in a wheelchair and has a large bandage over her eyes.
 
 Name: Gulliver Lugg
-Description: A young man who lives in the forest behind the Lugg Pub. He's very shy and loves to read.
-Appearance: He's very tall and lanky, but hides it with long, flowing blue robes.
+Description: A young man who lives in the forest behind the Jung Pub with his father Ebeneezer. He is a skilled hunter and tracker.
+Appearance: He has a full beard and long hair. He wears a green vest and brown pants.
 
 Name: Gulliver Lugg
-Description: A young man who lives in the forest behind the Lugg Pub. He is the son of Ebeneezer Lugg.
-Appearance: He's usually wearing a red shirt and jeans.
+Description: A young man who lives in the forest behind the Jung Pub with his father Ebeneezer. He's a bit of a loner.
+Appearance: He wears a green shirt and brown pants. His hair is long and messy.
+
+Name: The Captain
+Description: A mysterious man who lives in a small cabin in the woods. He's very quiet and keeps to himself.
+Appearance: He's tall and lanky, with a long beard and long hair. He wears a black cloak and a wide-brimmed hat.
 
 Name: Gulliver Lugg
-Description: A young man who lives in the forest behind the Lugg Pub. He is very protective of his father.
-Appearance: He's usually wearing a t-shirt and jeans.
+Description: A strange man who lives in the forest behind the Jung Pub. He's a bit of a hermit, but loves to tell stories.
+Appearance: He's tall and lanky, with a long beard and a head of hair to match. He wears a red shirt and overalls.
 
 Name: Gulliver Lugg
-Description: A young man who lives in the forest behind the Lugg Pub. He is the son of Ebeneezer Lugg.
-Appearance: He's tall and thin, with long hair and a scraggly beard.
+Description: A young man who lives in the forest behind the Jung Pub with his father Ebeneezer. He's a bit of a hermit.
+Appearance: He wears a green hat and a brown cloak. He has a full beard and a long, bushy mustache.
+
+Name: Mrs. Clementz
+Description: A disabled woman who is unable to walk. She spends most of her time in bed.
+Appearance: She has long, dark hair and a pale complexion. She wears a long, white nightgown.
 
 Name: Gulliver Lugg
-Description: A young man who lives in the forest behind the Lugg Pub. He's very strong and likes to play pranks on people.
-Appearance: He's a big guy, but not fat. He's usually wearing overalls.
+Description: A young man who lives in the forest behind the Jung Pub with his father Ebeneezer. He's a bit of a troublemaker.
+Appearance: He has long, unkempt hair and a beard. He wears a long, brown coat and carries a bow and quiver of arrows.
 
-Name: Gulliver Lugg
-Description: A young man who lives in the forest behind the Lugg Pub. He's a bit of a troublemaker.
-Appearance: He's tall and lanky, but hides it with baggy clothes.
-
-Name: Gulliver Lugg
-Description: A young man who lives in the forest behind the Lugg Pub. He is very good at building things.
-Appearance: He's tall and lanky, but hides it with long, flowing blue robes.
-
-Name: Gulliver Lugg
-Description: A young man who lives in the forest behind the Lugg Pub. He is a skilled hunter and tracker.
-Appearance: He wears a green vest and brown pants. He has a small, brown beard.
-
-Name: Gulliver Lugg
-Description: A young man who lives in the forest behind the Lugg Pub. He is a talented carpenter.
-Appearance: He's usually wearing overalls and a flannel shirt.
+Name: Mayor George
+Description: The mayor of the town. He's a nice guy, but not the brightest.
+Appearance: He's a short, fat man with a mustache. He wears a suit and a top hat.
