@@ -1,0 +1,30 @@
+
+Group: The Order of the Black Sun
+Description: The Order of the Black Sun is a cult that worships the sun. They believe that the sun is a god and that they are its chosen people. They are often seen wearing black robes and carrying around black sun-shaped totems.
+
+Group: The Misfits
+Description: The Misfits are a group of super-villains who are more interested in fame and glory than actually committing crimes. They're often seen on social media, but they're not very good at being villains.
+
+Group: The Society of the Evening Star
+Description: The Society of the Evening Star is a secret society that believes that the world is going to end soon. They believe that the end of the world is imminent and that they will be the only ones saved.
+
+Group: The Bards
+Description: The Bards are a group of artists who use their powers to manipulate the world around them. They're a group of people who are very aware of their own creative powers and use them to change the world around them.
+
+Group: The Misfits
+Description: The Misfits are a group of misfits who are too weird for the other groups. They're not necessarily evil, but they're definitely not good.
+
+Group: The Dictatorship of the Proletariat
+Description: The Dictatorship of the Proletariat is a group of students who believe that the proletariat should rule the world. They are led by a man named Chairman Bao, who is the son of a Chinese billionaire.
+
+Group: The Hivers
+Description: The Hivers are people who don't belong to the Storytellers' Guild, but are "hiving off the universe" by calling themselves player characters and other names in the story.
+
+Group: The Unnamed
+Description: The Unnamed are a group of people who are trying to make the world a better place by doing good deeds. They are known for their masks and for their ability to be in two places at once.
+
+Group: The International Society of Amalgamated Union Workers
+Description: The International Society of Amalgamated Union Workers is a union for people who work in the "amalgamated" industries. They are a union of unions, and they are very powerful.
+
+Group: The C.I.A.
+Description: The C.I.A. is a secret organization that works to protect the United States from threats both foreign and domestic. They are a very powerful organization, and they have a large presence in St. Dymba.

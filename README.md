@@ -8,10 +8,13 @@ All generated texts in this repo are completely unedited and uncurated unless ex
 
 The following experiments are included in this repository:
 
+### Generators
+
 * `building-generator` generates fictional buildings within a city.
 * `character-generator` generates fictional characters' names, descriptions, and appearances. 
 * `condition-generator` generates sicknesses and diseases that characters may be afflicted by.
 * `creature-generator` generates fictional creatures with a brief description and leg count.
+* `group-generator` generations ficticious groups of people that exist within the world.
 * `item-generator` generates fictional items, including a description and the material(s) that item is made of.
 * `landmark-generator` generates fictional landmarks, such as caves, bridges, mountains, and lakes.
 * `sword-generator` generates ficticious swords with a description and legendary backstory.

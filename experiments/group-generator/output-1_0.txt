@@ -1,0 +1,29 @@
+
+Group: The Smith Institute
+Description: The Smith Institute is a superhigh tech business conglomerate owned by a married couple by the same name. The Smiths are aging hippies who created the company by acquiring other companies and using them to create derivative works before merging them into a large conglomerate.
+
+Group: The Crusaders, and The Shrouds
+Description: The Shrouds is a subtle millennial Christian separatist group that tattoos their members with a 6-point cross. They're characterized by a very clean and straight-looking appearance, usually wearing all white or all black. The Crusaders are a similar group that seem to be getting more old school religious about everything.
+
+The University employs a student-run bar located in Stichbury called the Hops and Tears (Hearts and Tears in the TV series) that serves alcohol to 18- and over students. It is suggested that the name is a joke on words, implying the drinking age in Scotland is 18, as well as referencing the effect alcohol has on people. "Hearts and Tear" = the side effects of alcohol. "Hops and Tears" = the number of items sold in the shop.
+
+Group: Winter Age Studies Program
+Description: The Winter Age Studies Program is a graduate collegiate program lauded for its eccentricity.
+
+Group: The Watch
+Description: The Watch is an elite group of high school students that protect St. Dymba and its inhabitants against all sorts of threats, including themselves.
+
+Group: 
+Description: 
+
+Group: Moonbrook
+Description: Moonbrook is the largest city in Cascadia, and it's known for its nightlife, its musical scene, and other vibrant, technological, avant-garde aesthetic movements. Moonbrook has the largest gaming convention in the world, which is where the Harbinger Pups debuted.
+
+Group: The League of Instead
+Description: The League of Instead was founded by super-villains who wanted to use their surplus funds to do good deeds. It's a challenge, however, to use the skills that are required to be a supervillain while wholly reforming. Some of the League's notable members are Death Crab, Bee Annihilator and Ray Support.
+
+Group: The Science Fiction and Fantasy Authors League
+Description: The SFAL or Science Fiction and Fantasy Authors League are little more than a group of popular authors reading one another's books and offering congratulations as needed. Although they are popular, the league insists on not being popular. Their stamp of approval brings immense popularity to whatever they commented on.
+
+Group: The Committee
+Description: The Committee is an immoral shadow government that's intent on world domination. A few members of it are shown to be eccentric, insane, or caricatures of wealthy businessmen. Their members include the Mayor of St. Dymba and his daughter, a female version of the Harund Bomber, a boy version of the Harund Bomber, and a clone of Somehow Machine.

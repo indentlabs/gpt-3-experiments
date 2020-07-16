@@ -1,0 +1,30 @@
+
+Group: The Socialists
+Description: The Socialists are a large, international group of communists and socialists who seek to create a utopian world in which everyone is equal and has equal resources.
+
+Group: Black Rose
+Description: The Black Rose is a group of socialist guerillas who carry out violent attacks against the government.
+
+Group: The Free Republic of St. Dymba
+Description: The Free Republic of St. Dymba is a small micronation founded by a group of American college students. It consists of a few acres of land near campus, a handful of small shacks, and a small contingent of flag-waving citizens.
+
+Group: NoCoPIRG
+Description: NoCoPIRG is a student activist group that fights for the rights of the local community.
+
+Group: The Old Ones
+Description: The Old Ones are a cult of aliens living on Earth, and it is said that they will one day return to the Earth and destroy it.
+
+Group: The Hacktivist Collective
+Description: The Hacktivist Collective is a loosely-connected group of hacktivists, artists, and programmers. They're involved in numerous activist and charity-based causes, including the rise of feminism in the late 21st century.
+
+Group: The Morningside Heights community
+Description: The Morningside Heights community is the organized effort of the people of the neighborhoods around Morningside Heights. They are against the redevelopment of the neighborhood, and will fight to the bitter end.
+
+Group: The Top Hatters
+Description: The Top Hatters are an exclusive and elite club for young men who aspire to be gentlemen and patrons of the arts. They believe that class is measured by how far up your hat sits on your head.
+
+Group: The Church of the Technochrist
+Description: The Church of the Technochrist believes that technology is the way of the future and that they should not be questioned. It's a very conservative religious group that doesn't believe in science, but only technology.
+
+Group: The Harund Bomber
+Description: The Harund Bomber was a student at St. Dymba's until he disappeared. His name is never mentioned, and he is referred to only as the Harund Bomber, in reference to his hobby of creating bombs. He has been out of school for three years, but a few people still remember him and talk about him from time to time.

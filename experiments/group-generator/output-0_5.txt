@@ -1,0 +1,30 @@
+
+Group: The Bureau of Alternate Universe Management
+Description: The Bureau of Alternate Universe Management is a governmental agency that monitors the activities of the Storytellers' Guild and enforces the laws of the universe. They are constantly monitoring and keeping tabs on the storytellers, who are required to file reports and follow a strict set of rules.
+
+Group: The Cult of the Four-Armed Emperor
+Description: The Cult of the Four-Armed Emperor is a cult that worships a four-armed statue of a man. They are dedicated to keeping the statue safe and secret, and believe that if the statue is ever destroyed, the world will end.
+
+Group: The Doppelgängers
+Description: The Doppelgängers are a group of people who are genetically identical. They are all descended from a group of explorers who crashed on the planet. They were the only survivors and they settled down to start a new civilization.
+
+Group: The Amalgamated Union of Disgusting Characters
+Description: The Amalgamated Union of Disgusting Characters is a guild of misfits, freaks, and mutants. They're the only guild that welcomes characters that are inhuman, or who are less than human. They are the largest guild in the city.
+
+Group: The Undocumented
+Description: The Undocumented are a group of super-villains who work outside of the Guild of Calamitous Intent. They are often considered a threat to the Guild's monopoly on villainy.
+
+Group: The Intergalactic Alliance of Freedom
+Description: The Intergalactic Alliance of Freedom is a peacekeeping organization that oversees the galactic community. They're headquartered on the moon and have an office on Earth. They have an intergalactic court system and a military.
+
+Group: The Holographic Liberation Front
+Description: The Holographic Liberation Front is a group of people who believe that they are not living in the real world, but in a simulation. They are fighting to break free from the simulation and into the real world.
+
+Group: The Black Hands
+Description: The Black Hands are a group of super-villains who all have a grudge against the Guild of Calamitous Intent.
+
+Group: The Legion of Justice
+Description: The Legion of Justice is a super-hero team that's been around for a long time. They've had many different members over the years, but their current roster is mostly young people who have recently joined the team.
+
+Group: The Society of Creative Anachronism
+Description: The Society of Creative Anachronism is a group of people who live in the past. They dress up in costumes, learn medieval skills, and hold medieval tournaments. They are sometimes seen wearing the letters SCA on their clothes.

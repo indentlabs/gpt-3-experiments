@@ -1,0 +1,20 @@
+Group: Photo-vegans
+Description: Photo-vegans are the penultimate culmination of a No True Scotsman progression from vegetarianism, veganism, raw veganism, and so on. Photo-vegans endure exhausting transhumanist surgery to enable their bodies to absorb nutrients directly from sunlight, like plants, removing the need to eat any food at all.
+
+Group: The Chaos Club
+Description: A secret club for students interested in mayhem, anarchy, and crime. The Harund Bomber was a member of this club and it's rumored that he's now in hiding somewhere within their walls.
+
+Group: The Guidance
+Description: The Guidance is a highly-influential high-tech illuminati-esque group that no one knows anything about. Their steady, invisible hand guides humanity through paths of their choosing.
+
+Group: The Church of the Second Coming
+Description: The Church of the Second Coming is a cult that believes that the second coming of Jesus Christ is imminent. They believe that they will be the only ones saved and that everyone else will be left behind to suffer in the apocalypse.
+
+Group: The Spades
+Description: The Spades are a gang of delinquent, petty criminals who roam the streets of St. Dymba and the surrounding neighborhoods. They're often seen wearing red and black, and are known for their flashy clothing and tattoos.
+
+Group: The Guild of Calamitous Intent
+Description: The Guild of Calamitous Intent is a shadowy, criminal organization that sponsors super-villains and super-heroes alike. It's a secret society and its headquarters is in the arctic, on an iceberg. Their finances are sealed, but some of their more notable members are largely active on social media.
+
+Group: The Storytellers' Guild/Hivers
+Description: The Storytellers' Guild runs an alternate universe as a shared imaginary story. Belonging to the guild is expensive; anyone involved in making role-playing games is automatically invited to work for the guild. Hivers are people who don't belong to the guild, but are "hiving off the universe" by calling themselves player characters and other names in the story.
