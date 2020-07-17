@@ -1,0 +1,47 @@
+
+Spell: Rain
+Element: Water
+Incantation: "Mish-sha-shu swoshi-su juli-wan"
+Description: The caster should chant the incantation while pointing their hand towards the sky. This will cause rain to fall from the sky in the direction the caster is pointing.
+
+Spell: Water Whip
+Element: Water
+Incantation: "Baba-shu baba-su"
+Description: The caster holds their hand above the surface of water and recites the incantation. The water will then condense into a long, whip-like shape which can be used to strike and bind targets.
+
+Spell: Healing
+Element: Light
+Incantation: "Sha-ma-bu-ru-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su-su
+
+Spell: Mind Control
+Element: Mind
+Incantation: "Nu-u-ma-su"
+Description: The caster must chant the incantation and then stare into the eyes of their target. The caster's eyes will glow red and the target's eyes will glow blue. The caster's mind will then enter the target's mind and take control of their body.
+
+Spell: Healing
+Element: Light
+Incantation: "Shi-ru-shi-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru-ru
+
+Spell: Levitation
+Element: Air
+Incantation: "A-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a-lu-a
+
+Spell: Fireball
+Element: Fire
+Incantation: "Kwita-machi-eo"
+Description: The caster must chant the incantation and then spit fire from their mouth, which will immediately ignite into a fireball upon contact with the air. To achieve a larger fireball, fire should be spit through teeth in a large, continuous stream.
+
+Spell: Freeze
+Element: Water
+Incantation: "Az-shuga ani bab-sha sa-on"
+Description: The caster holds a hand on the surface of water while repeatedly mouthing the incantation. This will cause the water above where the hand is held to condense and form icicles, which may be used for impaling or stabbing. After a brief duration, the icicle will melt into superheated water which can cause burns before evaporating.
+
+Spell: Fireball
+Element: Fire
+Incantation: "Alla-hu fire-jon buu"
+Description: The caster makes a fist and holds it tightly with their other hand while chanting the incantation. Their fist will glow red-hot until it combusts into a ball of flame, which can then be "punched" to launch a single fireball. The fireball will explode when making contact with a solid object.
+
+Spell: Mind Control
+Element: Mind
+Incantation: "Mwasha-shu swoshi-su"
+Description: The caster should chant the incantation while focusing on the target's mind. The caster should visualize the target's mind as a separate entity from their body, and then visualize the caster's mind as a separate entity from their body. The caster should then visualize their mind entering the target's mind and taking control of it.

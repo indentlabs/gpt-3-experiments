@@ -1,0 +1,29 @@
+Spell: Fireball
+Element: Fire
+Incantation: "Alla-hu fire-jon buu"
+Description: The caster makes a fist and holds it tightly with their other hand while chanting the incantation. Their fist will glow red-hot until it combusts into a ball of flame, which can then be "punched" to launch a single fireball. The fireball will explode when making contact with a solid object.
+
+Spell: Clairvoyance
+Element: Cosmic
+Incantation: "Du-jin sho-jo al-fu min-dun rek"
+Description: A skilled celestial magician can enter a meditative state and subconsciously chant the incantation to initiate an out-of-body experience. While they're unable to interact with the physical world in this form, they are able to move around and observe the world from other vantage points.
+
+Spell: Stone Wall
+Element: Earth
+Incantation: "Mwasha-shu swoshi-su bindushi wan"
+Description: With both palms planted firmly on a dirt ground, the caster should repeat the incantation a number of times proportional to the depth and width of the stone wall they would like to conjure. While reciting, the caster should point their mind in the direction the wall should form and visualize its size.
+
+Spell: Teleportation
+Element: Space
+Incantation: "Ba-ru-su-shu swoshi-su juli-wan"
+Description: A caster should recite the incantation and concentrate on the desired destination. The caster should visualize the area around them fading away, and the new location taking its place. The caster should then imagine themselves fading away from their current location and reappearing at the new location.
+
+Spell: Frostbite
+Element: Water
+Incantation: "Kwita-machi-eo"
+Description: The caster must chant the incantation and then spit water from their mouth, which will immediately freeze into weightless ice shards upon contact with the air. To achieve sharp shards, water should be spit through teeth in small, separated streams.
+
+Spell: Antipode Spear
+Element: Water
+Incantation: "Az-shuga ani bab-sha sa-on"
+Description: The caster holds a hand on the surface of water while repeatedly mouthing the incantation. This will cause the water above where the hand is held to condense and form icicles, which may be used for impaling or stabbing. After a brief duration, the icicle will melt into superheated water which can cause burns before evaporating.

@@ -1,0 +1,50 @@
+
+Spell: Memory Erasure
+Element: Memory
+Incantation: "Ran-jin-buu"
+Description: The caster makes eye contact with the target and holds the eye contact while reciting the incantation. If the incantation is recited correctly, the target's memories will be erased.
+
+Spell: Clone
+Element: Earth
+Incantation: "Du-du-du-du-du"
+Description: The caster will repeat the incantation and clap their hands twice. This will cause a clone of the caster to appear in the spot they clapped their hands. The clone will be of equal strength and speed to the original.
+
+Spell: Gravity Beam
+Element: Gravity
+Incantation: "Iye al-dur la-zaki"
+Description: The caster must stand with their palms spread open and their arms held straight. The caster must chant the incantation and focus on a single point while visualizing a thick beam of gravity. This will pull matter towards the point where the caster is focusing on.
+
+Spell: Darkness
+Element: Dark
+Incantation: "Nek-i dut-to koo-dun-on"
+Description: The caster should chant the incantation while concentrating on the desired area of effect. After a few seconds, the area should be engulfed in complete darkness.
+
+Spell: Wood
+Element: Earth
+Incantation: "Kibi-shu woshi-su dudushi wan"
+Description: The caster visualizes a tree and its roots and branches in their mind, while chanting the incantation. The caster then makes a fist and places it on the ground, while visualizing the tree taking root there.
+
+Spell: Energy Ball
+Element: Cosmic
+Incantation: "Ba-ru-su-shu swoshi-su nakamu-wan"
+Description: The caster should chant the incantation and visualize a swirling ball of cosmic energy forming in their hand. The caster should then hurl the ball towards their target and detonate it with a simple mental command. The ball is highly volatile and can cause burns and damage to surrounding objects when detonated.
+
+Spell: Circle of Power
+Element: Wind
+Incantation: "Muku sha-muki-wo maku sha-su maku sha-su"
+Description: The caster creates a ring of wind that swirls around the caster and deflects attacks that approach from any direction. The ring also allows the caster to hover above the ground and levitate at will.
+
+Spell: Rain of Fire
+Element: Fire
+Incantation: "Yug-dish an-su kula-kula!"
+Description: The caster makes a series of hand gestures before concentrating on the clouds above them and repeating the incantation. The clouds above will begin to move and swirl while gradually growing darker, and then release a torrent of fiery arrows.
+
+Spell: Sky Beam
+Element: Light
+Incantation: "Bei-schi no-mai otsu-nami"
+Description: The caster raises their hands and faces the sky while chanting the incantation. After completing the incantation, a burst of light will appear above the caster and begin to slowly drift towards the ground. As the beam approaches the ground, it will expand in width until it dissipates into nothing.
+
+Spell: Antipode Shield
+Element: Water
+Incantation: "Az-shuga ani bab-sha zu-on"
+Description: The caster holds their hand out while repeatedly mouthing the incantation. This will cause the water in the area around the caster's hand to condense and form an ice shield. The shield will shatter after a brief duration and melt into superheated water, which can cause burns before evaporating.

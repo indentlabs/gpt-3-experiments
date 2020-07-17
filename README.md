@@ -18,6 +18,7 @@ The following experiments are included in this repository:
 * `group-generator` generations ficticious groups of people that exist within the world.
 * `item-generator` generates fictional items, including a description and the material(s) that item is made of.
 * `landmark-generator` generates fictional landmarks, such as caves, bridges, mountains, and lakes.
+* `spell-generator` generates ficticious spells, including an incantation and instructions to cast.
 * `sword-generator` generates ficticious swords with a description and legendary backstory.
 
 ## Repository layout
