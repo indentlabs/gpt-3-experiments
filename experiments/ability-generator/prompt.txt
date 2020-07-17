@@ -1,0 +1,15 @@
+Ability: Animal Whisperer
+Strength: You can talk to animals and understand what they say, even when they are talking to other animals.
+Weakness: You lose the ability to talk to or understand humans.
+
+Ability: Inner Light
+Strength: Light is amplified before reflecting off your skin, always making the area around you as bright as daylight.
+Weakness: People are unable to look directly at you without damaging their retinas and going partially blind.
+
+Ability: Cryokinesis
+Strength: You have the ability to lower the temperature of objects with your mind.
+Weakness: Any time you make objects colder, you absorb the temperature differential by increasing your own body heat by the same amount.
+
+Ability: Potential Foresight
+Strength: You have the ability to preemptively see the immediate future.
+Weakness: The future you see is not guaranteed and even the smallest variation in your actions will render it obsolete.

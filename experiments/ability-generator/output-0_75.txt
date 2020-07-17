@@ -1,0 +1,38 @@
+
+Ability: Chameleon
+Strength: Your body is able to shift colors to match your environment.
+
+Ability: Psionic Shadow
+Strength: You have the ability to manifest a psionic shadow that can be used to attack and defend.
+
+Ability: Interdimensional Awareness
+Strength: You have the ability to see through the fabric of reality and into other dimensions.
+Weakness: You can only perceive these dimensions when you are extremely upset or agitated.
+
+Ability: Toxin
+Strength: You can cause an object or area to become highly toxic.
+Weakness: You can become poisoned just by touching an object that has been poisoned.
+
+Ability: Extradimensional Sensory Link
+Strength: You can sense the location and status of anyone you have previously made eye contact with.
+Weakness: You can only use this ability once every 24 hours and there is no range limit.
+
+Ability: Pyrokinesis
+Strength: You have the ability to increase the temperature of objects with your mind.
+Weakness: Any time you make objects hotter, you absorb the temperature differential by increasing your own body heat by the same amount.
+
+Ability: Full of Hot Air
+Strength: You can blow air out of your hands at incredible speed.
+Weakness: Your lungs can only handle air pressure at the bottom of the ocean.
+
+Ability: Illusory Geometry
+Strength: You have the ability to bend and stretch your body in impossible ways, but only when no one is watching.
+Weakness: If you are seen while doing it, your body snaps back to its original shape.
+
+Ability: Inertial Dampening
+Strength: You can alter your body to reduce the effect of physical forces on you, making it easier to resist and survive injury.
+Weakness: The more active you are, the harder it is to keep up the dampening. The dampening becomes unstable when you move quickly, making you vulnerable to concussions and other forms of head trauma.
+
+Ability: Hyper Speed
+Strength: You are much faster than normal.
+Weakness: Your brain is much slower than normal, causing you to think much more slowly.

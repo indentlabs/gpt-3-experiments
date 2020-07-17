@@ -10,6 +10,7 @@ The following experiments are included in this repository:
 
 ### Generators
 
+* `ability-generator` generates fictional abilities for characters, detailing a strength and weakness.
 * `building-generator` generates fictional buildings within a city.
 * `character-generator` generates fictional characters' names, descriptions, and appearances. 
 * `condition-generator` generates sicknesses and diseases that characters may be afflicted by.

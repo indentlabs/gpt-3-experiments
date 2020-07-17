@@ -1,0 +1,34 @@
+
+Ability: Temperature Variance
+Strength:You are able to raise or lower the temperature of any object.
+Weakness: You always suffer from any temperature extremes you create.
+
+Ability: Pyrokinesis
+Strength: You have the ability to spontaneously produce fire with your mind.
+Special: You can compress the fire you produce into a shape of your choosing. This shape can be manipulated freely as it burns.
+
+Ability: Shapeshifting
+Strength: You are able to morph into any animal you have seen.
+Weakness: Reluctance to Take A Third Bull
+
+
+Ability: Cryotokinesis
+Strength: The ability to lower temperatures with your mind.
+Weakness: Your own body temperature is lowered proportionately, making you more susceptible to the natural forces of cold.
+
+Ability: Cosmic Awareness
+Strength: You can sense your exact place within the universe. If you focus, you can always see the sun, moon, stars and planets in the sky.
+Weakness: You cannot see your own position in the universe, and you are still subject to the limitations of the laws of physics.
+
+Ability: Aura Absorption
+Strength: You can refill your Blood Pool by draining auras off of other living beings.
+Weakness: The draining is permanent and will kill the target.
+
+Ability: Calcified Physiology
+Strength: Your body is very sturdy, being as difficult to penetrate as solid Neutronium Steel.
+Weakness: You gain no sustenance from normal food, needing to suck nutrients out of cyanide and sugar-laced trees.
+
+Ability: Subterfuge Stimulation
+Strength: You have the ability to change how other people see and hear you to make them your friends and allies.
+Weakness: You have no control over the sensory stimuli you give to another person. Anything you think about can come true. Given enough time and focus, you can control other people's visions and hallucinations.
+Strength: You are able to speak, read, and write in any language, including gibberish.
