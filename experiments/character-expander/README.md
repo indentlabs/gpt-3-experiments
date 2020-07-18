@@ -1,6 +1,6 @@
 # Character Expander
 
-This experiment takes a character as input and outputs additional information about that character. Please see `prompt.txt` to view the prompt used and how to structure the character's information being used as input. The final character in the prompt (Joe Clementz) is the one being expanded upon, while previous characters are used as an example of what other fields are available to expound with.
+This experiment takes an existing character as input and outputs additional information about that character. Please see `prompt.txt` to view the prompt used and how to structure the character's information being used as input. The final character in the prompt (Joe Clementz) is the one being expanded upon, while previous characters are used as an example of what other fields are available to expound with.
 
 ## Usage in Notebook.ai
 

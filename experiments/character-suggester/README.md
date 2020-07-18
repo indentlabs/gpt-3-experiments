@@ -12,10 +12,10 @@ The character suggester (and, really, suggesters in general) will probably be us
 
 | Temperature | Remarks |
 |-------------|---------|
-| 0.0         |  |
-| 0.25        |  |
-| 0.50        |  |
-| 0.75        |  |
-| 1.00        |  |
+| 0.0         | Solid output, but lack of variety. |
+| 0.25        | All looks great, also it might be worth looking into a way to incorporate universe genres so we don't get e.g. [random references to elves](https://github.com/indentlabs/gpt-3-experiments/blob/master/experiments/character-suggester/output-0_25.txt#L19) in non-fantasy universes. |
+| 0.50        | High quality output. High variance/creativity. |
+| 0.75        | High quality output. Slightly longer descriptions than 0.50. High variance/creativity. |
+| 1.00        | Seems equally as fine as 0.75, albeit with potentially random references to [undefined characters](https://github.com/indentlabs/gpt-3-experiments/blob/master/experiments/character-suggester/output-1_0.txt#L17). |
 
-Recommended temperature for our use-case: 
+Recommended temperature for our use-case: 0.75
