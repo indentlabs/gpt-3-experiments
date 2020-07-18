@@ -16,6 +16,7 @@ The following experiments are included in this repository:
 * `condition-generator` generates sicknesses and diseases that characters may be afflicted by.
 * `creature-generator` generates fictional creatures with a brief description and leg count.
 * `flora-generator` generates fictional plants with a brief description and list of biomes they're found in.
+* `food-generator` generates fictional foods with a brief description and high-level recipe instructions.
 * `group-generator` generations ficticious groups of people that exist within the world.
 * `item-generator` generates fictional items, including a description and the material(s) that item is made of.
 * `landmark-generator` generates fictional landmarks, such as caves, bridges, mountains, and lakes.
