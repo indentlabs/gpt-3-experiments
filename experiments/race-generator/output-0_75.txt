@@ -1,29 +1,30 @@
 
-Race: Alteron
-Description: Alteron are cat-like creatures that are similar to cats, only with six limbs. They are also capable of seeing in the dark. They have a keen sense of smell and are extremely agile.
+Race: The Woods
+Description: The Woods are a sentient forest that are incredibly protective of their forest. They can move trees around, make roots trip up intruders, and even create fire from their branches.
 
-Race: Hynnody
-Description: Hynnody are small humanoid creatures that have long prehensile tails, pointed ears, and have green or blue skin. Hynnody are born without a voice and cannot speak unless they steal the voice of another creature, usually through a kiss.
+Race: Urkis
+Description: Urkis are a race of strong and hearty humanoids with features similar to a bird's. They have talons for feet and hands, feathers on their arms and legs, and are often seen carrying a bow and arrow around.
 
-Race: Kyoki
-Description: Kyoki are large, wolf-like creatures that are found in the northern mountains. They are extremely territorial and have a keen sense of smell that allows them to sense the location of others from great distances.
+Race: Liom
+Description: Liom are bipedal reptiles that are leaner and smaller than Draga. They have flat noses and a long, thin tail.
 
-Race: Tonton
-Description: Tonton are small creatures with long ears and a long tail. They are capable of morphing into any shape. Tonton are capable of mimicking sounds they hear and, because of this, have the ability to mimic human speech. They can be hard to control if one doesn't know how to treat them properly.
+Race: Humani
+Description: Humani are the descendents of human survivors of the first Great War, a cataclysmic war between the humans and the dragons. Their skins are typically a dark grey and their eyes are generally a light blue. They are stronger and faster than humans and their bones are about twice as thick.
 
-Race: Magwyn
-Description: Magwyn are magpies that have a natural affinity for magic. They are easily trained and usually kept as familiars by mages. Magwyn are immune to the effects of magic, and have the ability to transform into a humanoid form, usually that of a human child.
+Race: Hagl
+Description: Hagl are six-legged creatures with short, stumpy legs and elongated bodies. They have beaks, but have no discernible eyes. They have short hair on their bodies, but long hair on their head and their feet. They are covered in moss, making them almost impossible to spot in the forest. Hagl are very timid creatures and will run from almost anything.
 
-Race: Angora
-Description: Angora are small furred creatures that have a very hard time with cold weather. They are extremely shy and are often the victims of poaching.
+Race: Morgen
+Description: Morgen are small, quick creatures with long ears and thick fur. They are often used as familiars by witches and wizards, and are known for their sharp claws and ability to mimic human speech.
 
-Race: Vriker
-Description: Vrikers are humanoid lizards that are fast and can leap great distances. Their tails end in a flint-like blade that can cut through bone and wood. They are extremely territorial and will fight to the death to protect their homes.
+Race: Avar
+Description: Avars are wolf-like creatures that are the size of ponies. They have bushy tails and thick coats.
 
-The 'world' of Auriga is actually a large sphere, mostly covered by water. The 'land' is an archipelago that consists of around 1,000 islands, separated by large expanses of ocean. The land is mostly inhabited by humans, who are constantly under attack from sea-faring goblin races.
+Race: Merrow
+Description: Merrow are the most intelligent and humanoid of the aquatic races, and are the most commonly encountered by humans. They are the primary reason for the curse of the Sirens, for their constant raids of the human ships, searching for sailors to be their playthings. They are not a very welcoming race, and often kill humans who encounter them. They are described as having fish tails instead of legs.
 
-Race: Vespida
-Description: Vespida are bipedal insects that usually appear as blue glowing orbs. They have the ability to grow large and use their large pincers to fight. They are often mistaken for floating balls of fire, but they are able to talk to humans. They often fight over territory with Terafons.
+Race: Jotun
+Description: Jotun are massive creatures, usually at least twice the size of an average human. They are covered in thick, stoney skin and have thick, blocky legs. They also have short arms, a very long neck, and are usually covered in snow and ice.
 
-Race: Agard
-Description: Agards are large and agile beasts that resemble lizards with two legs. They are much stronger than they appear, capable of lifting heavy objects and able to speak.
+Race: Merro
+Description: Merro are fish-like creatures that can breath air. They have no limbs, but their bodies are long and slim. They have gills on their neck, which can be used to close off and seal up the mouth. They are often mistaken for fish or other sea life.

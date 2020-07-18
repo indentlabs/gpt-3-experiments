@@ -1,28 +1,26 @@
 
-Race: Osrah
-Description: Osrah are lanky figure-eaterish humanoids. Their heads and limbs are long and skinny while the center of their body thick and robust, making them appear as if they only have a torso. It's not uncommon for Osrah to weave planks of wood, stone, or other more flexible materials into their joints to allow for greater movement. They are known to have an excellent sense of smell and many Osrah are gluttons. Those that do not feast on others exclusively roughly only feast on dead trees.
+Creapso: A Taboo is the ruler of a nation on Taloo. To do something considered taboo, whether in a negative or positive way (i.e. "truly caring for your people") is a crime punishable by death. This is the reason that Jagar became a pariah as he was preparing to tell the humans about the Creapse (leader of Taloo) taboo of using magic on their Tama plants.
 
+Race: Nightwing
+Description: Nightwings are small, bat-like, harmless creatures that crave bloatsprites. They are sometimes used as transportation by nightwings, typically in the form of a makeshift saddle.
 
-The Tinga Series contains:
+Race: Beta (a kind of Centaur, actually)
+Description: Betas are bipedal creatures that have hooves instead of feet. Their feet are capable of becoming flat and hard like spikes to allow them to run on any surface. They have the bodies of humans but the tails of horses. Like bicycles or unicorns, they need to be paired with another Beta in order to pass over the boundaries of wonderlands.
 
-Race: Inferos
-Description: Inferos are small, floating creatures that only come out at night. They have long, spike-less arms, large eyeballs, and he of two antennae that protrude from their heads. Just being in close proximity to an Infero puts one under an increased heart rate.
+Race: Amal
+Description: Amal are enormous tortoise-like creatures with thick shells covering their bodies. They are covered in horns and spikes on their backs and heads when it is time for them to transition to adulthood, and have smooth shells prior. When an Amal reaches adulthood, they stay that way until they die.
+Physically, Draga are amongst the strongest creatures in the world. They excel in endurance and can continue fighting through a significant amount of wounds. While they are fast during their early years, Draga eventually become significantly slower. This is also true of their high level of flexibility which tapers off later in the Draga's life. Draga also have no distinction between hot and cold climate. Queimada Draga are grassland dwelling Draga who are brightly coloured and can usually be found with other Dragons. They rely more on their agility rather than their endurance and show different physical signs of strength than those found in jungle dwelling Draga.
 
-Race: Celburn
-Description: Big, bird-like creatures with total wingspan of up to 12 meters. Celburns are very large and strong and they're generally very relaxed creatures. Their eyes are on the edge of their wings, and they compensate for this by having very sharp vision. They mate for life from sundown to sunrise on the highest point of a mountain.
+The world of Falcrest is ruled over by a single omnipotent deity referred to as Recluse. Despite Recluse granting all people the power of magic, the citizens of Falcrest live mostly in the wilderness in political city-state fiefdoms. Many of the city-states worship Recluse by building their own giant statues in Recluse's image.
 
-Race: Ellen
-Description: Ellen are bird-like creatures that have the chassis of a falcon and body of a human. Their forearms are covered in featherlike scales and are often developed to serve as wings. They are very prideful and artistic.
+Race: Starshadow
+Description: Starshadows are capable of rendering themselves seemingly invisible to human eyes. They are wingless faeries that are wrapped completely in dark blue hair. They are quite taciturn and nearly impossible to understand due to their tendency to speak only in murmurs.
 
-Race: Salamien
-Description: Much taller and heavier than humans, Salamiens are close living cousins of humans. Salamiens have long ears, and elongated faces with four eyes. An infant salamien will be raised by the mother, and they live in caves. The mother is often pregnant with twins because people often ask the same sex of the child. A major difference between the salamien and the human is that they sometimes eat their food before it's dead. Salamiens are incredibly naive.
+Race: Rashka
+Description: Rashka are bipedal, large reptiles that live in herds. They have long claws on their pointing 'fingers' and these tend to be the preferred weapons. They are as aggressive and territorial as wyverns.
 
-Three Kingdoms
+Race: Nuvek
+Description: Nuveks are salamander like creatures that come in multiple colors. They often lose limbs in fights and grow them back eventually.
 
-Race: Centaurs of the Kenwood
-Description: The serpents found in Loopumaliku, a dangerous forest in the west of Zableaf. Centaurs of the Kenwood are covered in a leathery hide, with the addition of horse legs and hooves. They have bat-like wings that they can use to glide across long distances. Tremor-Tails are clumsy fliers and are often easy targets for elf arrows.
-
-Race: Triben
-Description: A feline race known for their stripes. They are tall, bipedal felines, but with a backward-bent lower spine giving them a downward-pointing tail, and are covered in fur and flesh-tone stripes. Tribute, as it's called for short, have strong jaws and can jump far and high. They can swivel their ears all the way around, expanding the field of sound they pick up at once for hunting. They're omnivores and not carnivores, but will eat any meat they can find. They can smell well enough to track most prey from miles out.
-Race: Yiamasi
-Description: The race of Yiamasi are four-legged creatures that are able to transform into a humanoid form. They supplement this ability with an innate attachment to the physical world, allowing them to become one with the earth itself. A Yiamasi's physical form ranges from short to extra-tall, with most members of the species having light green or gray skin.
+Race: Leigor
+Description: Leigors look similar to Draga, but are slimmer. They have slightly longer tails and usually have more luxurious hair than Draga. Leigors tend to make up for their lack of strength and speed with their tongues, often seen persuading others to do things for them or badgering their compatriots.

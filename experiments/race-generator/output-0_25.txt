@@ -1,30 +1,30 @@
 
-Race: Nymph
-Description: Nymphs are human-like creatures with the lower bodies of fish. They are capable of breathing underwater and are known for their beauty.
+Race: Rask
+Description: Rask are large, furry, bear-like creatures that are usually covered in thick brown fur. They have large claws and sharp teeth and are extremely strong. They are often used as guards by nobles.
 
-Race: Skell
-Description: Skells are large, furry creatures that are often mistaken for bears. They are extremely strong and are capable of carrying multiple people long distances. Skells are often caught and tamed by nobles to pass down through generations. They are extremely dull-witted.
+Race: Vrykolakas
+Description: Vrykolakas are the undead, reanimated corpses of the dead. They are extremely strong and are able to infect others with their bite. They are also able to take on the form of a mist and move through the air.
 
-Race: Arden
-Description: Arden are large, cat-like creatures that are extremely strong and are covered in thick fur. They are very fast and are capable of climbing trees and running on all fours.
+Race: Tear
+Description: Tear are large, furry creatures that are usually covered in thick, soft fur. They have long, thick tails that are used to balance themselves when they jump. They have a large mane of fur around their neck and are usually a dark brown or black color.
 
-Race: Cyli
-Description: Cyli are small, insect-like creatures that live in swarms. They are capable of creating fire and are extremely fast. They are very social creatures and are often seen in large groups.
+Race: Shriek
+Description: Shrieks are small, bat-like creatures that are covered in fur. They have a large mouth filled with sharp teeth and a long tongue. They are very fast and are often used as messengers.
 
-Race: Gremlins
-Description: Gremlins are small, furry creatures that are known for their mischievous behavior. They are extremely fast and agile and are capable of scaling walls and trees with ease. They are often found in the company of Draga.
+Race: Ljosalfar
+Description: Ljosalfar are small, winged creatures that are very similar to pixies. They are extremely playful and are known to steal shiny objects. They are very curious and are known to follow people around.
 
-Race: Puk
-Description: Puk are small, winged creatures that are capable of breathing fire. They are often used as pets by nobles.
+Race: Dæth
+Description: Dæth are small, furry creatures that are very fast and can climb up walls and trees. They are extremely intelligent and can be taught to do simple tasks. They are very loyal to their owners and are very affectionate.
 
-Race: Alke
-Description: Alke are large, winged creatures that are usually covered in feathers. They are very strong and can carry multiple people long distances. They are also very fast and are capable of flying at high speeds.
+Race: Ruka
+Description: Ruka are a race of humanoid creatures that are extremely short and have a thick layer of fur covering their bodies. They are extremely fast and agile, and are capable of jumping up to ten feet in the air. They are also extremely strong for their size.
 
-Race: Jotun
-Description: Jotun are large, strong, and have a thick hide. They are very slow and lumbering, but are capable of great feats of strength. They are often used as beasts of burden.
+Race: Zee
+Description: Zee are small, blue, and have a long tail that they use to swim. They are able to breathe underwater and are capable of moving quickly through the water. They are usually very friendly and are often found in the company of humans.
 
-Race: Vayash Moru
-Description: Vayash Moru are a type of undead that are capable of living for hundreds of years. They are very strong and are able to move quickly despite their size. They are also capable of draining the life out of their victims.
+Race: Lorn
+Description: Lorn are large, quadrupedal creatures that are covered in thick fur. They are extremely strong and are capable of carrying multiple people long distances. They are very loyal and are often used as mounts by the military.
 
-Race: Pelt
-Description: Pelts are large, furry creatures that are capable of walking on two legs. They are very strong and are often used as mounts by the military.
+Race: Fyra
+Description: Fyra are small, cat-like creatures that are extremely fast and agile. They are capable of climbing walls and trees with ease and are often used as messengers by the nobility. They are very loyal to their masters and are often seen wearing collars with a bell attached.

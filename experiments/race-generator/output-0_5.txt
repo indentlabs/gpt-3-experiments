@@ -1,30 +1,30 @@
 
-Race: Faun
-Description: Fauns are human-like creatures with the head of a goat. They are known for their agility and their ability to run up walls and across ceilings. They are often mistaken for Draga, though they are not nearly as strong.
+Race: Ochre
+Description: Ochre are large, furry creatures that are similar to dogs. They are extremely loyal and are used as pets, guards, and for racing.
 
-Race: The Fallen
-Description: The Fallen are large, humanoid creatures with large, leathery wings. They have horns and sharp teeth, and are capable of flight. They are extremely strong and are often seen as a symbol of fear. They are extremely dull-witted and usually don't have any sort of personality.
+Race: Mabari
+Description: Mabari are canine-like creatures with the ability to speak. They are the primary hunting and fighting animals of the Varden. They are bred for their strength, loyalty, and intelligence.
 
-Race: Wodewose
-Description: Wodewoses are large, bipedal creatures with long arms and claws. They have thick fur and can be found in forests.
+Race: Nereid
+Description: Nereids are humanoid water-dwelling creatures with the upper body of a human and the lower body of a fish. They are able to breathe both air and water. They are usually friendly towards humans, but are known to attack if provoked.
 
-Race: Birtan
-Description: Birtans are bipedal reptiles that are very strong and have large claws. They are usually covered in thick leathery skin. They have long tails that are nearly as strong as their arms and can often be seen doing cartwheels for fun.
-
-Race: Strega
-Description: Strega are large, hairless, flightless birds that live in trees and are capable of spitting fire. They are usually docile and have been domesticated by humans.
-
-Race: Orr
-Description: Orr are large, furry creatures that are very strong and are capable of walking on their hind legs. They are very loyal and can often be seen following around the children of the noble families they serve.
+Race: Drea
+Description: Drea are small, winged humanoids that are similar to pixies. They are capable of flight and have a natural affinity for magic. They are small enough to fit in the palm of a hand and usually have an almost ethereal glow to them.
 
 Race: Undine
-Description: Undine are aquatic creatures that resemble mermaids. They are covered in scales and fins and are capable of breathing air. They have the ability to breathe underwater and are able to swim faster than any other race. They are also capable of manipulating water to an extent.
+Description: Undine are aquatic creatures that have the upper body of a human and the lower body of a fish. They are very intelligent and can breathe both air and water.
 
-Race: Vulpes
-Description: Vulpes are fox-like creatures that have a long, prehensile tail that they can use to hold objects. They are very agile and are capable of climbing trees.
+Race: Dokkalfar
+Description: Dokkalfar are dark elves who are skilled in magic and use a combination of ice and shadow magic. They are born with dark grey skin that fades to a lighter grey with age. They are the only race to have pointed ears and have a reputation for being the most intelligent of the races.
 
-Race: Zephyr
-Description: Zephyrs are small creatures with a beak-like mouth and wings. They are usually only a few feet tall, but can fly extremely fast. They are often used as messengers by nobles.
+Race: Amal
+Description: Amal are large, strong, furry creatures with short horns on their heads. They are very territorial and are often seen as the "protectors" of the other races. They are often used as guards by nobles and kings.
 
-Race: Elken
-Description: Elken are creatures that resemble large deer with a single antler. They are often found in the woods and are quite timid, but are extremely fast. They are known to be quite fond of eating the grass of any nearby meadows.
+Race: Human
+Description: Humans are the main race in the world of "The Grisha" and make up the majority of the population. They have no magical abilities, but are the most adaptable of the races.
+
+Race: Drau
+Description: Drau are creatures that are born from the darkness. They are creatures of the night and are attracted to dark places. They are born from the dark and are capable of controlling the dark, and they are attracted to it. They can manipulate shadows and create tendrils of darkness to attack their enemies. They are also capable of creating illusions to hide themselves.
+
+Race: Ghuls
+Description: Ghuls are an ancient race of humanoid creatures that are pale and sickly-looking. They have large, yellow eyes and are known for their paralyzing touch. Ghuls are a dying race and have lost much of their former power.

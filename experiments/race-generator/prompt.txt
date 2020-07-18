@@ -8,4 +8,4 @@ Race: Wyrde
 Description: Wyrde are large, feathered creatures who live in treetops and are capable of breathing fire. They are strong, fast, and are large enough to carry multiple people long distances. Wyrde are often caught and tamed by nobles to pass down through generations. They are extremely dull-witted.
 
 Race: Draga
-Description: Draga are bipedal reptiles that are strong and are usually covered in thick leathery skin. They have long tails that are nearly as strong as their arms and can often be seen doing cartwheels for fun.
+Description: Draga are bipedal reptiles that are strong and are usually covered in thick leathery skin. They have long tails that are nearly as strong as their arms and can often be seen doing cartwheels for fun. The males have large spiked crests on top of their heads.
