@@ -1,6 +1,6 @@
 #  GPT-3 Experiments for Worldbuilding
 
-This repo contains example prompts for OpenAI's GPT-3 API and the resulting AI-generated texts for an assortment of worldbuilding tasks. Each task is meant to illustrate how GPT-3 can be integrated in the creative worldbuilding process for writers, game designers, roleplayers, and other worldbuilders. Each experiment's prompt is also designed to be populated with notebook data from [Notebook.ai](https://www.notebook.ai) for a specific user doing the generation, which should result in output more personalized to that user's world.
+This repo contains example prompts for OpenAI's GPT-3 API and the resulting AI-generated texts for an assortment of worldbuilding tasks. Each task is meant to illustrate how GPT-3 can be integrated in the creative worldbuilding process for writers, game designers, roleplayers, and other worldbuilders. Each experiment's prompt is also intentionally designed to eventually be populated with notebook data from [Notebook.ai](https://www.notebook.ai) for the specific user doing the generation, which should result in output that is personalized to that user's world.
 
 All generated texts in this repo are completely unedited and uncurated unless explicitly stated otherwise.
 
@@ -33,7 +33,7 @@ Generators are focused around generating individual, core worldbuilding pieces.
 
 Expanders take an existing worldbuilding piece and attempt to indiscriminately expound upon it.
 
-* `character-expander` takes an incomplete character (here, Joe Clementz) and adds additional information about that character.
+* `character-expander` takes an incomplete character (here, Joe Clementz) and randomly adds additional information about that character.
 
 ### Suggesters
 
