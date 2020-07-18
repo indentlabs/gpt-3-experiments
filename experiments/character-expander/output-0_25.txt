@@ -1,0 +1,54 @@
+Hair color: Brown
+Eye color: Brown
+Favorite food: Pizza
+Prejudices: Joe doesn't like the rich. He feels they have it easy and don't deserve the money they have.
+
+Age: 35
+Weight: 200
+Height: 5'11"
+Prejudices: Joe hates the rich and the nobles. He sees them as spoiled and arrogant, and he's not afraid to let them know it.
+
+Age: 36
+Weight: 210
+Height: 5'10"
+Favorite color: Green
+Hair color: Brown
+Prejudices: Joe is extremely prejudiced against nobles. He believes they are all spoiled and lazy, and he has no respect for them.
+
+Age: 32
+Children: Three kids, two boys and a girl.
+Profession: Two full-time jobs. One as a construction worker and the other as a night watchman.
+Prejudices: Joe hates the rich and the nobles. He feels that they have everything handed to them and don't appreciate it.
+
+Hair color: Brown
+Eye color: Brown
+Prejudices: Joe is a very stressed man. He's always on edge and doesn't trust anyone. He's also very suspicious of the government and thinks they're always watching him.
+
+Age: 36
+Weight: 200
+Height: 5'11"
+Prejudices: Joe hates the rich and the nobles. He sees them as spoiled and lazy, and resents the fact that they don't have to work for anything.
+Favorite food: Spaghetti
+Favorite color: Blue
+
+Hair color: Brown
+Eye color: Brown
+Favorite color: Blue
+Prejudices: Joe is very protective of his family and doesn't like to see them get hurt. He is very anti-war and doesn't like the idea of his children being drafted.
+
+Prejudices: Joe is very distrusting of anyone who isn't a member of his family. He doesn't like talking to people he doesn't know and is quick to anger when he feels threatened.
+Favorite food: Meat
+Favorite animal: Dog
+Favorite color: Blue
+
+Age: 35
+Weight: 190
+Height: 5'8"
+Prejudices: Joe is very protective of his family and is very wary of strangers. He doesn't trust anyone who tries to talk to him about his family.
+
+Hair color: Brown
+Eye color: Brown
+Prejudices: Joe is extremely wary of anyone who is rich or a noble. He believes that they are all greedy and only care about themselves.
+Favorite food: Pizza
+Favorite animal: Dog
+Favorite color: Blue

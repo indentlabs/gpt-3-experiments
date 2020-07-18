@@ -1,0 +1,63 @@
+============================================
+Name: Alice Smith
+Description: A middle-aged woman who works at the Jung Pub. She likes art and reading, but hates talking about either.
+Appearance: She has blonde hair that's quickly turning white and often wears oversized dresses to hide her large figure.
+Age: 27
+Weight: 190
+Height: 5'6"
+Favorite color: Green
+Nickname: Howl
+--------------------------------------------
+
+============================================
+Name: Quincy Black
+Description: A quiet boy who works at as an apprentice for the local blacksmith. He's one year into his training, but learning fast.
+Appearance: His style is down-to-earth, with lots of long pants and plain shirts.
+Eye color: Blue
+Hair color: Blonde
+Age: 17
+Prejudices: Quincy often feels extremely uneasy around rich people and nobles. He doesn't trust them or their motivations and intentionally strives to keep poor friends.
+--------------------------------------------
+
+============================================
+Name: Charles Morgen
+Description: A slightly greedy man who lives in the Morgen Mansion up the mountain. Made a fortune on the war.
+Greatest fear: Falling and being unable to get up
+Appearance: He's typically seen wearing a suit and rarely in anything else.
+Hair color: Grey
+Favorite weapon: Rapiers
+Children: Henry Morgen, Christina Morgen
+Age: 84
+Favorite animal: Walrus
+Religion: Atheist
+Prejudices: Charles doesn't like how "modern" everyone else in town is. He sees himself as the "old ways" and resents the direction the world is heading in.
+--------------------------------------------
+
+============================================
+Name: Ebeneezer Jung
+Description: An old widower that runs the Jung Pub. Lives in the forest behind the Pub with his son Jason Lugg.
+Appearance: Usually wearing overalls. Very tanned from working outside. Strong and hairy.
+Gender: Male
+Age: 79
+Skin tone: Olive
+Hair style: Bald
+Motivations: Ebeneezer tries his hardest to make what money he can at an old age in order to give his son Jason a good life, or at least a better one than he had growing up.
+Hobbies: In his spare time, Ebeneezer likes to knit and whittle. His favorite projects combine the two to build intricate wooden cradles for knitted designs.
+--------------------------------------------
+
+============================================
+Name: Dr. Milton Malicious
+Description: A grumpy old shrew who lives at the far edge of town. He is overly protective of his sweet potato garden. 
+Appearance: Dr. Milton is incredibly tall and lanky. His glasses are extremely large and thick, and he walks with a silver cane.
+Profession: Science Professor
+Age: 53
+Favorite food: Sweet potato
+Personality type: Introverted and quiet, although he comes out of his shell occasionally with those he's close with.
+Religion: Christianity
+Favorite color: Blue
+--------------------------------------------
+
+============================================
+Name: Joe Clementz
+Description: A man stressed out by life. He works two full-time jobs to put food on the table for his disabled wife and three kids.
+Appearance: He has a full beard and a balding head. His clothes are old and falling apart, but still do the job -- for the most part.
