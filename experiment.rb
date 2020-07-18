@@ -50,11 +50,11 @@ end
 
   # Report to the console
   puts "Completion result:"
-  puts completions.join(settings.fetch(:result_delimiter, "\n"))
+  puts completions.join(settings.fetch(:result_delimiter))
 
   # Write the completions for this temperature to an output file
   filename = "experiments/#{experiment_name}/output-#{temperature.to_s.gsub('.', '_')}.txt"
-  File.write(filename, completions.join(settings.fetch(:result_delimiter, "\n")))
+  File.write(filename, completions.join(settings.fetch(:result_delimiter)))
 
   # Sleep for a short period of time to keep stress off OpenAI servers
   puts "Briefly sleeping -- hold tight!"
