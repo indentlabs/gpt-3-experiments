@@ -26,6 +26,7 @@ Generators are focused around generating individual, core worldbuilding pieces.
 * `landmark-generator` generates fictional landmarks, such as caves, bridges, mountains, and lakes.
 * `race-generator` generates fictional races with a brief description.
 * `spell-generator` generates ficticious spells, including an incantation and instructions to cast.
+* `sport-generator` generates fictional sports with setup instructions, points explanations, and win conditions.
 * `sword-generator` generates ficticious swords with a description and legendary backstory.
 
 ## Repository layout

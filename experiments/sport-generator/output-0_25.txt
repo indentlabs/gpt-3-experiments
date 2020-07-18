@@ -1,0 +1,50 @@
+
+Sport: Bocce
+Setup: Two teams of at least three players each face off in a large field. Each team has a "bocce ball" (a tennis ball) and a "bocce target" (a bucket).
+Points: Players take turns throwing their bocce ball at their target. If the ball lands in the target, the team earns one point.
+Win condition: First team to 21 points wins.
+
+Sport: Blindfolded Volleyball
+Setup: Two teams of five players each face off in a volleyball court. One player from each team is blindfolded, and must serve the ball.
+Points: When a ball touches the ground, the last team to touch it gains 1 point. If a ball goes out of bounds, the last team to touch it loses 1 point.
+Win condition: First team to 21 points wins.
+
+Sport: Chickenball
+Setup: Two teams of at least ten players each face off in a large field. A ball is placed in the center of the field, and players attempt to grab it and bring it back to their team's goal.
+Points: When a player grabs the ball, they earn one point for their team.
+Win condition: First team to 5 points wins.
+
+Sport: Bocce
+Setup: Two teams of at least three players each face off in a field with two bocce balls. The balls are placed on opposite sides of the field, and players take turns throwing their balls as close to the other team's ball as possible.
+Points: Each ball that is closer to the other team's ball than the closest ball of the other team earns one point.
+Win condition: First team to 21 points wins.
+
+Sport: Water Polo
+Setup: Two teams of five players each compete in a pool of water. Players are not allowed to touch the bottom of the pool, and must remain in the water at all times.
+Points: Players score points by throwing the ball into the opposing team's goal.
+Win condition: First team to 5 points wins.
+
+Sport: Air Hockey
+Setup: Two teams of at least two players each face off on a table with a puck and a goal. The puck is moved by blowing on it, and the goal is scored by passing the puck through the goal.
+Points: When a team scores a goal, they earn one point.
+Win condition: First team to 5 points wins.
+
+Sport: Eggball
+Setup: Two teams of five players each face off in a large field. Each team has a large basket of eggs, and a large bucket of water.
+Points: When a player is hit by a ball, they must drop an egg into their bucket. If a player is hit by a ball while holding an egg, they must drop the egg and take a step back.
+Win condition: First team to drop all of their eggs wins.
+
+Sport: Shoe Golf
+Setup: A large field is divided into two halves by a large line. Each team is given a pair of shoes and a golf ball. The golf ball must be kept in the shoes at all times.
+Points: Players may only score points by hitting the ball into the other team's half of the field.
+Win condition: First team to 5 points wins.
+
+Sport: Muffin Toss
+Setup: Players are divided into two teams, and each team is given a "muffin" (a small, dense ball) and a "muffin hole" (a hole in the ground). Points are scored when a muffin is dropped into a muffin hole.
+Points: Each muffin dropped into a muffin hole earns one point.
+Win condition: First team to 5 points wins.
+
+Sport: Dogpile
+Setup: Two teams of at least ten players each stand on opposite sides of a field. A ball is placed in the center of the field, and players attempt to gain control of the ball by running into it.
+Points: Players are awarded points based on how many other players they are touching.
+Win condition: First team to 10 points wins.

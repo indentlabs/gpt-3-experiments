@@ -1,0 +1,50 @@
+
+Sport: Reverse Tag
+Setup: Players are divided into two teams. One team is "it" and is trying to tag the other team.
+Points: Players can be tagged by being touched with a ball. The player who was tagged becomes "it" and the team who tagged them gains one point.
+Win condition: First team to 5 points wins.
+
+Sport: Cheese Pong
+Setup: Two teams of five players each face off in a large field. A tennis ball is placed on a "paddle" (a large block of cheese) and players must knock the ball into the opposing team's goal. Points are scored when a team's ball is closest to the paddle.
+Points: Each shot earns one point for the closest team to the paddle.
+Win condition: First team to 5 points wins.
+
+Sport: Fishball
+Setup: Two teams of at least five players each stand on opposite sides of a table. A tennis ball is placed in the center of the table, and players attempt to hit it into the other team's goal. Points are scored when a team's ball is closest to the tennis ball.
+Points: Each shot earns one point for the closest team to the tennis ball.
+Win condition: First team to 5 points wins.
+
+Sport: Handegg
+Setup: Teams of five players face off in a large field. Each team has a goal consisting of a single, large, red hand. The goal is defended by a goalie, who is allowed to move the hand in any direction, but may not let it touch the ground. Points are scored by kicking the ball into the other team's goal.
+Points: A goal is worth 3 points.
+Win condition: First team to 10 points wins.
+
+Sport: Nail-throwing
+Setup: Players throw nails at a target from a distance of 10 meters. Points are scored when a player hits the target.
+Points: Each nail hit earns one point.
+Win condition: First team to 21 points wins.
+
+Sport: Spank the Monkey
+Setup: Two teams face off in a field, each team holding a "score bucket" (a bucket of water). A ball (typically a sock filled with pennies) is placed in the center of the field. Players on each team take turns spanking the monkey (the ball) until it hits the ground.
+Points: Each spank earns one point for the team.
+Win condition: First team to 5 points wins.
+
+Sport: Prison-O-Rama
+Setup: Players are placed into teams of five, and given a "weapon" and a "target" to attack. The weapon can be anything from a stick to a sock full of rocks, and the target can be anything from a person to a bucket.
+Points: The goal is to hit the target with the weapon as many times as possible within the course of the game.
+Win condition: The team with the most hits wins.
+
+Sport: Duck, Duck, Goose
+Setup: Players are seated in a circle, and one player is chosen to be "it". That player walks around the circle tapping each player on the head, saying "duck" each time. The players who are tapped must get up and chase the player who tapped them. When the player who is "it" taps a player who is not standing, that player becomes "it".
+Points: Players are scored based on how long they can avoid being tapped by the "it" player.
+Win condition: The game ends when the "it" player taps the last player who is not standing. The player who was last tapped is awarded a point.
+
+Sport: Sock-Puppetry
+Setup: A sock is placed on a stick and players try to maneuver it through a series of obstacles.
+Points: Each time a player touches the sock with their hand, they earn one point.
+Win condition: First team to 5 points wins.
+
+Sport: Slo-pitch
+Setup: Teams alternate throwing tennis balls at a tennis ball on a stick. The stick is attached to a rope, which is tied to a pole in the center of the field. Points are scored when a team's ball is closest to the center pole.
+Points: Each shot earns one point for the closest team to the center pole.
+Win condition: First team to 5 points wins.

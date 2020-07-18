@@ -1,0 +1,44 @@
+
+Sport: OUBLANG
+Setup: Two teams of seven players each use designated letters on a keypad to spell "banana" on their laptops. They are not initially given this information, and must attempt to guess which letters are part of their adjacent teammates' OBU scripts, and then use smart poster board strategies to create B with their own letters. Points are scored when a team's "banana sculpture" is accurately spelled, or when the keypad is used to spell B adjacent to an opponent's O. Scorers on each team must approve of their team's spelling to win.
+Win condition: First team to spell "banana" with no adjacent errors wins. Note: University of St Andrews does not support spell-checking during games, enforcing proper spelling skills.
+
+Sport: Rolling Dodgeball
+Setup: This iteration of dodgeball is played on a 10x20 yard field. Members of each team stand on the edges of the field, while the ball is thrown by an "American football-style punter" into the middle of the field, where two players from opposing teams try to hit each other with the ball.
+Points: A struck victim is knocked out of play, until the live player with the most hits remaining is left standing.
+Win condition: Times can be adjusted to allow for different playtimes and skill levels. The game could be made shorter and more difficult by increasing the number of lives each player has. Alternatively, Games could be lengthened by removing the requirement that the winning team must outlive its opponents.
+
+Sport: Dodgeball
+A team sport traditionally played without the use of protective covering, individuals win points by eliminating players on the opposing team using projectile-based motion sensitive weapons.
+Points: Wounded players are out until they can run into a marked safe zone on the field.
+Win Condition: There's no point limit, instead after 5 minutes the team with fewer survivors is the winner.
+Variation: Instead of trying to knock the stone out of the house, teams may choose to repeatedly shoot for the hole.
+
+Sport: Craneball 
+Setup: This sport was traditionally played with man-crane-sized robots, but can be played with any fast-moving object bearing a heavy weight in an enclosed field. Players control gravity crane drones to move the heavy sandbags to previously marked locations, while outmaneuvering and dodging from the other team's attempts to knock them off of the apparatus' turntable. A team earns one point for every sandbag moved off of the apparatus; however, the sandbags mark locations by which 100 points can be scored, and how these sites can be scored is not revealed to players before the end of the game. It is revealed to the players before the game if the points are scored during the game.
+Points: Owning the 100 point site gives 1 point. Alternately, if a player detaches the heavy sandbag from the apparatus without returning it, both teams lose 1 point.
+Points are stolen by dragging a heavy sandbag off the apparatus and returning it to the score pile before the opponent's sandbag is placed on the apparatus.
+Points are exchanged when both cranes accidentally load the same sandbag.
+Win condition: First team with 100 points – or with most points when the allotted time expires – wins.
+
+Sport: Uno
+Setup: As in traditional Card-Sharp, the game requires a day of planning to prepare. The planning group is awarded points. Points are also awarded for ramdom items found lying around the Knockwood office.
+Points: Players earn one point each time they spot an unusual happening. 
+Win condition: None - the entire day is a game.
+
+
+Sport: Rock or Chamoy (see also: coloured bean bag toss)
+Setup: Stones are placed randomly around a circle and points are awarded to players based on which stone they knock out of play. Points are also given out if a stone is knocked partially out of the circle and partially in it, or if the stone "bounces/rolls" out of play.
+Points: Each team takes part in two throws and on each throw captures a number of stones equal to what they scored on that throw. For every stone captured in this manner, that player will lose a point at the end of the game.
+Win condition: First team to lose all their points wins.
+
+Sport: Ballskee Ball
+Setup: Each team is given 5 balls and stands in the center of a square. Two "shot blockers" block the way from each team from their basket to their opponent's basket.
+Points: When a shot blocker steps in the path of any of the balls, it counts as two points for the offense.
+Win condition: When one team has 15 points, they win.
+
+Sport: Mangowar
+Setup: One or more teams face off with one or more Mangowars. A Mangowar is a staff resembling a trident, with a volleyball stuffed securely in its center or back half, made of "airwave" (milky string), which if broken upon impact, will render the Mangowar unplayable. Points are scored for breaking a Mangowar, for a losing team declaring a win, or when a team hits a member of the opposite team.
+Points: Each Mangowar shot is one point.
+Win condition: Any game can win, but some call the game a tie if neither team declares a win.
+A variation played in Canada involves putting a bottle of maple syrup in a hole.

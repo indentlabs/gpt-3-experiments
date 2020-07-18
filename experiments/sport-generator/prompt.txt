@@ -1,0 +1,23 @@
+Sport: Billyball
+Setup: Two teams of 15 players each face off in a large field with three large balls in play, trying to keep them in the air as long as possible. 
+Points: When a ball touches the ground, the last team to touch it gains 1 point. If a ball goes out of bounds, the last team to touch it loses 1 point.
+Win condition: First team to 21 points wins.
+
+Sport: Speedgolf
+Setup: Golf balls are tied to the start position with a long, tensile cord which slowly rescinds during the game, continuously drawing the ball back closer and closer to its original starting position. Players must take shots quickly to avoid the ball being dragged backward between shots.
+Points: Like in regular golf, each stroke is counted as one point.
+Win condition: When all players have reached the end of the course, the player with the lowest score wins.
+
+Sport: Beeball
+Setup: This sport was traditionally played with bees in a flower field, but can be played with any fast-moving animal in an enclosed field. Two or more teams of at least ten players each hold a "score basket" that they attempt to pass the bee (or other animal) through. When the bee passes through a score basket, that player's team earns one point.
+Win condition: Beeball typically lasts for thirty minutes or until the bee dies.
+
+Sport: Prisonball
+Setup: Players are assigned roles randomly, and placed into groups of ten. They are not allowed to communicate with each other until the end of the game. Each player is also given a hat which must be worn throughout the game. Roles include "kicker", "goalie", "defender", and "rebound". In order to fulfill a role, players much accomplish a set of specific achievements within that role during the course of the game.
+Points: Players are individually scored based on fulfilling their roles, rather than scoring the ball in the other team's goal.
+Win condition: All players must reveal their roles to each other at the end of the game. Players who fulfilled their roles will be awarded points. The player with the highest score wins "MVP" and the team with more points across all of its players wins.
+
+Sport: Banana Curling
+Setup: A "curling stone" (banana) is placed on a pebble, and teams alternate throwing tennis balls at the banana to knock it out of the "house" (constructed with buckets) and into the "hole" (a bucket of water). Points are scored when a team's ball is closest to the banana.
+Points: Each shot earns one point for the closest team to the banana.
+Win condition: First team to 5 points wins.
