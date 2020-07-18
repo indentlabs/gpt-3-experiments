@@ -1,0 +1,30 @@
+
+Race: Nymph
+Description: Nymphs are human-like creatures with the lower bodies of fish. They are capable of breathing underwater and are known for their beauty.
+
+Race: Skell
+Description: Skells are large, furry creatures that are often mistaken for bears. They are extremely strong and are capable of carrying multiple people long distances. Skells are often caught and tamed by nobles to pass down through generations. They are extremely dull-witted.
+
+Race: Arden
+Description: Arden are large, cat-like creatures that are extremely strong and are covered in thick fur. They are very fast and are capable of climbing trees and running on all fours.
+
+Race: Cyli
+Description: Cyli are small, insect-like creatures that live in swarms. They are capable of creating fire and are extremely fast. They are very social creatures and are often seen in large groups.
+
+Race: Gremlins
+Description: Gremlins are small, furry creatures that are known for their mischievous behavior. They are extremely fast and agile and are capable of scaling walls and trees with ease. They are often found in the company of Draga.
+
+Race: Puk
+Description: Puk are small, winged creatures that are capable of breathing fire. They are often used as pets by nobles.
+
+Race: Alke
+Description: Alke are large, winged creatures that are usually covered in feathers. They are very strong and can carry multiple people long distances. They are also very fast and are capable of flying at high speeds.
+
+Race: Jotun
+Description: Jotun are large, strong, and have a thick hide. They are very slow and lumbering, but are capable of great feats of strength. They are often used as beasts of burden.
+
+Race: Vayash Moru
+Description: Vayash Moru are a type of undead that are capable of living for hundreds of years. They are very strong and are able to move quickly despite their size. They are also capable of draining the life out of their victims.
+
+Race: Pelt
+Description: Pelts are large, furry creatures that are capable of walking on two legs. They are very strong and are often used as mounts by the military.

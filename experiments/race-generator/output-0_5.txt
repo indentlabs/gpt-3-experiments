@@ -1,0 +1,30 @@
+
+Race: Faun
+Description: Fauns are human-like creatures with the head of a goat. They are known for their agility and their ability to run up walls and across ceilings. They are often mistaken for Draga, though they are not nearly as strong.
+
+Race: The Fallen
+Description: The Fallen are large, humanoid creatures with large, leathery wings. They have horns and sharp teeth, and are capable of flight. They are extremely strong and are often seen as a symbol of fear. They are extremely dull-witted and usually don't have any sort of personality.
+
+Race: Wodewose
+Description: Wodewoses are large, bipedal creatures with long arms and claws. They have thick fur and can be found in forests.
+
+Race: Birtan
+Description: Birtans are bipedal reptiles that are very strong and have large claws. They are usually covered in thick leathery skin. They have long tails that are nearly as strong as their arms and can often be seen doing cartwheels for fun.
+
+Race: Strega
+Description: Strega are large, hairless, flightless birds that live in trees and are capable of spitting fire. They are usually docile and have been domesticated by humans.
+
+Race: Orr
+Description: Orr are large, furry creatures that are very strong and are capable of walking on their hind legs. They are very loyal and can often be seen following around the children of the noble families they serve.
+
+Race: Undine
+Description: Undine are aquatic creatures that resemble mermaids. They are covered in scales and fins and are capable of breathing air. They have the ability to breathe underwater and are able to swim faster than any other race. They are also capable of manipulating water to an extent.
+
+Race: Vulpes
+Description: Vulpes are fox-like creatures that have a long, prehensile tail that they can use to hold objects. They are very agile and are capable of climbing trees.
+
+Race: Zephyr
+Description: Zephyrs are small creatures with a beak-like mouth and wings. They are usually only a few feet tall, but can fly extremely fast. They are often used as messengers by nobles.
+
+Race: Elken
+Description: Elken are creatures that resemble large deer with a single antler. They are often found in the woods and are quite timid, but are extremely fast. They are known to be quite fond of eating the grass of any nearby meadows.

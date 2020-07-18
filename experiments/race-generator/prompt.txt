@@ -1,0 +1,11 @@
+Race: Terafon
+Description: Terafons are cat-like creatures that come in a variety of bright colors. They can speak and have an innate ability to mimic the noises they hear, as well as the ability to morph in and out of shadow form, enabling them to slip in and out of almost any place they want.
+
+Race: Marin
+Description: Marin are ocean-dwelling ghosts who become bound to follow a human until the next full moon upon being seen. That human's skin emits a light blue glow whenever they have a bound Marin and have their luckiness (or unluckiness) amplified by the presence of the Marin. Marin are usually solitary creatures, angry at being tethered to this world and unable to move on. They greatly prefer deep oceans where the lack of sound makes them feel closer to death.
+
+Race: Wyrde
+Description: Wyrde are large, feathered creatures who live in treetops and are capable of breathing fire. They are strong, fast, and are large enough to carry multiple people long distances. Wyrde are often caught and tamed by nobles to pass down through generations. They are extremely dull-witted.
+
+Race: Draga
+Description: Draga are bipedal reptiles that are strong and are usually covered in thick leathery skin. They have long tails that are nearly as strong as their arms and can often be seen doing cartwheels for fun.
