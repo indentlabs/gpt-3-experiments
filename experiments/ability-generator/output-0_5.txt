@@ -1,0 +1,40 @@
+
+Ability: Touch of the Divine
+Strength: You can heal the wounds of others with a touch.
+Weakness: You are unable to heal yourself.
+
+Ability: Unstable Isotope Transformation
+Strength: You can transform into a radioactive isotope, giving you super strength and the ability to fly.
+Weakness: The transformation is only temporary and leaves you in a weakened state for a short time after you revert to your original form.
+
+Ability: Telekinesis
+Strength: You have the ability to move objects with your mind.
+Weakness: You have no control over the movement of the object.
+
+Ability: Shapeshifting
+Strength: You can transform into any animal you can think of.
+Weakness: You are limited to animals that exist in real life.
+
+Ability: Shapeshifting
+Strength: You can change your physical form to that of any animal you have seen before.
+Weakness: You cannot change back to your original form.
+
+Ability: Psychic Projection
+Strength: You can project your mind into the mind of another person.
+Weakness: You are unable to control your physical body while projecting your mind.
+
+Ability: Shapeshifting
+Strength: You can change your body into any form you can imagine.
+Weakness: You can only change your body into forms that you have seen before.
+
+Ability: Illusionist
+Strength: You can create realistic illusions in the minds of other people.
+Weakness: The illusions you create are always based on your own senses and are unable to fool other senses, such as touch.
+
+Ability: Self-Resurrection
+Strength: You can bring yourself back to life after dying.
+Weakness: You cannot be brought back to life by anyone else.
+
+Ability: Photokinesis
+Strength: You have the ability to control light, and bend it to your will.
+Weakness: Your body is in a constant state of luminescence.

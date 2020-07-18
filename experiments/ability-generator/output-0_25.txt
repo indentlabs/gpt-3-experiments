@@ -1,0 +1,40 @@
+
+Ability: Gravity Manipulation
+Strength: You have the ability to manipulate gravity.
+Weakness: You are unable to fly.
+
+Ability: Elemental Mimicry
+Strength: You can mimic the abilities of other elements.
+Weakness: You can only mimic the abilities of elements you have already experienced.
+
+Ability: Flight
+Strength: You can fly.
+Weakness: You can only fly for a maximum of five minutes before you need to rest for an hour.
+
+Ability: Super-Speed
+Strength: You can move at superhuman speeds.
+Weakness: You can only move in a straight line.
+
+Ability: Shapeshifting
+Strength: You can change your physical form to whatever you can imagine.
+Weakness: You can only change your form to something you have seen before.
+
+Ability: Flight
+Strength: You can fly by manipulating the air around you.
+Weakness: You can only fly for as long as you can hold your breath.
+
+Ability: Phasing
+Strength: You can pass through solid objects.
+Weakness: You can only pass through solid objects that are smaller than you.
+
+Ability: Telekinesis
+Strength: You have the ability to move objects with your mind.
+Weakness: You are unable to move anything that you are not touching.
+
+Ability: Pyrokinesis
+Strength: You have the ability to raise the temperature of objects with your mind.
+Weakness: Any time you make objects hotter, you absorb the temperature differential by increasing your own body heat by the same amount.
+
+Ability: Shapeshifting
+Strength: You can change your physical form to anything you can imagine.
+Weakness: You cannot change back to your original form.

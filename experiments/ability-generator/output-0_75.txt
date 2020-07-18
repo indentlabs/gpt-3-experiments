@@ -1,0 +1,39 @@
+
+Ability: Psychic Intuition
+Strength: You can detect and sense any psychic phenomenon within range of your mind.
+Weakness: You become oblivious to anything else happening around you.
+
+Ability: Rapid Healing
+Strength: You heal quickly from injuries.
+Weakness: You also heal quickly from diseases, but you are vulnerable to catching new ones.
+
+Ability: Hair Manipulation
+Strength: You can control the shape, length, thickness and texture of your hair at will.
+
+Ability: Flight
+Strength: You can fly by running in midair.
+Weakness: You are incapable of running or standing still on the ground.
+
+Ability: Sleep Inducement
+Strength: You can induce sleep in others with your mind.
+Weakness: You are unable to fall asleep under any circumstances.
+
+Ability: Natural Invisibility
+Strength: You can't be seen by anything except infrared cameras and other people with this ability.
+Weakness: Anything you touch becomes visible.
+
+Ability: Enhanced Acute Senses
+Strength: Your sight, hearing, taste, touch, and smell are greatly enhanced.
+Weakness: You are only capable of receiving enhanced information from your five senses. Any other type of information you try to gather is much harder to understand.
+
+Ability: Combat Precognition
+Strength: You have the ability to predict an opponent's next move.
+Weakness: The predictions are often generic and only work in a fight against an opponent using similar moves.
+
+Ability: Super Flexibility
+Strength: Your muscles are so limber that you are capable of feats of contortion that others could only dream of.
+Weakness: Your body can't take the strain of being bent out of shape and is more susceptible to breaking.
+
+Ability: Vitality Burst
+Strength: You can absorb and convert the kinetic energy of nearby impacts into energy that fuels your own abilities.
+Strength: You can absorb and convert the kinetic energy of nearby impacts into energy that fuels your own abilities.
