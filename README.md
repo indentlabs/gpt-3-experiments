@@ -1,6 +1,6 @@
 #  GPT-3 Experiments for Worldbuilding
 
-This repo contains example prompts for OpenAI's GPT-3 API and the resulting AI-generated texts for an assortment of worldbuilding tasks. Each task is meant to illustrate how GPT-3 can be used in the worldbuilding process for writers, game designers, roleplayers, and other worldbuilders. Each experiment's prompt is also designed to be populated with notebook data from [Notebook.ai](https://www.notebook.ai), which should result in output more personalized to fit better into worlds in progress.
+This repo contains example prompts for OpenAI's GPT-3 API and the resulting AI-generated texts for an assortment of worldbuilding tasks. Each task is meant to illustrate how GPT-3 can be integrated in the creative worldbuilding process for writers, game designers, roleplayers, and other worldbuilders. Each experiment's prompt is also designed to be populated with notebook data from [Notebook.ai](https://www.notebook.ai) for a specific user doing the generation, which should result in output more personalized to that user's world.
 
 All generated texts in this repo are completely unedited and uncurated unless explicitly stated otherwise.
 
@@ -28,6 +28,18 @@ Generators are focused around generating individual, core worldbuilding pieces.
 * `spell-generator` generates ficticious spells, including an incantation and instructions to cast.
 * `sport-generator` generates fictional sports with setup instructions, points explanations, and win conditions.
 * `sword-generator` generates ficticious swords with a description and legendary backstory.
+
+### Expanders
+
+Expanders take an existing worldbuilding piece and attempt to indiscriminately expound upon it.
+
+* `character-expander` takes an incomplete character (here, Joe Clementz) and adds additional information about that character.
+
+### Suggesters
+
+Suggesters take an existing worldbuilding piece and a field, and return a suggested value for that field. For example, a user might be looking for suggestions for "prejudices" or "hobbies" on an existing character and want to incorporate the whole character (age, profession, etc) as inputs to a "likely" value.
+
+* `character-suggester` takes an incomplete character (again, Joe Clementz) and a field ("prejudices") to return a suggested value
 
 ## Repository layout
 
