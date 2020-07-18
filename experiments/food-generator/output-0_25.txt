@@ -1,0 +1,39 @@
+Name: Fungus Bread
+Description: A bread made from the fungus that grows on the outside of the Sump Tree.
+Recipe: Cut a Sump Tree down and cut off the outer bark. Dry the bark in the sun for at least a day, then grind it into a powder. Mix the powder with water and knead it into a dough. Shape the dough into loaves and bake in a wood-burning oven.
+
+Name: Sweetroll
+Description: A sweetroll is a pastry made from a variety of ingredients, including flour, sugar, and a variety of spices. The most common sweetroll is a sweetroll made from a mixture of wheat, sugar, and cinnamon.
+Recipe: Mix together flour, sugar, and cinnamon in a large bowl. Add water, mixing until a dough forms. Knead the dough until it is soft and elastic, then roll it out into a large rectangle. Spread a thin layer of butter over the dough, then sprinkle sugar and cinnamon over the butter. Roll the dough into a log, then cut it into individual rolls. Bake at 350 degrees for 15 minutes, then serve warm.
+
+Name: Pudding
+Description: A sweet, creamy dessert made from the milk of a cow.
+Recipe: Bring a pot of milk to a boil, then add sugar and vanilla. Remove from heat and let cool. When the milk has cooled, add a cup of flour and a cup of cornstarch. Mix well, then add a cup of cold milk. Mix well, then add a cup of butter. Mix well, then add a cup of salt. Mix well, then add a cup of sugar. Mix well, then add a cup of vanilla. Mix well, then add a cup of milk. Mix well, then add a cup of flour. Mix well, then add a cup of cornstarch. Mix well, then add a cup of cold milk. Mix well, then add a cup of butter. Mix well, then add a cup of salt. Mix well, then add a cup of sugar. Mix well, then add a cup of vanilla. Mix well, then add a cup of milk. Mix well, then add a cup of flour. Mix well, then add a cup of cornstarch. Mix well, then add a cup of cold milk. Mix well, then add a cup of butter. Mix well, then add a cup of salt. Mix well, then add a cup of sugar. Mix well, then add a cup of vanilla. Mix well, then add a cup of milk. Mix well, then add a cup of flour. Mix well, then add a cup of cornstarch. Mix well, then add a cup of cold milk. Mix well, then add a cup of butter. Mix well, then add a cup of salt. Mix well, then add a cup of sugar. Mix well, then add a cup of vanilla. Mix well, then add a cup of milk. Mix well, then add a cup of flour. Mix well, then add a cup of cornstarch. Mix well, then add a cup of cold milk. Mix well, then add a cup of butter. Mix well, then add a cup of salt. Mix well, then add a cup of sugar. Mix well, then add a cup of vanilla. Mix well, then add a cup of milk. Mix well, then add a cup of flour. Mix well, then add a cup of cornstarch. Mix well, then add a cup of cold milk. Mix well, then add a cup of butter. Mix well, then add a cup of salt. Mix well
+
+Name: T'hrok
+Description: T'hrok is a sweet, gooey dessert made from the fermented saliva of the T'hrok, a small rodent-like creature native to the jungles of the southern continent.
+Recipe: Gather a large number of T'hrok saliva glands, then place them in a large pot of water. Boil for at least an hour, then strain the liquid into a separate pot. Add a cup of sugar and a cup of flour to the liquid, then stir until the mixture is smooth. Bring the mixture to a boil, then reduce heat and simmer for an hour. Pour the mixture into a baking pan and let it cool, then cut into squares and serve.
+
+Name: Lushfruit
+Description: A sweet, juicy fruit that grows on the Lushtree.
+Recipe: Remove the Lushfruit from the Lushtree and wash it in a bowl of water. Cut the Lushfruit in half and remove the seeds. Slice the Lushfruit into thin slices and serve.
+
+Name: Sludge Soup
+Description: A thick, viscous soup made from the byproducts of a city's sewage system.
+Recipe: Add a variety of ingredients to a large pot of water, including at least one type of vegetable, one type of meat, and one type of fruit. Add a dash of salt and pepper, and a pinch of spices. Bring to a boil, then reduce heat and simmer for at least two hours.
+
+Name: Baked Mushrooms
+Description: A common dish in the Sumen culture, baked mushrooms are prepared by baking a mushroom in a clay oven.
+Recipe: Preheat a clay oven to 450 degrees. Remove the stem from a mushroom, then place the mushroom cap-side down in the oven. Bake for ten minutes, then remove and serve.
+
+Name: The Meat of the Gods
+Description: The Meat of the Gods is a traditional dish of the Sumen peoples, prepared by mixing a pot of multiple kinds of meats with the acidic water of the Purple River. The water bonds the meats together at an atomic level, which can then be sliced or prepared in a variety of multi-meat dishes.
+Recipe: Slice at least two different types of meat into thin strips to maximize exposed surface area while waiting for a pot of Purple Water to boil. Add all of the meat at once, stirring briefly. Let the pot continue to boil for fifteen minutes per pound of meat. Do not stir during this time. When the meat is ready, drain the water and cover the meat in a heavy salting to dry it, then leave it out in a dry area for at least one day but no more than three.
+
+Name: Jambalaya
+Description: A dish made from a variety of meats and vegetables, served over rice.
+Recipe: Chop up a variety of meats and vegetables into small pieces. Add to a pot of boiling water, then add rice. Cook for at least one hour, stirring occasionally.
+
+Name: Pile of Dirt
+Description: A pile of dirt.
+Recipe: Dig a hole in the ground, fill it with dirt, and cover it back up.

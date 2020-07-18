@@ -1,0 +1,39 @@
+Name: Bocco fruit
+Description: Bocco fruit is a sweet fruit with a tough outer shell. The fruit is covered in a layer of powder that can be dissolved in water to create a sugary drink.
+Recipe: Peel the fruit, then mash the pulp with a mortar and pestle. Add a small amount of water to the pulp, then stir to create a thin syrup. Pour the syrup into a glass, then fill the glass with water.
+
+Name: Krak
+Description: Krak is a beverage made from fermented cabbage juice. It is extremely sour, and is usually drunk by Sumen children to encourage them to eat more vegetables.
+Recipe: Fill a large pot with a head of cabbage and fill it with water. Let it sit for at least a day, then drain the water and add a large amount of salt. Mix the cabbage and salt until the cabbage is fully covered, then let it sit for another day. Add yeast and let it sit for a day, then drain the water and mix in more salt. Let it sit for another day, then drain the water and add more salt. Let it sit for another day, then drain the water and add more salt. Let it sit for another day, then drain the water and add more salt. Let it sit for another day, then drain the water and add more salt. Let it sit for another day, then drain the water and add more salt. Let it sit for another day, then drain the water and add more salt. Let it sit for another day, then drain the water and add more salt. Let it sit for another day, then drain the water and add more salt. Let it sit for another day, then drain the water and add more salt. Let it sit for another day, then drain the water and add more salt. Let it sit for another day, then drain the water and add more salt. Let it sit for another day, then drain the water and add more salt. Let it sit for another day, then drain the water and add more salt. Let it sit for another day, then drain the water and add more salt. Let it sit for another day, then drain the water and add more salt. Let it sit for another day, then drain the water and add more salt. Let it sit for another day, then drain the water and add more salt. Let it sit for another day, then drain the water and add more salt. Let it sit for another day, then drain the water and add more salt. Let it sit for another day, then drain the water and add more salt. Let it sit for another day, then drain the water and add more salt. Let it sit for another day, then drain the water and add more salt. Let it sit for another day, then drain the water and add more salt. Let it sit for another day, then drain the water and add more salt. Let it sit for another day, then drain the
+
+Name: Ildron Tea
+Description: A bitter, but delicious, tea made from the Ildron plant.
+Recipe: Bring a pot of water to boil, then add one Ildron leaf. Let it boil for five minutes, then strain and serve hot.
+
+Name: Grumpkin
+Description: A small, lumpy fruit with a large pit. The fruit itself is sweet and delicious, but the pit is filled with a bitter, foul-tasting liquid.
+Recipe: Wash the fruit thoroughly, then slice it in half. Remove the pit, and either eat the fruit or discard it.
+
+Name: Irony
+Description: Irony is a dark, bitter, and sweet drink made from the dried leaves of the Iron Tree.
+Recipe: Bring a pot of water to a boil, then add the dried leaves of an Iron Tree. Boil for at least one hour, then strain and add honey to taste.
+
+Name: Honeyed Lard
+Description: A traditional treat of the peoples of Sumen, made by mixing lard with a generous amount of honey.
+Recipe: Melt a pound of lard in a pot over medium heat. Once melted, add three tablespoons of honey. Stir the mixture until the honey has dissolved. Serve warm.
+
+Name: Kachim
+Description: Kachim is a dish of mashed and cooked insects, typically served with a gravy or sauce.
+Recipe: First, the insects must be collected and killed. The most common insects used in Kachim are giant cockroaches, locusts, and crickets. Then, the insects must be boiled in a large pot of water for at least an hour, with the water being changed every fifteen minutes. The insects must be boiled until they are fully cooked, and the water must be changed every fifteen minutes to keep the insects from floating. Once the insects are fully cooked, strain the water from the pot and mash the insects with a fork. If you want a gravy, mix in some gravy powder and/or a starch. If you want a sauce, mix in some flavored beetles and/or chives.
+
+Name: S'fah
+Description: A common dessert in the Fobro-Bontish culture, S'fah is a simple dish of a milk-like substance with a strong taste of S'fah berries.
+Recipe: Heat milk to a simmer, then add S'fah berries. Let simmer for at least an hour, then strain out the berries. Serve hot or cold.
+
+Name: Gizzar
+Description: Gizzar is a sweet treat made from the sweet, gooey insides of the Bork.
+Recipe: Cook a Bork for six hours, then remove the meat from the bones and separate the meat from the bones. Add the meat to a pot of boiling water and cook for an additional six hours. Strain the meat from the water and allow it to cool. Once the meat is cool, mix it with honey, butter, and/or cream to create a smooth, creamy texture.
+
+Name: Dorsai Beef
+Description: A cut of beef that is renowned for its flavor, Dorsai Beef is prepared by slow-cooking the meat in a pot of purple water and spices.
+Recipe: Slice the meat into strips, then place in a pot of Purple Water and spices, such as salt, pepper, and garlic. Let the meat simmer for 6-8 hours, then serve hot.

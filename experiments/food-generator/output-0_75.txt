@@ -1,0 +1,43 @@
+Name: Rat Ice Cream
+Description: A cheap, yet delicious dessert sold in major cities. It is often said that one should never trust a woman who doesn't enjoy rat ice cream.
+Recipe: Bring a large pot of salted water to boil. Add a small handful of dried rats. Boil for 5 minutes, then add the rinds of several lemons. Boil for 5 minutes more, then drain the water and set the rats aside to cool. When the rats are cool enough to touch, pull off the meat, making sure to remove all fur and bone fragments. Add a cup of sugar and a cup of butter to the meat and stir until well-mixed. Return the meat to the water, then bring the water to a boil again. Simmer the meat for 30 minutes. When the time is up, add the juice of several lemons and stir. Serve hot or cold.
+
+Name: Gormycorn
+Description: Gormycorn is a special food grown in a variety of Gorme gardens that takes about four years to grow. The large ears of Gormycorn are picked and cut into chunks, which are then boiled in water for at least five hours to produce a thick, white, gooey substance.
+Recipe: Gormycorn ears are cut into pieces no larger than an inch, then boiled in a large pot of water. When it is done, the pieces of Gormycorn should be mushy.
+
+Name: Mauszika
+Description: A cake made from the ground, baked flesh of a Maudic Man. The texture is a bit more firm than regular cake, and the taste is said to be a mix of that of a roasted chicken and a well-seasoned steak.
+Recipe: Grind the meat of a Maudic Man into a fine paste. Add milk, eggs, sugar, and a pinch of salt, and mix thoroughly. Pour into a baking dish, and cook in an oven at a temperature of no less than 350 degrees Fahrenheit for at least 20 minutes, or until the center of the cake has reached a temperature of at least 160 degrees Fahrenheit.
+
+Name: Potato Chips
+Description: A popular snack food consisting of fried potato slices that are extremely crunchy and delicious.
+Recipe: Preheat your deep fryer to 350 degrees, then add two cups of potato slices, stirring occasionally to prevent them from burning. When the chips have turned a golden brown, remove them from the fryer and place them on a paper towel. Sprinkle them with salt or other seasoning, then enjoy!
+
+Name: Maerlk
+Description: Maerlk is a variety of fish eggs, considered a delicacy among the Baemane. They are harvested from the Sand-Eel in the Sea of Blood, where the eels will release the eggs as a defense mechanism when threatened.
+Recipe: Remove the eggs from a dead Sand-Eel and wash them off, then slice them up and dip them in a mixture of egg and milk. Cook them in a pan over low heat, then enjoy.
+
+Name: Saftle
+Description: A soft and sweet pastry, with a rich filling.
+Recipe: Combine egg whites and water in a mixing bowl. Whisk until stiff. Add powdered sugar until desired consistency is achieved. Mix in vanilla extract. Combine almonds, sugar, and flour in a separate bowl. Add salt. Mix in butter. If using as filling for Saftle, add cinnamon and nutmeg. If not, add rum extract. Separate the dough into small balls. Place the balls on a pan and flatten. Fill with the almond mixture. Fold the dough over the filling, and press to seal. Bake at 350 degrees for about 10 minutes, or until golden brown.
+
+Name: Tomato
+Description: A tomato is a red fruit with a leathery skin, sweet flavor, and tart juice.
+Recipe: Select a large red fruit with a hard skin. Leave on the vine until it reaches maturity. Cut in half and remove seeds. Cut into slices or chunks. Leave in a covered bowl for at least 24 hours to allow the juice to develop. Add salt to taste.
+
+Name: Karasph-Bin
+Description: Karasph-Bin is a hearty bread with a strong but not overpowering flavor. It is a standard food for the Blackwood Forest People.
+Recipe: Mix two cups of flour, one egg, one cup of lard, and half a cup of water in a large bowl. Mix together until the dough is homogenous, then shape the dough into one large loaf. Preheat an oven to 375 degrees, then bake the loaf for thirty minutes. Serve hot with butter.
+
+Name: Sumen Pickles
+Description: A dish made by packing a variety of fruits and vegetables in a large jar with salt, which pulls the water out of the fruits and vegetables.
+Recipe: Slice fruits and vegetables into chunks or spears, depending on the shape of the fruit or vegetable. Add salt and enough water to cover the fruit or vegetable in a large jar, then seal and wait for at least three days.
+
+Name: Manglur
+Description: Manglur is a dark and viscous dish made from the brains of a Kangkir. It has a thick consistency and a savory, tangy taste.
+Recipe: Grind the brain of a Kangkir in a meat grinder, then combine the paste with gelatinous parts of a Galogor. Put the mixture into a large pot, then bring it to a boil. Reduce heat and let simmer for three hours. Season with salt, then serve hot with bread.
+
+Name: Hocklings
+Description: The Hocklings are a small, leafy bush that grows in the deep forest of Alddai. The berries they grow are of a sour nature, but when boiled and mixed with an egg, the mixture can be used to create a candy that is both tart and sweet.
+Recipe: To prepare Hocklings, boil the berries until they are soft, then press the juice out with a potato press or cheese cloth. Mix the juice with an egg, and then spread the mixture on a parchment paper. Allow it to dry in the sun for at least two days, then roll it into small pieces and enjoy.
