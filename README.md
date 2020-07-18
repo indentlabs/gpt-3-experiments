@@ -18,6 +18,7 @@ The following experiments are included in this repository:
 * `flora-generator` generates fictional plants with a brief description and list of biomes they're found in.
 * `food-generator` generates fictional foods with a brief description and high-level recipe instructions.
 * `group-generator` generations ficticious groups of people that exist within the world.
+* `government-generator` generates fictional governments and a brief description of how they're run.
 * `item-generator` generates fictional items, including a description and the material(s) that item is made of.
 * `landmark-generator` generates fictional landmarks, such as caves, bridges, mountains, and lakes.
 * `spell-generator` generates ficticious spells, including an incantation and instructions to cast.
