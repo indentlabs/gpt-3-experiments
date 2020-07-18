@@ -1,0 +1,40 @@
+
+Job: Personal Assistant to the King
+Requirements: Ability to keep secrets, able to work long hours
+Description: Personal assistant to the King, required to take dictation, run errands, answer correspondence, book travel arrangements, and perform other secretarial duties. Knowledge of the royal family and their history is a must.
+
+Job: Woodcutter
+Requirements: Ability to swing an axe
+Description: Woodcutter in search of an apprentice to help with the daily chores of chopping wood, maintaining the woodpile, and keeping the shop tidy. Must be able to demonstrate knowledge of woodcutting and be able to chop wood into various sizes.
+
+Job: Lumberjack
+Requirements: Able body, able to swing an axe
+Description: The Lumberjack is looking for someone to help him chop down trees in the forest. You will be provided with an axe and a rucksack to carry the wood.
+
+Job: Traveling Circus Performer
+Requirements: Strong body, good sense of humor
+Description: Looking for someone to perform in the circus. You will be expected to perform a variety of acts, including sword swallowing, fire eating, and juggling. Must be able to perform in front of a crowd.
+
+Job: Ghost Hunter
+Requirements: Able body, must be able to see ghosts
+Description: Ghost Hunter in search of an apprentice to help him rid the world of evil spirits. Must be able to see ghosts and have a strong stomach. A ghost-catching net will be provided.
+
+Job: Stonemason
+Requirements: Able body, able to lift heavy stones
+Description: Stonemason in search of an apprentice to help him build a new house. Must be able to lift heavy stones and work outdoors in all weathers. Must be able to work well with others.
+
+Job: Royal Guard
+Requirements: Ability to wield a sword, ability to wear armor
+Description: The Royal Guard is in need of a new recruit. You will be responsible for protecting the King and his family. You will be provided with a sword and armor.
+
+Job: Woodcutter
+Requirements: Able body, good eye
+Description: Woodcutter in search of an apprentice to help with the daily tasks of chopping wood and maintaining the woodpile. The apprentice will also be required to help with the upkeep of the house, such as cleaning and cooking.
+
+Job: Lumberjack
+Requirements: Able body, strong arms
+Description: Lumberjack in search of an apprentice to chop down trees and carry logs to the nearby river. A strong back and a good pair of legs are required. No armor of any kind will be provided. Also, no weapons of any kind. A thick rucksack is recommended.
+
+Job: Pet Sitter
+Requirements: Able body, good with animals
+Description: Looking for someone to take care of my pet, which is a wolf. You will need to feed it, walk it, and play with it. You will also need to clean up after it.

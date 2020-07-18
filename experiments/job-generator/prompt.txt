@@ -1,0 +1,11 @@
+Job: Blacksmith Apprentice
+Requirements: Able body, studious
+Description: Jurg the Blacksmith needs someone to work under him and help out around the shop, which includes various tasks such as going to a nearby town to get some ore for metalwork and fetching drinks and food for Jurg and the shop. The apprentice will also need to pitch in around the house, but will be given a place to stay in the basement.
+
+Job: Pickle Picking Adventurer
+Requirements: Able body, thirst for a bit of danger
+Description: Need someone to venture deep into the forest to pick exotic vegetables that will be used in a new variety of pickle. You will need to venture deep into the forest, which is said to be inhabited by evil spirits, and retrieve the materials. A heavy pickaxe is recommended for the task. No armor of any kind will be provided. Also, no weapons of any kind. A thick rucksack is recommended.
+
+Job: Professional Butterfly Catcher
+Requirements: Ability to catch butterflies
+Description: Professional Butterfly Catcher in search of a trustworthy apprentice to capture rare species of butterflies and maintain butterfly garden, required to stay outdoors for long hours in all weathers. Must be experienced in butterfly catching and able to demonstrate knowledge of butterfly breeding, life cycles and metamorphosis. A net will be provided.

@@ -1,0 +1,48 @@
+
+Job: Animal Caretaker
+Requirements: Love of animals, a place to stay
+Description: Lady Aurelia of the Brown Meadows Farm is looking for someone to look after her animals, mainly her horses and cows. This is a hands-on job, as you will need to get down and dirty with the animals. You will also be responsible for cleaning up after them, so you will need to be a fast runner and have a healthy pair of lungs.
+
+Job: Bodyguard
+Requirements: Able body, quick reflexes, skilled with weapon
+Description: Sir Nigel Tuffington, a wealthy nobleman, needs a bodyguard for a trip to a nearby village. Tuffington has received a threat on his life and will require protection at all times. Sir Tuffington is also said to be quite picky and might ask the bodyguard to fetch him a meal and other chores, but will pay handsomely. The bodyguard will need to bring his own weapons.
+
+Job: Monkey Trainer
+Requirements: Experience with monkeys, ability to speak monkey language
+Description: Someone to train a troupe of mischievous monkeys to do various tricks. Will be provided with a variety of costumes and must be able to communicate with the monkeys.
+
+Job: Butler
+Requirements: Must be able to perform butler duties.
+Description: Master looking for a butler. This will involve a lot of waiting around and looking smart. Must be able to stand in one place for hours on end and act smart. If you get tired, you must still stand up straight. No bending over allowed. Master's mansion is old, but big, so you will have to do a lot of cleaning and dusting, sweeping and mopping, dusting and polishing, sweeping and mopping, and all that. If you are unable to fulfill these requirements, please do not apply.
+
+Job: Graveyard Shift
+Requirements: Darkness, able body
+Description: Graveyard Shift is a mysterious role that you will not be told what to do. You will be given no supplies, no tools, and no food. You must survive the night in the graveyard, and whatever you find there, you must defend yourself. However, there are no real monsters, and no one will be able to harm you. You must rely on your own devices to survive.
+
+Job: Fisherman's Apprentice
+Requirements: Able body, doesn't mind fishy smells
+Description: Come be a part of the life of a fisherman! Work long hours and hard labor for the next few months and get to go on a boat ride every once in a while! And what's more, you get to keep the fish you catch! Fishing pole will be provided.
+
+Job: Bear Fighting
+Requirements: Able body, ability to fight bears
+Description: Heavily muscled person needed to fight bears, preferably with a lot of scars from bear fighting already. The person would fight bears in the arena and would be paid depending on how many bears he kills. A large axe would be provided.
+
+Job: Undead Minion
+Requirements: Necromantic skills
+Description: Our Necromancer needs an apprentice to gather various body parts for his experiments. A list of required body parts will be provided. Traveling to a nearby graveyard is recommended.
+
+Job: Blood Donation
+Requirements: Healthy body, good health, mild anemia
+Description: You will be compensated for your blood.
+
+Job: Candles and Chalk Maker
+Requirements: Able body, and able to carry around heavy items.
+Job: Landscaper
+Requirements: Able body, good stamina, artistic
+Description: Landscaper for a large garden. Job will be to shape and trim trees, paint and cut hedges, and dig out ditches.
+Job: Marble Monument Sculptor
+Requirements: Able body, able to carve out marble and granite.
+Description: Sculptor needed for creating monuments of different kinds. Experience required.
+Job: Ferryman
+Requirements: Able body, able to swim
+Description: Ferryman needed to take passengers across a large river.

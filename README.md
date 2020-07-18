@@ -10,6 +10,8 @@ The following experiments are included in this repository:
 
 ### Generators
 
+Generators are focused around generating individual, core worldbuilding pieces.
+
 * `ability-generator` generates fictional abilities for characters, detailing a strength and weakness.
 * `building-generator` generates fictional buildings within a city.
 * `character-generator` generates fictional characters' names, descriptions, and appearances. 
@@ -20,6 +22,7 @@ The following experiments are included in this repository:
 * `group-generator` generations ficticious groups of people that exist within the world.
 * `government-generator` generates fictional governments and a brief description of how they're run.
 * `item-generator` generates fictional items, including a description and the material(s) that item is made of.
+* `job-generator` generates fictional jobs in the style of job postings, with descriptions and requirements.
 * `landmark-generator` generates fictional landmarks, such as caves, bridges, mountains, and lakes.
 * `spell-generator` generates ficticious spells, including an incantation and instructions to cast.
 * `sword-generator` generates ficticious swords with a description and legendary backstory.

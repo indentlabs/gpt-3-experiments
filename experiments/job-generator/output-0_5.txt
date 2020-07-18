@@ -1,0 +1,40 @@
+
+Job: Personal Assistant
+Requirements: Literate, trustworthy, capable of carrying out instructions
+Description: Personal Assistant needed for busy local business man. Tasks include running errands, delivering messages, taking notes, filing paperwork, and helping out at events. A strong sense of duty is required.
+
+Job: Professional Woodcutter
+Requirements: Ability to cut wood
+Description: Professional Woodcutter in search of a trustworthy apprentice to collect firewood, required to stay outdoors for long hours in all weathers. Must be experienced in woodcutting and able to demonstrate knowledge of tree identification, wood anatomy and tree felling. A saw will be provided.
+
+Job: Professional Dragon Slayer
+Requirements: Ability to slay dragons
+Description: Professional Dragon Slayer in search of a trustworthy apprentice to slay dragons, required to stay outdoors for long hours in all weathers. Must be experienced in dragon slaying and able to demonstrate knowledge of dragon anatomy, habitats and habits. A sword will be provided.
+
+Job: Farmhand
+Requirements: Able body, able to lift heavy objects
+Description: Need someone to help out on the farm. You will be required to help with the heavy lifting, so you must be able to lift heavy objects. You will be required to do the chores, such as feeding the animals and harvesting the crops. You will be provided with a room in the farmhouse.
+
+Job: Dung Collector
+Requirements: Ability to work outdoors
+Description: Looking for someone to collect dung from various animals. Must be able to work outdoors and work for long hours. Must be able to work independently and be trustworthy.
+
+Job: Bardic Troubadour
+Requirements: Good voice, good memory, good at telling stories
+Description: Bardic Troubadour in search of a trustworthy apprentice to help with his work. The apprentice will be expected to remember and recount the Bard's stories to the people he meets on his travels. The apprentice will also be expected to help the Bard with his musical instruments and help him with his work.
+
+Job: Inventor's Apprentice
+Requirements: Strong body, able to carry heavy loads
+Description: Inventor's Apprentice required to assist in the development of a number of inventions, such as the All Purpose Carpet, the Fire-Proof Sofa, and the Self-Warming Socks. Will need to carry heavy loads, and work with dangerous chemicals and mechanical devices. Good pay, but dangerous work.
+
+Job: Knight of the Round Table
+Requirements: Good at jousting, sword fighting, and the art of chivalry
+Description: Knight of the Round Table in search of an apprentice to learn the art of chivalry, horseback riding, jousting, and sword fighting.
+
+Job: Pea Picker
+Requirements: Able body, able to climb a ladder
+Description: Pea Picker needed to harvest peas.
+
+Job: Chicken Raising Farmer
+Requirements: Ability to care for chickens
+Description: Farmer looking for someone to raise chickens for eggs and meat. Applicant must be willing to take care of the chickens and clean the coop. No experience necessary.
