@@ -10,10 +10,10 @@ By including other characters from the same universe in Notebook.ai, the expande
 
 | Temperature | Remarks |
 |-------------|---------|
-| 0.0         |  |
-| 0.25        |  |
-| 0.50        |  |
-| 0.75        |  |
-| 1.00        |  |
+| 0.0         | Seems fine. Produces several fields with relevant values. |
+| 0.25        | More variety and longer descriptions than 0.0, so arguably better. |
+| 0.50        | Even more fields and accurate values than 0.25, so arguably even better. |
+| 0.75        | Unusable due to frequent [format bucking](https://github.com/indentlabs/gpt-3-experiments/blob/master/experiments/character-expander/output-0_75.txt#L14). Also frequently tries to generate other characters instead of expanding the given one. |
+| 1.00        | Same problems as 0.75 with [format bucking](https://github.com/indentlabs/gpt-3-experiments/blob/master/experiments/character-expander/output-1_0.txt#L12). Might be able to mitigate by standardizing start and stop tokens. |
 
-Recommended temperature for our use-case: 
+Recommended temperature for our use-case: 0.50 looks the best, but needs more rigorous testing to ensure all output looks usable.
