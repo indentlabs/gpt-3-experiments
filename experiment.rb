@@ -52,9 +52,15 @@ end
   puts "Completion result:"
   puts completions.join(settings.fetch(:result_delimiter))
 
+  # Store results
+  filename = "experiments/#{experiment_name}/output-#{temperature.to_s.gsub('.', '_')}"
+
+  # We started with .txt files before switching to .md (so GitHub would do line wrapping!), so we should
+  # go ahead and clear any .txt files of the same name here also.
+  File.delete("#{filename}.txt") if File.exist?("#{filename}.txt")
+
   # Write the completions for this temperature to an output file
-  filename = "experiments/#{experiment_name}/output-#{temperature.to_s.gsub('.', '_')}.txt"
-  File.write(filename, completions.join(settings.fetch(:result_delimiter)))
+  File.write("#{filename}.md", completions.join(settings.fetch(:result_delimiter)))
 
   # Sleep for a short period of time to keep stress off OpenAI servers
   puts "Briefly sleeping -- hold tight!"
