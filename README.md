@@ -12,7 +12,7 @@ The following experiments are included in this repository:
 
 Generators are focused around generating individual, core worldbuilding pieces.
 
-* `ability-generator` generates fictional abilities for characters, detailing a strength and weakness.
+* [`ability-generator`](https://github.com/indentlabs/gpt-3-experiments/tree/master/experiments/ability-generator) generates fictional abilities for characters, detailing a strength and weakness.
 * `building-generator` generates fictional buildings within a city.
 * `character-generator` generates fictional characters' names, descriptions, and appearances. 
 * `condition-generator` generates sicknesses and diseases that characters may be afflicted by.
