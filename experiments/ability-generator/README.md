@@ -18,4 +18,4 @@ Users are able to create random abilities to easily fill out their world, saved 
 
 In all, the success rate for abilities is currently disappointing. The prompt needs further work before being production-ready.
 
-Recommended temperature for our use-case: 0.75
+Recommended temperature for our use-case: None, but 0.75 comes the closest. All temperatures need work before being production-ready.
