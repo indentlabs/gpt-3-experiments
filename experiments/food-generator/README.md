@@ -10,10 +10,10 @@ Users are able to create random foods to easily fill out their world, saved unde
 
 | Temperature | Remarks |
 |-------------|---------|
-| 0.0         |  |
-| 0.25        |  |
-| 0.50        |  |
-| 0.75        |  |
-| 1.00        |  |
+| 0.0         | Generates an accurate description of real food. Could be useful but we want way more creativity than this. |
+| 0.25        | Huge problems with [repetition](https://github.com/indentlabs/gpt-3-experiments/blob/master/experiments/food-generator/output-0_25.txt#L11). Unusuable without some kind of change. |
+| 0.50        | Same problems with recipe [repetition](https://github.com/indentlabs/gpt-3-experiments/blob/master/experiments/food-generator/output-0_5.txt#L7) as 0.25. Many recipes have a more subtle problem with repeating steps once or twice as well. Unusable. |
+| 0.75        | Nice variety. Nice consistency. Comes up with some interesting recipes which require parts from fictional creatures, which seems like a bonus for our use-case. |
+| 1.00        | Incorrect formatting, uninteresting descriptions, and bad recipes. Unusable. |
 
 Recommended temperature for our use-case: 

@@ -14,7 +14,7 @@ Users are able to create random creatures to easily fill out their world, saved 
 | 0.25        | Generates a few real-life creatures (which are entirely reasonable to add to fictional worlds), but a surprising amount of new ones as well. |
 | 0.50        | A surprising amount of species and description text reuse. Not very useful. |
 | 0.75        | This is where the creativity starts amping up. Lots of great, unique creatures. |
-| 1.00        | Includes a few unusuable creatures, but there is a lot more variance in what gets generates. |
+| 1.00        | Includes a few unusuable creatures and occasional format bucking, but there is a lot more variance in what gets generates. Not very useful for "finished" suggestions, but interesting ideas to build off of. |
 
 Recommended temperature for our use-case: 0.75
 
