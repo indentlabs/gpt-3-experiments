@@ -53,7 +53,7 @@ Each experiment is isolated to its own folder in the /experiments folder with th
 | output-0_25.txt | 10 outputs at temperature 0.25                                                      |
 | output-0_5.txt  | 10 outputs at temperature 0.5                                                       |
 | output-0_75.txt | 10 outputs at temperature 0.75                                                      |
-| output-1_0.txt  | 10 outputs at temperature 1.0                                                       |
+| output-1_0.txt  | 10 outputs at temperature 1.0 (most chaotic)                                                       |
 
 Experiments can be run from the repo's root directory with the following command:
 
