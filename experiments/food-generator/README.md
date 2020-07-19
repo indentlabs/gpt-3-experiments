@@ -16,4 +16,4 @@ Users are able to create random foods to easily fill out their world, saved unde
 | 0.75        | Nice variety. Nice consistency. Comes up with some interesting recipes which require parts from fictional creatures, which seems like a bonus for our use-case. |
 | 1.00        | Incorrect formatting, uninteresting descriptions, and bad recipes. Unusable. |
 
-Recommended temperature for our use-case: 
+Recommended temperature for our use-case: 0.75, but needs further consistency testing since all other temperatures seem so wildly bad.

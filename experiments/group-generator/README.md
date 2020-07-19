@@ -10,10 +10,10 @@ Users are able to create random groups to easily fill out their world, saved und
 
 | Temperature | Remarks |
 |-------------|---------|
-| 0.0         |  |
-| 0.25        |  |
-| 0.50        |  |
-| 0.75        |  |
-| 1.00        |  |
+| 0.0         | Good for generating a single group. |
+| 0.25        | Usable. |
+| 0.50        | Usable. |
+| 0.75        | Usable. |
+| 1.00        | Has some really good results, but also some minor format bucking, which makes it unusable for production. Good for some raw ideas, though. |
 
-Recommended temperature for our use-case: 
+Recommended temperature for our use-case: 0.50 gives the best results in initial test cases, but 0.25 and 0.75 are also good.

@@ -10,10 +10,10 @@ Users are able to create random governments to easily fill out their world, save
 
 | Temperature | Remarks |
 |-------------|---------|
-| 0.0         |  |
-| 0.25        |  |
-| 0.50        |  |
-| 0.75        |  |
-| 1.00        |  |
+| 0.0         | Good for generating a single government. |
+| 0.25        | Works really well for high-level government generation. |
+| 0.50        | Works similarly well to 0.25 temperature. No qualms. |
+| 0.75        | Works similarly to 0.50 temperature, with mildly longer descriptions and more variance in output. |
+| 1.00        | Multiple instances of format bucking. Unusable in this state. |
 
-Recommended temperature for our use-case: 
+Recommended temperature for our use-case: 0.5 or 0.75
