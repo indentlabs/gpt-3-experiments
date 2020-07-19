@@ -1,44 +1,47 @@
 
-Sport: OUBLANG
-Setup: Two teams of seven players each use designated letters on a keypad to spell "banana" on their laptops. They are not initially given this information, and must attempt to guess which letters are part of their adjacent teammates' OBU scripts, and then use smart poster board strategies to create B with their own letters. Points are scored when a team's "banana sculpture" is accurately spelled, or when the keypad is used to spell B adjacent to an opponent's O. Scorers on each team must approve of their team's spelling to win.
-Win condition: First team to spell "banana" with no adjacent errors wins. Note: University of St Andrews does not support spell-checking during games, enforcing proper spelling skills.
+Sport: Antball
+Setup: Bananas are attached to a high-speed drill allowing them to hover off the ground. Power-ups are placed in the field. Each player is a small trained ant, trying to grab a lane contained within the power-ups and lane markers toward the other team's banana.
+Points: Players earn 1 point for each banana lane marker they bring to their banana.
+Win condition: When a player has taken all of the opposing team's banana lane markers, that team forfeits, and players can remove their ant costumes and return to human form.
 
-Sport: Rolling Dodgeball
-Setup: This iteration of dodgeball is played on a 10x20 yard field. Members of each team stand on the edges of the field, while the ball is thrown by an "American football-style punter" into the middle of the field, where two players from opposing teams try to hit each other with the ball.
-Points: A struck victim is knocked out of play, until the live player with the most hits remaining is left standing.
-Win condition: Times can be adjusted to allow for different playtimes and skill levels. The game could be made shorter and more difficult by increasing the number of lives each player has. Alternatively, Games could be lengthened by removing the requirement that the winning team must outlive its opponents.
+Sport: Squirmin
+Setup: One team of 15–20 players is divided into a center (defenders) and the other of 1–3 players is divided into a "squirrel" in a cage. The cage is suspended between two sticks.
+Points: If the squirrel in the cage can climb up the cage on any of its sides without the help of other players and touch the cage with one hand without losing balance, it is removed from the cage and can leap into another group of two or more players in order to score. These players must then hold the squirrel in the cage until it stops squirming. While players are holding the squirrel, it gets more points for squirming.
+Win condition: Ten minutes after the beginning of the game, the cage with the squirrel is lowered. If the squirrel has not been removed from the cage by that time, the cage with the squirrel still in it is lowered through a hoop of fire while a bell is rung. The game ends when all players have been burned up by the fire.
 
-Sport: Dodgeball
-A team sport traditionally played without the use of protective covering, individuals win points by eliminating players on the opposing team using projectile-based motion sensitive weapons.
-Points: Wounded players are out until they can run into a marked safe zone on the field.
-Win Condition: There's no point limit, instead after 5 minutes the team with fewer survivors is the winner.
-Variation: Instead of trying to knock the stone out of the house, teams may choose to repeatedly shoot for the hole.
+Sport: Sheep Racing
+Setup: L-shaped table with an opening in the middle. Players carry a raw sheep down a rope, which is tied to a barrier surrounding the table. Once the sheep has been moved down the table to the opening, that player must quickly release it, lest it be moved back down the rope by opponents. The first sheep to finish the table wins.
+Win condition: Escape the table first with a raw sheep.
 
-Sport: Craneball 
-Setup: This sport was traditionally played with man-crane-sized robots, but can be played with any fast-moving object bearing a heavy weight in an enclosed field. Players control gravity crane drones to move the heavy sandbags to previously marked locations, while outmaneuvering and dodging from the other team's attempts to knock them off of the apparatus' turntable. A team earns one point for every sandbag moved off of the apparatus; however, the sandbags mark locations by which 100 points can be scored, and how these sites can be scored is not revealed to players before the end of the game. It is revealed to the players before the game if the points are scored during the game.
-Points: Owning the 100 point site gives 1 point. Alternately, if a player detaches the heavy sandbag from the apparatus without returning it, both teams lose 1 point.
-Points are stolen by dragging a heavy sandbag off the apparatus and returning it to the score pile before the opponent's sandbag is placed on the apparatus.
-Points are exchanged when both cranes accidentally load the same sandbag.
-Win condition: First team with 100 points – or with most points when the allotted time expires – wins.
+Sport: Inuit Hockey
+Setup: The goals are hung over a frozen lake; players score points by hitting the ball into them with their pick-axe. This game is played for real in Alaska.
+Points: Like regular hockey, the ball is awarded to the team that scores. The losing team earns only 1 point.
+Win condition: Game ends after either an agreed-upon time limit or when one team scores 7 points. Win is awarded to the team with the most points.
 
-Sport: Uno
-Setup: As in traditional Card-Sharp, the game requires a day of planning to prepare. The planning group is awarded points. Points are also awarded for ramdom items found lying around the Knockwood office.
-Points: Players earn one point each time they spot an unusual happening. 
-Win condition: None - the entire day is a game.
+Sport: MontyBall
+Setup: The field is laid out with numbers representing additional players that can be recruited by a team. Teams of two play to have their "number" called first, and must recruit the additional player they apprehend before that number is called by the opposing team. Points are earned when the team has exceeded the fifteenth player (the "full Monty").
+Points: When a team holds a full Monty and did not get defeated, they score 2 points. If a team's leader is defeated, they lose all other points.
+Win condition: Team with the most points at the end of the game wins.
 
+There is also a JRR-style game called Selfish Flagship Pull, where red and blue teams split up plastic flamingo-bric-a-brac evenly, and the object of the game is to forcibly dismantle the guard posts of the enemy team in an effort to snatch enough of the loot to be able to return to base atop a priceless treasure-y barge as a show of hyperbolic consciousness entitled "Monkey Rodent Repella" with someone that may be of their own choosing but is later revealed to be a basaltic abberation made of trash and artists formerly associated with the private sector or a pawnbroker.
+Members then count how much they have. The blue team captain offering equal amount of money and then red captain can accept or reject. If or when the accept you observe shadows taken by the sun and shadows on the water, this is when guard submarine captains increase their output thereby making four shadows on the arnica ocean. When the barrage comes in and it's rigged, during the night time is when you know it's too slippery. The captain knows he's forced and goes over the border and scores.
+Rivalry is prime - $4.4%
+And in the event of protest, the fines are well established and long-winded, these are the following: Blue team has 5, Red has 4 and a half.
+Blue team has 6, Red team, 5.
 
-Sport: Rock or Chamoy (see also: coloured bean bag toss)
-Setup: Stones are placed randomly around a circle and points are awarded to players based on which stone they knock out of play. Points are also given out if a stone is knocked partially out of the circle and partially in it, or if the stone "bounces/rolls" out of play.
-Points: Each team takes part in two throws and on each throw captures a number of stones equal to what they scored on that throw. For every stone captured in this manner, that player will lose a point at the end of the game.
-Win condition: First team to lose all their points wins.
+The nature of the inflatable black box led to all sorts of more intentional sport and game variation. Players would introduce their own games by putting a coin on the ground and playing pass until the coin runs out. Often some sort of sporty obstacle would form, such as a cone-hole-cone path, or a bucked-up pile with an obligatory "mons pubis" as the opening to a swirly slide up to a giant pile of black box monte in the middle. The Teenage Public Pool created coats of arms for each month of the summer.
 
-Sport: Ballskee Ball
-Setup: Each team is given 5 balls and stands in the center of a square. Two "shot blockers" block the way from each team from their basket to their opponent's basket.
-Points: When a shot blocker steps in the path of any of the balls, it counts as two points for the offense.
-Win condition: When one team has 15 points, they win.
+Sport: Slide Soccer
+Setup: Two teams of 15 players face off on a blocked-off street. There are three circular goals, one for each team, peppered around the half-mile playing field.
+Points: Teams score 2 points when a soccer ball enters one of their goals. The ball must roll all the way through the goal's center circle in order to count.
+Win condition: First team to reach 10 points wins.
 
-Sport: Mangowar
-Setup: One or more teams face off with one or more Mangowars. A Mangowar is a staff resembling a trident, with a volleyball stuffed securely in its center or back half, made of "airwave" (milky string), which if broken upon impact, will render the Mangowar unplayable. Points are scored for breaking a Mangowar, for a losing team declaring a win, or when a team hits a member of the opposite team.
-Points: Each Mangowar shot is one point.
-Win condition: Any game can win, but some call the game a tie if neither team declares a win.
-A variation played in Canada involves putting a bottle of maple syrup in a hole.
+Sport: Settluminati
+Setup: At the start of the game, players are given a role be randomized using cards. Players have special powers that are only accessible when their card allows it.
+Points: Players gain points by enacting their role during the game. 
+Win condition: On a demographic in golf. Similar to Settluminati, the first team to reach a particular population level such as 100 points wins.
+
+Sport: Quidditch
+Setup: Players are typically divided into two teams of 7, using brooms or otherwise maneuverable long objects. The kindling basket is attached to a high point of the field and players attempt to grab kindling (pine cones) and attach them to their brooms. Players score by throwing the batting glove into a higher part of the field
+Points: Teams earn 1 point per pine cone on their broom above two.
+Win condition: Team with the most pine cones above 4 wins.

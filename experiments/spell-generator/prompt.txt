@@ -13,11 +13,6 @@ Element: Earth
 Incantation: "Mwasha-shu swoshi-su bindushi wan"
 Description: With both palms planted firmly on a dirt ground, the caster should repeat the incantation a number of times proportional to the depth and width of the stone wall they would like to conjure. While reciting, the caster should point their mind in the direction the wall should form and visualize its size.
 
-Spell: Teleportation
-Element: Space
-Incantation: "Ba-ru-su-shu swoshi-su juli-wan"
-Description: A caster should recite the incantation and concentrate on the desired destination. The caster should visualize the area around them fading away, and the new location taking its place. The caster should then imagine themselves fading away from their current location and reappearing at the new location.
-
 Spell: Frostbite
 Element: Water
 Incantation: "Kwita-machi-eo"

@@ -18,6 +18,6 @@ Points: Players are individually scored based on fulfilling their roles, rather 
 Win condition: All players must reveal their roles to each other at the end of the game. Players who fulfilled their roles will be awarded points. The player with the highest score wins "MVP" and the team with more points across all of its players wins.
 
 Sport: Banana Curling
-Setup: A "curling stone" (banana) is placed on a pebble, and teams alternate throwing tennis balls at the banana to knock it out of the "house" (constructed with buckets) and into the "hole" (a bucket of water). Points are scored when a team's ball is closest to the banana.
+Setup: A "curling stone" (banana) is balanced on a pebble, and teams alternate throwing tennis balls at the banana to knock it out of the "house" (constructed with buckets) and into the "hole" (a bucket of water). Points are scored when a team's ball is closest to the banana.
 Points: Each shot earns one point for the closest team to the banana.
 Win condition: First team to 5 points wins.

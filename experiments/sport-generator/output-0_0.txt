@@ -10,16 +10,6 @@ Points: The goal is to pull the other team's rope out of the ground.
 Win condition: First team to pull the other team's rope out of the ground wins.
 
 Sport: Tug of War
-Setup: Two teams of at least ten players each face off in a large field. Each team is given a rope, and the two teams pull on the rope until one team is pulled off the field.
-Points: The team that is pulled off the field loses one point.
-Win condition: First team to 21 points wins.
-
-Sport: Tug of War
-Setup: Two teams of at least ten players each face off in a field with a rope between them. The rope is marked with a line in the middle, and the teams must pull the rope across the line.
-Points: The team that pulls the rope across the line earns one point.
-Win condition: First team to 5 points wins.
-
-Sport: Tug of War
 Setup: Two teams of at least ten players each face off in a large field. Each team has a rope tied to a stake in the ground.
 Points: The goal is to pull the other team's rope out of the ground.
 Win condition: First team to pull the other team's rope out of the ground wins.
@@ -30,9 +20,9 @@ Points: The goal is to pull the other team's rope out of the ground.
 Win condition: First team to pull the other team's rope out of the ground wins.
 
 Sport: Tug of War
-Setup: Two teams of at least ten players each face off in a large field. Each team has a rope tied to a stake in the ground.
-Points: The goal is to pull the other team's rope out of the ground.
-Win condition: First team to pull the other team's rope out of the ground wins.
+Setup: Two teams of at least ten players each face off in a field with a rope between them. The rope is marked with a line in the middle, and each team must stay on their side of the line.
+Points: Players on each team must pull the rope toward their side of the line. The team that pulls the rope across the line wins.
+Win condition: First team to win three pulls wins.
 
 Sport: Tug of War
 Setup: Two teams of at least ten players each face off in a large field. Each team has a rope tied to a stake in the ground.
@@ -40,9 +30,19 @@ Points: The goal is to pull the other team's rope out of the ground.
 Win condition: First team to pull the other team's rope out of the ground wins.
 
 Sport: Tug of War
-Setup: Two teams of at least ten players each face off in a field with a rope between them. The rope is marked with a line in the middle, and the teams must pull the rope across the line.
-Points: The team that pulls the rope across the line earns one point.
-Win condition: First team to 5 points wins.
+Setup: Two teams of at least ten players each face off in a field with a rope between them. The rope is marked with a line in the middle, and each team must stay on their side of the line.
+Points: Players on each team must pull the rope toward their side of the line. The team that pulls the rope across the line wins.
+Win condition: First team to win three pulls wins.
+
+Sport: Tug of War
+Setup: Two teams of at least ten players each face off in a field with a rope between them. The rope is marked with a line in the middle, and each team must stay on their side of the line.
+Points: Players on each team must pull the rope toward their side of the line. The team that pulls the rope across the line wins.
+Win condition: First team to win three pulls wins.
+
+Sport: Tug of War
+Setup: Two teams of at least ten players each face off in a large field. Each team has a rope tied to a stake in the ground.
+Points: The goal is to pull the other team's rope out of the ground.
+Win condition: First team to pull the other team's rope out of the ground wins.
 
 Sport: Tug of War
 Setup: Two teams of at least ten players each face off in a large field. Each team has a rope tied to a stake in the ground.

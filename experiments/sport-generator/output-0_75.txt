@@ -1,54 +1,50 @@
 
-Sport: Snail Soccer
-Setup: Two teams of 5 players each face off in a small field. Each player is given a bag of snail food, and a small snail. They attempt to place the snail on the other team's half of the field and feed it their snail food. Points are scored when a snail has eaten snail food from a team's bag.
-Points: Each shot earns one point for the team whose snail is closest to the ball when it is scored.
+Sport: Hairball
+Setup: Teams of three players each grab a large hairball. Players must run with the hairball and hand it off to a teammate before crossing a finish line. The hairball must be completely visible at all times. The first team to finish the race wins.
+Points: If a player drops the hairball, his team loses a point.
 Win condition: First team to 5 points wins.
 
-Sport: Field Hockey
-Setup: Played in a large field, teams of seven attempt to get a ball in the opposing team's goal by passing the ball or by kicking it. Points are scored when a ball crosses the goal line.
-Points: A ball crossing the goal line earns one point.
-Win condition: First team to 4 points wins.
+Sport: Jello Wrestling
+Setup: Two players wrestle in a pool of water containing two large jello molds (or the equivalent in non-gelatinous substances). Points are awarded when a player falls out of the water, or touches the other player's body with a part of their body that is not gloved.
+Win condition: First player to 4 points wins.
 
-Sport: Target Toss
-Setup: Two teams stand at opposite ends of a field. A large, cylindrical balloon is suspended between the teams at about waist height.
-Points: Players try to toss a tennis ball through the balloon.
-Win condition: First team to 3 points wins.
+Sport: Pirate Soccer
+Setup: Teams of 8 face off on a soccer field, but only one team is allowed to be in the field at any time. Players on the field must try to pass the ball to each other, but if the ball touches the ground, the other team scores a point.
+Points: If a team in the field touches the ball, the other team scores a point.
+Win condition: First team to 10 points wins.
 
-Sport: Ballrace
-Setup: Two teams of at least ten players each start on opposite ends of a course with a large ball (about the size of a cantaloupe) in the middle.
-Points: The objective is to carry the ball to the end of the course, while still keeping the ball in the air. Players may not touch the ball with their hands. Players must throw the ball to teammates to pass it to the next player, who must catch it in mid-air. The ball can be passed by throwing it underhand or overhand, and it can be caught in any way.
-Win condition: First team to cross the finish line with the ball wins.
+Sport: Bean Bag Relay
+Setup: The playing field is marked out with tape and divided into lanes. Each lane contains a line of tape to mark the finish line. Teams start at one end of the field, each with a bean bag. Points are scored when the bean bag crosses the finish line.
+Points: Each bean bag is marked with a number corresponding to a point value. Teams earn points when their bean bags cross the finish line, with a maximum of 100 points per game.
+Points are worth:
+Win condition: First team to 100 points wins.
 
-Sport: Jai Alai
-Setup: Two players stand on either side of a "sport court", with two wicker baskets suspended on either side of the court, hanging at a height of roughly . Points are scored when the ball is placed in a basket.
-Points: Each basket is worth 1 point. If the ball lands in a basket, that team receives one point.
-Win condition: When one team has scored 15 points, the game is over.
-
-Sport: Ball Hockey
-Setup: Teams of two face off on a hockey rink, using only a ball.
-Points: Goals are scored when a team sends the ball into the opposing team's net.
-Win condition: The first team to score 7 points wins.
-
-Sport: Spikeball
-Setup: Teams of two players each try to keep a large ball in the air using a small bat.
-Points: If a team hits the ball so that it hits the ground on the opponent's side of the court, they earn one point.
+Sport: Seawolf
+Setup: Each team is given a rope and a large net. A large inflated ball is placed in the center of the field.
+Points: The object is to keep the ball in the air for as long as possible. Each time a team touches the ball, they must yell "Seawolf!" before touching it again. If they forget to yell "Seawolf!", the opposing team gains a point. If the ball touches the ground, the team that touched it last gains a point.
 Win condition: First team to 21 points wins.
 
-Sport: Rotisserie baseball
-Setup: Each team gets three outs per inning. The first team to score eight runs wins.
-Points: Each time a batter gets a hit, they earn one point.
-Win condition: First team to 8 runs wins.
+Sport: Whizzerball
+Setup: Teams play in a large circle, passing a ball around. Points are scored when a team throws the ball outside of the circle.
+Points: Each shot earns one point.
+Win condition: First team to 10 points wins.
 
-Sport: Laser Tag
-Setup: Two teams of at least 5 players each face off in a dark field, each equipped with a laser gun. The goal is to tag the other team members and then return to your base without being tagged. Points are earned by tagging other players.
-Points: Each time a player is tagged, they are "dead" for 20 seconds.
+Sport: Submarathon
+Setup: Two or more players face off in a field, and are given the task of getting as far away from each other as possible. The field is enclosed, and players are not allowed to leave the field. The first player to reach the goal wins.
+Points: The player with the most distance between them and their opponent at the end of the game wins.
+Win condition: First player to reach the goal wins.
+
+Sport: Ten-pin Bowls
+Setup: Teams are split up into two equal groups and placed at either end of a table. At the center of the table is a bowl with ten pins in a ring around it. Teams take turns bowling balls from a set distance toward the center of the table. Points are scored for knocking down the ten pins, with a bonus for knocking them all down.
+Points: Each ball earns one point for the team that knocked down the most pins.
+Win condition: First team to 21 points wins.
+
+Sport: Hay Horse Racing
+Setup: This sport is played on horseback, with riders sitting on a bale of hay. Riders try to keep their bale of hay from falling off their horse for the duration of the race. Points are scored when a rider's bale falls off his horse.
+Points: Each shot earns one point for the team whose bale falls off.
 Win condition: First team to 5 points wins.
 
-Sport: Momsball
-Setup: Teams are made up of ten players. Each team is made up of five moms, and one player that is not a mom. 
-Points: Players can be individually scored on their efforts.
-Win condition: The moms must survive the entire game without using any swear words, and must also prevent their non-mom teammate from swearing. The non-mom is also not allowed to talk to the moms during the game. If any of these rules are broken, the non-mom is ejected from the game and the team must play with one less player.
-Points: Players are scored based on individual efforts.
-Win condition: All players must survive the entire game without using any swear words, and must also prevent their non-mom teammate from swearing. The non-mom is also not allowed to talk to the moms during the game. If any of these rules are broken, the non-mom is ejected from the game and the team must play with one less player.
-Points: Each shot is worth one point, and the player with the lowest score at the end of the game wins.
-Win condition: First team to 5 points wins.
+Sport: Boccoball
+Setup: Two teams of 10 players each face off in a large field with three balls in play, trying to keep them in the air as long as possible.
+Points: When a ball touches the ground, the last team to touch it gains 1 point. If a ball goes out of bounds, the last team to touch it loses 1 point.
+Win condition: First team to 21 points wins.

@@ -1,50 +1,51 @@
 
-Sport: Bocce
-Setup: Two teams of at least three players each face off in a large field. Each team has a "bocce ball" (a tennis ball) and a "bocce target" (a bucket).
-Points: Players take turns throwing their bocce ball at their target. If the ball lands in the target, the team earns one point.
+Sport: Chickenball
+Setup: Two teams of five players each face off in a large field. Each team has a "home base" and a "goal base". A ball is placed in the center of the field, and players attempt to carry it to their goal base.
+Points: When a player is tagged with the ball, that player's team loses one point.
+Win condition: First team to 10 points wins.
+
+Sport: Jai Alai
+Setup: Players hold a long, flexible pole with a ball attached to the end. They then throw the ball at a target, attempting to get it as close to the center of the target as possible. Points are scored based on how close the ball is to the center of the target.
+Points: Each shot earns one point for the closest team to the center of the target.
 Win condition: First team to 21 points wins.
 
-Sport: Blindfolded Volleyball
-Setup: Two teams of five players each face off in a volleyball court. One player from each team is blindfolded, and must serve the ball.
+Sport: Spoons
+Setup: Two teams of five players each sit at opposite ends of a table. Each player is given a spoon and a ball.
+Points: Players attempt to bounce their ball into the other team's spoon. If a player's ball lands in an opponent's spoon, that player's team earns one point.
+Points: Each shot earns one point for the closest team to the banana.
+Win condition: First team to 5 points wins.
+
+Sport: Lumberjack
+Setup: Two teams of at least ten players each face off in a large field. Each team has a "lumberjack" (a player with a large stick) who attempts to knock the other team's lumberjack off of a platform. Points are scored when a team's lumberjack is knocked off of the platform.
+Points: Each shot earns one point for the team whose lumberjack is still on the platform.
+Win condition: First team to 5 points wins.
+
+Sport: Sledball
+Setup: Two teams of five players each face off in a large field. Each player is given a sled and a ball.
+Points: Players attempt to throw the ball into the opposing team's goal.
+Win condition: First team to 5 points wins.
+
+Sport: Bubble Soccer
+Setup: Players wear large inflatable bubbles over their heads and bodies, and try to score goals by running into each other.
+Points: Players are awarded points based on how many goals they score.
+Win condition: First team to 5 points wins.
+
+Sport: Dogball
+Setup: Two teams of at least ten players each face off in a large field. Each team has a large ball, and a small ball. The large ball is passed between players, and the small ball is thrown into the air and caught.
+Points: When a small ball is caught, the team that caught it earns one point.
+Win condition: First team to 21 points wins.
+
+Sport: Fireball
+Setup: Two teams of five players each face off in a large field. Each team has a large ball made of wood and a large bucket of water. The goal is to keep the ball in the air as long as possible by dousing it with water.
 Points: When a ball touches the ground, the last team to touch it gains 1 point. If a ball goes out of bounds, the last team to touch it loses 1 point.
 Win condition: First team to 21 points wins.
 
-Sport: Chickenball
-Setup: Two teams of at least ten players each face off in a large field. A ball is placed in the center of the field, and players attempt to grab it and bring it back to their team's goal.
-Points: When a player grabs the ball, they earn one point for their team.
-Win condition: First team to 5 points wins.
-
-Sport: Bocce
-Setup: Two teams of at least three players each face off in a field with two bocce balls. The balls are placed on opposite sides of the field, and players take turns throwing their balls as close to the other team's ball as possible.
-Points: Each ball that is closer to the other team's ball than the closest ball of the other team earns one point.
+Sport: Whack-a-mole
+Setup: Players are placed in a field with a large number of holes, each containing a small animal. Players attempt to whack the animals with a large mallet.
+Points: Each animal that is successfully hit is worth one point.
 Win condition: First team to 21 points wins.
 
-Sport: Water Polo
-Setup: Two teams of five players each compete in a pool of water. Players are not allowed to touch the bottom of the pool, and must remain in the water at all times.
-Points: Players score points by throwing the ball into the opposing team's goal.
-Win condition: First team to 5 points wins.
-
-Sport: Air Hockey
-Setup: Two teams of at least two players each face off on a table with a puck and a goal. The puck is moved by blowing on it, and the goal is scored by passing the puck through the goal.
-Points: When a team scores a goal, they earn one point.
-Win condition: First team to 5 points wins.
-
-Sport: Eggball
-Setup: Two teams of five players each face off in a large field. Each team has a large basket of eggs, and a large bucket of water.
-Points: When a player is hit by a ball, they must drop an egg into their bucket. If a player is hit by a ball while holding an egg, they must drop the egg and take a step back.
-Win condition: First team to drop all of their eggs wins.
-
-Sport: Shoe Golf
-Setup: A large field is divided into two halves by a large line. Each team is given a pair of shoes and a golf ball. The golf ball must be kept in the shoes at all times.
-Points: Players may only score points by hitting the ball into the other team's half of the field.
-Win condition: First team to 5 points wins.
-
-Sport: Muffin Toss
-Setup: Players are divided into two teams, and each team is given a "muffin" (a small, dense ball) and a "muffin hole" (a hole in the ground). Points are scored when a muffin is dropped into a muffin hole.
-Points: Each muffin dropped into a muffin hole earns one point.
-Win condition: First team to 5 points wins.
-
-Sport: Dogpile
-Setup: Two teams of at least ten players each stand on opposite sides of a field. A ball is placed in the center of the field, and players attempt to gain control of the ball by running into it.
-Points: Players are awarded points based on how many other players they are touching.
-Win condition: First team to 10 points wins.
+Sport: Rock Paper Scissors
+Setup: Two teams of at least ten players each face off in a large field. Each team has a "base" (a bucket) and a "goal" (a bucket of water).
+Points: Players on each team take turns throwing rock, paper, or scissors at the opposing team's base. If a player's throw beats the opposing team's throw, the opposing team's base is removed from the game.
+Win condition: First team to remove the opposing team's base from the field wins.
