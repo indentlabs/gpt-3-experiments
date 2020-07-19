@@ -49,7 +49,8 @@ Each experiment is isolated to its own folder in the /experiments folder with th
 |-----------------|-------------------------------------------------------------------------------------|
 | prompt.txt      | The input used in this experiment                                                   |
 | settings.yml    | Any settings overrides for this experiment (changing engines, stop-characters, etc) |
-| output-0_0.txt  | 10 outputs at temperature 0.0 (deterministic output). These are typically the same output repeated 10 times. |
+| output-0_0.txt  | 10 outputs at temperature 0.0 (deterministic output). 
+These are typically the same output repeated 10 times. |
 | output-0_25.txt | 10 outputs at temperature 0.25                                                      |
 | output-0_5.txt  | 10 outputs at temperature 0.5                                                       |
 | output-0_75.txt | 10 outputs at temperature 0.75                                                      |
@@ -61,7 +62,7 @@ Experiments can be run from the repo's root directory with the following command
 ruby experiment.rb name-of-experiment
 ```
 
-You will also need your OpenAI secret key set in the environment variable `OPENAI_SK`, as well as the `gpt3` gem installed.
+You will also need your OpenAI secret key set in the environment variable `OPENAI_SK`, as well as the [`gpt3`](https://github.com/indentlabs/gpt3-gem) gem installed.
 
 ## Disclaimer
 
