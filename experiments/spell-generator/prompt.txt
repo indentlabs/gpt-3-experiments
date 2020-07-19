@@ -1,4 +1,4 @@
-Spell: Fireball
+Spell: Fireblast
 Element: Fire
 Incantation: "Alla-hu fire-jon buu"
 Description: The caster makes a fist and holds it tightly with their other hand while chanting the incantation. Their fist will glow red-hot until it combusts into a ball of flame, which can then be "punched" to launch a single fireball. The fireball will explode when making contact with a solid object.
@@ -22,8 +22,3 @@ Spell: Frostbite
 Element: Water
 Incantation: "Kwita-machi-eo"
 Description: The caster must chant the incantation and then spit water from their mouth, which will immediately freeze into weightless ice shards upon contact with the air. To achieve sharp shards, water should be spit through teeth in small, separated streams.
-
-Spell: Antipode Spear
-Element: Water
-Incantation: "Az-shuga ani bab-sha sa-on"
-Description: The caster holds a hand on the surface of water while repeatedly mouthing the incantation. This will cause the water above where the hand is held to condense and form icicles, which may be used for impaling or stabbing. After a brief duration, the icicle will melt into superheated water which can cause burns before evaporating.
