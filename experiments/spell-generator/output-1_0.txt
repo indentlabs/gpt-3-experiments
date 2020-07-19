@@ -1,48 +1,43 @@
+The proliferation of the Wachanga culture is closely linked to the growth and development of the Malawian transportation industry and telecommunications systems.
 
-Spell: Shout of the Nightingale
-
-Spell: Dark Matter
-Element: Doom
-Incantation: "Trop aki fon shagkur du nugi shid netrup ru shugari merfar nuit mo yaim u fagi as ak-at ten kebabi"
-Temporal Distance: As long as it is dark
-Description: The user closes their eyes and spreads their arms wide after reciting the incantation. Once the light intensity of the surrounding environment is intangible, planets, stars, and galaxies can be perceived to be flowing from the edges of the darkness. This is the caster's cue that it is time for them to return to the otherworld. The proximity of the nearby realm then transforms into black matter, which can then be brought into the user's arms and can be manipulated as a weapon. Upon a "strike", the black matter will immediately dematerialize and, "hit" the space in front of the user. This has the effect of distorting the space-time immediately surrounding the "strike", enveloping everything into the otherworld.
-
-Spell: Silent Movement
-Incantation: "Shuu-shi-su
-"
-Description: This spell enables the caster to move about unnoticed. While it only works while the caster is on the move, some individuals may have advanced to a point where they are able to utilize this technique while standing still. In this case, a caster will be able to sneak up on an individual whispering, "Shuu-shi-su".
-
-Spell: Density Manipulation
-Element: Water
-Incantation: "Jamila-shu swoshi-su ti-di-man"
-Description: With both palms planted firmly on a solid block of ice, the caster should quickly recite the incantation while focusing on the desired density. The caster will begin to push their palms down into the ice to compress it, until it reaches the desired density. The caster should proceed to move their hands sideways and pry the ice block to dislodge it and raise it.
-
-Spell: Telekinesis
-Element: Space
-Incantation: "U-dali u-dali she-su"
-Description: After reciting the spell, the caster should imagine the object they're trying to levitate towards them. The caster should then use their mind to guide the object through the air. The object will then perform a straight trajectory towards the caster's line of thought. As the object comes closer to the caster, the object will naturally begin to descend, and continue to do so until passing through the caster's line of thought to deliver itself to the caster's grasp. As in all casting methods, a complete focus is required for this spell to work most reliably.
-
-Spell: Healing Hands
-Element: Cosmic
-Incantation: n/a
-Description: The caster places her hands over a subject in need of healing, recites the spell and provides mental images of the body's functions so she can feel the body as a system and attempt to balance the overall flow. This spell is mainly used to provide overall maintenance and minor restorations for both organic and synthetic lifeforms.
-
-Spell: Argonaut's Sails
-Element: Water
-Incantation: ""
-Description: The caster hums the incantation and then pours water into their cupped hands, from there, they have to see the water vaporize into the air. If it is successful, the incantation must be repeated until the formation of Argonaut's Sails takes form. These sails can be stored in a pocket and easily summoned during transportation or moving. The caster can rehearse evocation gestures so they can execute the gesture without incantation for a short duration 
-
-Spell: Fortress Wall
+Spell: Rock Slide
 Element: Earth
-Incantation: "Dan-ha-ri-na-hen"
-Description: Using quick twitches and arm motions, the caster summons a wave of dirt that can be used to create a wall around people and objects to shield them from danger.
+Incantation: "Nda-yah-da n-do-wu-wan mu-ah-be-ok"
+Description:" The caster puts one finger from each hand on the ground and then pulls their hands inuvlightly away from each other as they chant the incantation. They can direct the effect by thrusting their hands further in the direction the rocks should move. One might also reproduce a specific object, name or memory by guiding the rocks around it.
 
-Spell: Healing
+Spell: Bezoar
+Element: Earth
+Incantation: "Page 77, C-Section, volume 48, B-182"
+Description: The incantation is actually a prophecy that made by one of the Founder Magicians during a lost battle. The last part of the incantation is his desire to drink juice. After reciting all but the last part of the prophecy the caster must swallow and momentarily hold their breath before finally vocalizing the prophecy's end (i.e. "Juice"). After this they should exhale and then inhale the Final Result Juice.
+
+Spell: Skullmolt
+Element: Dark
+Incantation: "Gwatsu-wa"
+Description: Smash the target's head until it comes apart like sugru, then reassemble shards into a humanoid skull as large as the target. It possesses significant strength and stamina despite its physical weakness.
+
+Spell: Minor Green Dealing
+Element: Plant or Animal
+Incantation: "Stixis trickas umbiwa exiamus estmorrow"
+Description: Chant the incantation to turn an ordinary, naturally-sprouting plant into a carnivorous plant. The plant acts like a mouth with extending vines and darts from its leaves and vines. The more the caster concentrates, the fewer the vines and darts appear in each plant.
+
+Spell: Dig
+
+Spell: Blinding Ray
+Element: Cosmic
+Incantation: "Saya-ras gah-su"
+Description: An experienced magician type can concentrate their mind and thoughts to conjure and project a beam of energy from their outstretched fingers. The beam can be made to spin at a rapid speed, violently enough to create a small twister. The twister can be used to throw objects to pierce land and water based targets from a distance, or to distract an opponent by making patterns.
+
+Spell: Absorb
 Element: Water
-Incantation: "Homu awyu keishimu ioni shaga su"
-Description: Chanting this incantation will pace the flow of bio- and psyenergy at the target body part to heal wounds faster. Because it encourages the body's natural healing process, this incantation cannot be used to heal limbs severed from the torso, or portions of flesh afflicted with petrification. This can, however, heal burns and other scars, if the caster is able to maintain proper proximity.
+Incantation: "Dorobosa, morobosa"
+Description: After preparing a large receptacle, the caster may channel conjured water into the bin to be contained. The water is stored in its form, but will begin casting a one-foot dome somewhere within a 50-foot radius over the location it's being stored. This dome's water is then "absorbable" by casting a spell of similar ability onto it. This water screens a substantial amount of the scrying visual effects, such as EMP Lathes, but will rot away at good magic items. As long as the dome is stable, it will continue to remain above its location.
 
-Spell: Seduction
-Element: Wind
-Incantation: "Soy-jin sou ba-jou maji"
-Description: While chanting the incantation the caster will blow air upwards in a forceful gust which will surround the intended target. This gust is then enchanted to be irresistible and will slowly begin spreading towards its target.
+Spell: Broom Flight
+Element: Dust
+Incantation: "Fu-na-shi, ku-na-shi, ri-na-shi"
+Description: In order to achieve flight, the caster must recite the incantation while a stick of straw is held above a person's head. The stick of straw must be swung in a circular motion while the spell is recited, and the caster can then mount the broom like a horse would mount a horse, by kicking off their feet and having the broom support their weight. The faster the caster recites the incantation, the faster the broom will move. 
+
+Spell: Rain
+Element: Fire
+Incantation: "Amsa-adam ma-ia"
+Description: The caster should hold their palm above their head with one hand while they chant and focus on the clouds above. All will become terribly still as they repeat the incantation while slowly moving their outstretched hand across the clouds' surface for a minute, until silent raindrops will begin to fall.

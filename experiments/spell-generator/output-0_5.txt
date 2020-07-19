@@ -1,49 +1,49 @@
 
-Spell: Wall of Water
-Element: Water
-Incantation: "Mwasha-shu swoshi-su"
-Description: The caster should repeat the incantation while simultaneously moving their hands through the air in a circular motion. The caster should then point their hands towards the intended direction of the wall of water and visualize the wall forming. The caster may then proceed to manipulate the wall in any way they choose.
-
-Spell: Noxious Mist
-Element: Water
-Incantation: "Dul-ba-ru-su swoshi-su bab-sha-on"
-Description: The caster places their hands together and chants the incantation. A small cloud of poisonous gas will form in front of the caster's hands.
-
-Spell: Acid
-Element: Water
-Incantation: "Sha-su-ki shi-ku"
-Description: The caster must concentrate on the desired location of the acid, then repeat the incantation. The caster should then visualize the acid being formed and poured into a container. The acid will then fill the container and dissolve any material it comes into contact with.
-
-Spell: Transformation
-Element: Earth
-Incantation: "Gududu-ru gududu-ru"
-Description: The caster holds a hand on the surface of dirt while repeatedly mouthing the incantation. This will cause the dirt to grow and form a rock, which may be used for impaling or stabbing. After a brief duration, the rock will crumble into dust which can cause suffocation before evaporating.
-
-Spell: Earthquake
-Element: Earth
-Incantation: "Kon-shin-za-shu swoshi-su"
-Description: The caster must be in contact with the ground to invoke the incantation. The caster must then visualize the earth beneath them cracking and crumbling before violently erupting upwards. The resulting fissures will release an enormous amount of energy and cause the earth to shake violently.
-
-Spell: Summoning
+Spell: Dimensional Rift
 Element: None
-Incantation: "Su-mon kwiza-su"
-Description: The caster must perform a series of hand gestures and chant the incantation to conjure a creature. The incantation is not specific to a particular creature, but rather, a particular type of creature. This incantation is most commonly used to summon spirits, such as a ghost or an astral body.
+Incantation: "Dwa-kwa-moo"
+Description: A skilled celestial magician can create a rift in the fabric of space by using their hands to trace a circular path in the air. While the rift is not large enough to allow anything to pass through, it can be used to transport things from one location to another.
 
-Spell: Earthquake
-Element: Earth
-Incantation: "I-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-ru-bu-su-su-
+Spell: Blinding Light
+Element: Light
+Incantation: "Bin-jon dai-ro"
+Description: The caster points their finger at the target and chants the incantation. A small orb of light will form on their fingertip and will gradually grow in size until it explodes into a blinding flash of light.
 
-Spell: Heal
+Spell: Healing
 Element: Water
-Incantation: "Gwi-shin kwan-ja"
-Description: The caster must place their hand on the target's body and chant the incantation. This will cause the target's body to be enveloped in a blue aura. The caster must then concentrate on the target's body and visualize the area in need of healing. This will cause the target's body to repair itself.
+Incantation: "Sai-i-tai"
+Description: The caster should chant the incantation and then lightly touch the wound of the person they wish to heal. This will cause the wound to heal rapidly.
 
-Spell: Solidification
-Element: Water
-Incantation: "A-mu-la-ma-ru-su juli-wan"
-Description: The caster should chant the incantation and focus on the water around them. The water will gradually begin to solidify and harden, eventually becoming a stone-like substance.
+Spell: Fireball
+Element: Fire
+Incantation: "Buurin-shu"
+Description: The caster must hold their hand out with their palm facing upwards and repeat the incantation. Their hand will begin to glow red-hot and will then ignite into a ball of flame, which can then be "thrown" to launch a single fireball.
 
-Spell: Windstorm
+Spell: Shockwave
 Element: Air
-Incantation: "Ba-ru-su-shu swoshi-su sha-jon"
-Description: The caster should recite the incantation and then make a sweeping motion with their arm, which will cause a gust of wind to be emitted from their fingertips. The gust will be capable of knocking down a human-sized target.
+Incantation: "Wu-ji-wo-shi"
+Description: The caster raises their hand and summons a large gust of wind that is able to knock back most enemies.
+
+Spell: Speed
+Element: Wind
+Incantation: "Dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-yu-dai-
+
+Spell: Flame Blast
+Element: Fire
+Incantation: "Bwanda-yama-yamu"
+Description: The caster should clench their fist and hold it to their chest while chanting the incantation. The caster's fist will then glow with fire and can be "punched" to launch a ball of flame that will explode on contact with a solid object.
+
+Spell: Light
+Element: Light
+Incantation: "Kami-sama no me-ra-ka-na-shi-i"
+Description: The caster must recite the incantation and then hold their hand in front of them. The hand will glow brightly and illuminate the area around it.
+
+Spell: Time Stop
+Element: Time
+Incantation: "Naga-ya-yara-yara"
+Description: The caster must chant the incantation while performing a hand gesture that will freeze time for everyone but themselves.
+
+Spell: Fireball
+Element: Fire
+Incantation: "Agni-koma"
+Description: The caster must chant the incantation while holding their hands out in front of them. The caster's hands will then begin to glow red-hot, which can then be "punched" to launch a single fireball. The fireball will explode when making contact with a solid object.
