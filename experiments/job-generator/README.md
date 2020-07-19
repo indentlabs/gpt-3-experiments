@@ -10,10 +10,10 @@ Users are able to create random jobs and occupations to easily fill out their wo
 
 | Temperature | Remarks |
 |-------------|---------|
-| 0.0         |  |
-| 0.25        |  |
-| 0.50        |  |
-| 0.75        |  |
-| 1.00        |  |
+| 0.0         | Not super great quality, but a passable way to generate a single job at a time. |
+| 0.25        | Generates reasonable jobs, requirements, and descriptions. |
+| 0.50        | Not a lot of variety in domain (mostly all fantasy-esque jobs), but otherwise high consistency and quality. Might perform better with individual users' existing jobs as a prompt. |
+| 0.75        | A lot more variety but [format bucking](https://github.com/indentlabs/gpt-3-experiments/blob/master/experiments/job-generator/output-0_75.txt#L40) makes this temperature unusable for production without some changes. |
+| 1.00        | Unusable. |
 
-Recommended temperature for our use-case: 
+Recommended temperature for our use-case: 0.50

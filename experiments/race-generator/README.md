@@ -10,10 +10,10 @@ Users are able to create random races to easily fill out their world, saved unde
 
 | Temperature | Remarks |
 |-------------|---------|
-| 0.0         |  |
-| 0.25        |  |
-| 0.50        |  |
-| 0.75        |  |
-| 1.00        |  |
+| 0.0         | Usable for generating single races at a time. |
+| 0.25        | Some races are taken from existing lore, but descriptions are very good. We need to either adjust the prompt for more novelness or have some kind of copyright check in place before using this low temperature in production. |
+| 0.50        | Better quality. Lots of variance. Occasionally references existing creatures from lore. |
+| 0.75        | Great quality. Great variance. Seems usable. |
+| 1.00        | Unusable. Too much format bucking. |
 
-Recommended temperature for our use-case: 
+Recommended temperature for our use-case: 0.75
